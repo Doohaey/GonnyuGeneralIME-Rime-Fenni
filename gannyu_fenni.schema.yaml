@@ -2,7 +2,7 @@
 schema:
   schema_id: gannyu_fenni
   name: 赣语－分宜
-  version: "0.2.4-pre.4"
+  version: "0.2.4-pre.5"
   author:
     - GannyuInputMethod contributors
   description: |
