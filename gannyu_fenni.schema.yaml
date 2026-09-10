@@ -2,7 +2,7 @@
 schema:
   schema_id: gannyu_fenni
   name: 赣语－分宜
-  version: "0.2.4-pre.5"
+  version: "0.2.4-pre.6"
   author:
     - GannyuInputMethod contributors
   description: |
@@ -15,6 +15,7 @@ switches:
 
 engine:
   processors:
+    - lua_processor@*gannyu_default_processor
     - ascii_composer
     - recognizer
     - key_binder
@@ -31,6 +32,7 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
+    - lua_translator@*gannyu_default_translator
     - script_translator
   filters:
     - lua_filter@*gannyu_filter
