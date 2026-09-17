@@ -2,7 +2,7 @@
 schema:
   schema_id: gannyu_fenni
   name: 赣语－分宜
-  version: "0.2.4-pre.17"
+  version: "1.0.0"
   author:
     - GannyuInputMethod contributors
   description: |
@@ -33,7 +33,9 @@ engine:
     - punct_translator
     - script_translator
   filters:
-    - lua_filter@*gannyu_filter
+    - lua_filter@*gannyu_annotation_filter
+    - lua_filter@*gannyu_single_char_filter
+    - lua_filter@*gannyu_relation_filter
     - uniquifier
 
 speller:
@@ -532,6 +534,7 @@ speller:
     - derive/^Gzyui$/Fzyi/
     - xform/^G//
     - xform/^F//
+    - abbrev/^([a-z]).+$/$1/
 
 translator:
   dictionary: gannyu_fenni
