@@ -12,13 +12,13 @@
     },
     {
       "path": "gannyu_fenni.dict.yaml",
-      "sha256": "2ac036c88cff9884f6253c989d676fe8629fcaeb9a522b8495b8f264bf226cdd",
+      "sha256": "ae73dba98ae11dfcbc3ce15a626284abc4f65bd3fbf206962eb6b7a54c60deb1",
       "size": 19059967
     },
     {
       "path": "gannyu_fenni.schema.yaml",
-      "sha256": "3a6e543ed10feb8560062b2a068b968b965e47c3234e3b7027cccae6d4498a6e",
-      "size": 14493
+      "sha256": "da02b8bee5de3de3f348f4cdaba9dad9291e3219b141b827e7f6fa04c4888d44",
+      "size": 14670
     },
     {
       "path": "lua/gannyu_annotation_filter.lua",
@@ -41,7 +41,7 @@
       "size": 1566
     }
   ],
-  "product_version": "1.0.0",
+  "product_version": "1.0.1",
   "regions": [
     {
       "id": "fenni",
@@ -49,5 +49,5 @@
       "schema_id": "gannyu_fenni"
     }
   ],
-  "schema_version": "1.0.0"
+  "schema_version": "1.0.1"
 }
