@@ -2,7 +2,7 @@
 schema:
   schema_id: gannyu_fenni
   name: 赣语－分宜
-  version: "1.2.0"
+  version: "1.2.1"
   author:
     - GannyuInputMethod contributors
   description: |
@@ -88,16 +88,8 @@ speller:
     - derive/^Gjyun$/Fjyuen/
     - derive/^Gjyun$/Fjyueng/
     - derive/^Gjyun$/Fjyuên/
-    - derive/^Gjyung$/Fjuen/
-    - derive/^Gjyung$/Fjueng/
     - fuzz/^Gjyung$/Fjung/
-    - derive/^Gjyung$/Fjven/
-    - derive/^Gjyung$/Fjveng/
     - derive/^Gjyung$/Fjvng/
-    - derive/^Gjyung$/Fjyuen/
-    - derive/^Gjyung$/Fjyueng/
-    - derive/^Gjyung$/Fjyun/
-    - derive/^Gjyung$/Fjyuên/
     - derive/^Gkau$/Fkao/
     - derive/^Gkien$/Fken/
     - fuzz/^Gkieu$/Fkeu/
@@ -197,9 +189,6 @@ speller:
     - derive/^Gwong$/Fuong/
     - derive/^Gwu$/Fu/
     - derive/^Gwung$/Fung/
-    - derive/^Gxun$/Fxuen/
-    - derive/^Gxun$/Fxuên/
-    - derive/^Gxuon$/Fxuen/
     - fuzz/^Gxyu$/Fxu/
     - derive/^Gxyu$/Fxv/
     - derive/^Gxyue$/Fxue/
@@ -242,6 +231,7 @@ speller:
     - derive/^Gyue$/Fue/
     - derive/^Gyue$/Fve/
     - derive/^Gyun$/Fiun/
+    - derive/^Gyung$/Fiung/
     - derive/^Gyuon$/Fuen/
     - derive/^Gyuon$/Fueng/
     - derive/^Gyuon$/Fven/
