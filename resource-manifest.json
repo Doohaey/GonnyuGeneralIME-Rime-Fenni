@@ -1,14 +1,14 @@
 {
   "files": [
     {
+      "path": "LICENSE",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "size": 35149
+    },
+    {
       "path": "default.custom.yaml",
       "sha256": "674f0b31c3484dfabbdcd4e04faaeeddcb0fc71f1dfd347d88201a65db3a4d1c",
       "size": 51
-    },
-    {
-      "path": "default.yaml",
-      "sha256": "cdd8405bcda7ed0ded92ef2264f16a275ce2def0e1cfcd98a1494ec140e71cc6",
-      "size": 583
     },
     {
       "path": "gannyu_fenni.dict.yaml",
