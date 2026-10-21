@@ -3,7 +3,7 @@
 
 ---
 name: gannyu_fenni
-version: "1.2.2"
+version: "1.2.3"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -187769,6 +187769,8 @@ use_preset_vocabulary: false
 嗫嚅	Gze ru	161
 嗫嚅	nie Glu	161
 嗫嚅	nie ru	161
+嗰	Ggo	150000
+嗰	ge	150000
 嗷	Gngau	30000
 嗷	ao	30000
 嗷嗷	Gngau Gngau	56
@@ -421337,6 +421339,10 @@ use_preset_vocabulary: false
 渠县	Ggie xian	8
 渠县	qu Gxon	8
 渠县	qu xian	8
+渠嗰	Ggie Ggo	150000
+渠嗰	Ggie ge	150000
+渠嗰	qu Ggo	150000
+渠嗰	qu ge	150000
 渠江	Ggie Ggong	14
 渠江	Ggie jiang	14
 渠江	qu Ggong	14
@@ -421357,10 +421363,6 @@ use_preset_vocabulary: false
 渠首	Ggie shou	13
 渠首	qu Gseu	13
 渠首	qu shou	13
-渠𠮶	Ggie Ggo	150000
-渠𠮶	Ggie 𠮶	150000
-渠𠮶	qu Ggo	150000
-渠𠮶	qu 𠮶	150000
 渡	Gtu	30000
 渡	du	30000
 渡假	Gtu Gga	10
@@ -502599,7 +502601,11 @@ use_preset_vocabulary: false
 筠	Gcen	12000
 筠	Gsen	3000
 筠	Gyin	2000
+筠	Gyun	100000
 筠	yun	12000
+筠阳	Gyun Gyong	100000
+筠阳	Gyun yang	100000
+筠阳	yun yang	100000
 筮	Gsi	30000
 筮	shi	30000
 筱	Gdie	2400
@@ -676303,8 +676309,6 @@ use_preset_vocabulary: false
 龠	yue	12000
 𠞭	Gleu	30000
 𠞭	lou	30000
-𠮶	Ggo	150000
-𠮶	𠮶	150000
 𪲛	Gji	3000
 𪲛	Gxi	12000
 𪲛	𪲛	12000

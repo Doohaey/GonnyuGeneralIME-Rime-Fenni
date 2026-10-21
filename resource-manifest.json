@@ -12,12 +12,12 @@
     },
     {
       "path": "gannyu_fenni.dict.yaml",
-      "sha256": "74ab83bce1e6a021c6a5ed4ab708035634422936239d6b7e501186b2c339a316",
-      "size": 19063244
+      "sha256": "5ac6c490313bceb518b2918d7ee19185383096d7fc2ba387f2ba67d8a3912f49",
+      "size": 19063320
     },
     {
       "path": "gannyu_fenni.schema.yaml",
-      "sha256": "e8677ba2f5cf4c3070ef49b72a3f05c22150cfc536c30b9fa9a614671ba093ed",
+      "sha256": "d5878a9a23dda3fe642f6bf016bccfdcd47cc1f21aa7147c9614c88edf55284e",
       "size": 12816
     },
     {
@@ -37,13 +37,13 @@
     },
     {
       "path": "lua/gannyu_fenni_annotations.bin",
-      "sha256": "46e68c223748d6fc09e4b2b086905749163431272da4063696d8aeea5c8fcb6a",
-      "size": 4192644
+      "sha256": "eb19c93573908a4d4010f9a064d9d46f27267ac0c8023a0ded121eca94ceae36",
+      "size": 4192678
     },
     {
       "path": "lua/gannyu_fenni_data.lua",
-      "sha256": "117df1fa9d1c6f5eebda091237baad910fd62bfb53c06e4b4aff69b81ff785ff",
-      "size": 245080
+      "sha256": "2b6062f6a7a8ad8281fa924a494851de1c3568a6c7bac6d3c859716fd4afdd0b",
+      "size": 245079
     },
     {
       "path": "lua/gannyu_relation_filter.lua",
@@ -56,7 +56,7 @@
       "size": 1579
     }
   ],
-  "product_version": "1.2.2",
+  "product_version": "1.2.3",
   "regions": [
     {
       "id": "fenni",
@@ -64,5 +64,5 @@
       "schema_id": "gannyu_fenni"
     }
   ],
-  "schema_version": "1.2.2"
+  "schema_version": "1.2.3"
 }
