@@ -1,4 +1,10 @@
 return {
+ synonyms = {
+
+ },
+ synonym_candidates = {
+
+ },
  annotations = require("gannyu_annotation_store").open("gannyu_fenni"),
  readings = {
   ["㔶"] = "kong",

@@ -1,0 +1,35 @@
+local M = {}
+
+local function supported(env)
+  local schema = env.engine and env.engine.schema
+  if not schema or not schema.config then return true end
+  local switches = schema.config:get_list("switches")
+  if not switches then return false end
+  for index = 0, switches.size - 1 do
+    if schema.config:get_string("switches/@" .. index .. "/name") == "gannyu_no_annotations" then
+      return true
+    end
+  end
+  return false
+end
+
+function M.enabled(env, name)
+  local context = supported(env) and env.engine and env.engine.context
+  return not context or not context:get_option("gannyu_no_" .. name)
+end
+
+function M.names(env)
+  if not supported(env) then return env.engine.schema.schema_id, "" end
+  local context = env.engine and env.engine.context
+  local mode = context and context:get_option("gannyu_new") and "new"
+    or context and context:get_option("gannyu_old") and "old" or "both"
+  local relations = M.enabled(env, "relations")
+  local dictionary = mode == "both" and relations and "" or "_" .. mode .. (relations and "_rel" or "_norel")
+  local full = M.enabled(env, "fuzzy") and M.enabled(env, "fuzzy_rules")
+  local mandarin = M.enabled(env, "fuzzy") and M.enabled(env, "mandarin")
+  local prism = full and mandarin and "" or (full and "_full" or "_special") .. (mandarin and "_mix" or "_gan")
+  local wenbai = M.enabled(env, "fuzzy") and M.enabled(env, "wenbai")
+  return env.engine.schema.schema_id .. dictionary, dictionary .. prism .. (wenbai and "" or "_nowenbai")
+end
+
+return M

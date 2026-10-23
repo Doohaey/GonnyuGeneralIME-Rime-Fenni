@@ -19,7 +19,7 @@ end
 local M = {}
 
 function M.func(input, env)
-  local data = env.data
+  local data = require("gannyu_data_lifecycle").current(env)
   local next_candidate, state = input:iter()
   local anchor = next_candidate(state)
   if not anchor then

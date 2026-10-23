@@ -2,7 +2,55 @@
 schema:
   schema_id: gannyu_fenni
   name: 赣语－分宜
-  version: "1.2.3"
+  version: "1.2.4"
+  dependencies:
+    - gannyu_fenni_nowenbai
+    - gannyu_fenni_full_gan
+    - gannyu_fenni_full_gan_nowenbai
+    - gannyu_fenni_special_mix
+    - gannyu_fenni_special_mix_nowenbai
+    - gannyu_fenni_special_gan
+    - gannyu_fenni_special_gan_nowenbai
+    - gannyu_fenni_both_norel
+    - gannyu_fenni_both_norel_nowenbai
+    - gannyu_fenni_both_norel_full_gan
+    - gannyu_fenni_both_norel_full_gan_nowenbai
+    - gannyu_fenni_both_norel_special_mix
+    - gannyu_fenni_both_norel_special_mix_nowenbai
+    - gannyu_fenni_both_norel_special_gan
+    - gannyu_fenni_both_norel_special_gan_nowenbai
+    - gannyu_fenni_new_rel
+    - gannyu_fenni_new_rel_nowenbai
+    - gannyu_fenni_new_rel_full_gan
+    - gannyu_fenni_new_rel_full_gan_nowenbai
+    - gannyu_fenni_new_rel_special_mix
+    - gannyu_fenni_new_rel_special_mix_nowenbai
+    - gannyu_fenni_new_rel_special_gan
+    - gannyu_fenni_new_rel_special_gan_nowenbai
+    - gannyu_fenni_new_norel
+    - gannyu_fenni_new_norel_nowenbai
+    - gannyu_fenni_new_norel_full_gan
+    - gannyu_fenni_new_norel_full_gan_nowenbai
+    - gannyu_fenni_new_norel_special_mix
+    - gannyu_fenni_new_norel_special_mix_nowenbai
+    - gannyu_fenni_new_norel_special_gan
+    - gannyu_fenni_new_norel_special_gan_nowenbai
+    - gannyu_fenni_old_rel
+    - gannyu_fenni_old_rel_nowenbai
+    - gannyu_fenni_old_rel_full_gan
+    - gannyu_fenni_old_rel_full_gan_nowenbai
+    - gannyu_fenni_old_rel_special_mix
+    - gannyu_fenni_old_rel_special_mix_nowenbai
+    - gannyu_fenni_old_rel_special_gan
+    - gannyu_fenni_old_rel_special_gan_nowenbai
+    - gannyu_fenni_old_norel
+    - gannyu_fenni_old_norel_nowenbai
+    - gannyu_fenni_old_norel_full_gan
+    - gannyu_fenni_old_norel_full_gan_nowenbai
+    - gannyu_fenni_old_norel_special_mix
+    - gannyu_fenni_old_norel_special_mix_nowenbai
+    - gannyu_fenni_old_norel_special_gan
+    - gannyu_fenni_old_norel_special_gan_nowenbai
   author:
     - GannyuInputMethod contributors
   description: |
@@ -12,6 +60,22 @@ switches:
   - name: ascii_mode
     reset: 0
     states: [赣语－分宜, 西]
+  - name: gannyu_no_annotations
+    states: [副标题开, 副标题关]
+  - name: gannyu_no_relations
+    states: [赣普连带开, 赣普连带关]
+  - name: gannyu_no_synonyms
+    states: [同义词连带开, 同义词连带关]
+  - name: gannyu_no_fuzzy
+    states: [模糊匹配开, 模糊匹配关]
+  - name: gannyu_no_mandarin
+    states: ["  普拼兼容开", "  普拼兼容关"]
+  - name: gannyu_no_wenbai
+    states: ["  文白匹配开", "  文白匹配关"]
+  - name: gannyu_no_fuzzy_rules
+    states: ["  其他模糊开", "  其他模糊关"]
+  - options: [gannyu_both, gannyu_new, gannyu_old]
+    states: [新老兼有, 新派, 老派]
 
 engine:
   processors:
@@ -31,17 +95,18 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
-    - script_translator
+    - lua_translator@*gannyu_options_translator
   filters:
-    - lua_filter@*gannyu_annotation_filter
     - lua_filter@*gannyu_single_char_filter
     - lua_filter@*gannyu_relation_filter
+    - lua_filter@*gannyu_annotation_filter
     - uniquifier
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
   algebra:
+    - xform/^W/G/
     - derive/^Gau$/Fao/
     - derive/^Gbau$/Fbao/
     - derive/^Gbe$/Fbir/
@@ -469,6 +534,7 @@ translator:
   enable_sentence: true
   enable_completion: true
   spelling_hints: 8
+  prism: gannyu_fenni
 
 menu:
   page_size: 9

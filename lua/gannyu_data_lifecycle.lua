@@ -1,6 +1,18 @@
 local users = {}
 local M = {}
 
+function M.current(env)
+  if not env.engine then return env.data end
+  local name = require("gannyu_input_options").names(env) .. "_data"
+  if name ~= env.data_name then
+    M.fini(env)
+    local data = require(name)
+    users[name] = (users[name] or 0) + 1
+    env.data_name, env.data = name, data
+  end
+  return env.data
+end
+
 function M.init(env)
   local name = env.engine.schema.schema_id .. "_data"
   local data = require(name)

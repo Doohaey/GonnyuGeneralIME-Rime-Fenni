@@ -1,3 +1,14 @@
 patch:
+  switcher/save_options/+:
+    - gannyu_no_annotations
+    - gannyu_no_relations
+    - gannyu_no_synonyms
+    - gannyu_no_fuzzy
+    - gannyu_no_mandarin
+    - gannyu_no_wenbai
+    - gannyu_no_fuzzy_rules
+    - gannyu_both
+    - gannyu_new
+    - gannyu_old
   schema_list/+:
     - schema: gannyu_fenni
