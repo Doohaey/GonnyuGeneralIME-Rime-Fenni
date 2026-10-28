@@ -22431,14 +22431,6 @@ use_preset_vocabulary: false
 不周	Gbei zhou	60
 不周	bu Gzeu	60
 不周	bu zhou	60
-不周延	Gbei Gzeu Gyen	17
-不周延	Gbei Gzeu yan	17
-不周延	Gbei zhou Gyen	17
-不周延	Gbei zhou yan	17
-不周延	bu Gzeu Gyen	17
-不周延	bu Gzeu yan	17
-不周延	bu zhou Gyen	17
-不周延	bu zhou yan	17
 不咎既往	Gbei Ggau Gji Gwong	15
 不咎既往	Gbei Ggau Gji wang	15
 不咎既往	Gbei jiu Gji Gwong	15
@@ -59388,9 +59380,6 @@ use_preset_vocabulary: false
 于晋阳	Gyu Gjin Gyong	8
 于晋阳	Gyu Gjin yang	8
 于晋阳	yu jin yang	8
-于本周	Gyu Gben Gzeu	16
-于本周	Gyu Gben zhou	16
-于本周	yu ben zhou	16
 于权宜	Gyu Gqon Gni	16
 于权宜	Gyu Gqon yi	16
 于权宜	Gyu quan Gni	16
@@ -79522,11 +79511,6 @@ use_preset_vocabulary: false
 伯克霍	bo Gkie huo	6
 伯克霍	bo ke Gfo	6
 伯克霍	bo ke huo	6
-伯刘孔	Gbe Gliu Gkung	7
-伯刘孔	Gbe Gliu kong	7
-伯刘孔	bo Gliu Gkung	7
-伯刘孔	bo Gliu kong	7
-伯刘孔	bo liu kong	7
 伯利克	Gbe Gli Gkie	32
 伯利克	Gbe Gli ke	32
 伯利克	bo Gli Gkie	32
@@ -95142,14 +95126,6 @@ use_preset_vocabulary: false
 克罗齐	ke Glo Gqi	7
 克罗齐	ke luo Gqi	7
 克罗齐	ke luo qi	7
-克耳孙	Gkie Ge Gsen	9
-克耳孙	Gkie Ge sun	9
-克耳孙	Gkie er Gsen	9
-克耳孙	Gkie er sun	9
-克耳孙	ke Ge Gsen	9
-克耳孙	ke Ge sun	9
-克耳孙	ke er Gsen	9
-克耳孙	ke er sun	9
 克莱	Gkie Gloi	17
 克莱	Gkie lai	17
 克莱	ke Gloi	17
@@ -101816,22 +101792,6 @@ use_preset_vocabulary: false
 公孙姑娘	gong sun Ggu Gniong	14
 公孙姑娘	gong sun Ggu niang	14
 公孙姑娘	gong sun gu niang	14
-公孙康	Ggung Gsen Gkong	11
-公孙康	Ggung Gsen kang	11
-公孙康	Ggung sun Gkong	11
-公孙康	Ggung sun kang	11
-公孙康	gong Gsen Gkong	11
-公孙康	gong Gsen kang	11
-公孙康	gong sun Gkong	11
-公孙康	gong sun kang	11
-公孙弘	Ggung Gsen Gfeng	13
-公孙弘	Ggung Gsen hong	13
-公孙弘	Ggung sun Gfeng	13
-公孙弘	Ggung sun hong	13
-公孙弘	gong Gsen Gfeng	13
-公孙弘	gong Gsen hong	13
-公孙弘	gong sun Gfeng	13
-公孙弘	gong sun hong	13
 公孙树	Ggung Gsen Gxyu	8
 公孙树	Ggung Gsen shu	8
 公孙树	Ggung sun Gxyu	8
@@ -101906,22 +101866,6 @@ use_preset_vocabulary: false
 公孙绿	gong Gsen lv	132
 公孙绿	gong sun Gliu	132
 公孙绿	gong sun lv	132
-公孙老儿	Ggung Gsen Glau Ge	11
-公孙老儿	Ggung Gsen Glau er	11
-公孙老儿	Ggung Gsen lao Ge	11
-公孙老儿	Ggung Gsen lao er	11
-公孙老儿	Ggung sun Glau Ge	11
-公孙老儿	Ggung sun Glau er	11
-公孙老儿	Ggung sun lao Ge	11
-公孙老儿	Ggung sun lao er	11
-公孙老儿	gong Gsen Glau Ge	11
-公孙老儿	gong Gsen Glau er	11
-公孙老儿	gong Gsen lao Ge	11
-公孙老儿	gong Gsen lao er	11
-公孙老儿	gong sun Glau Ge	11
-公孙老儿	gong sun Glau er	11
-公孙老儿	gong sun lao Ge	11
-公孙老儿	gong sun lao er	11
 公孙胜	Ggung Gsen Gsen	243
 公孙胜	Ggung Gsen sheng	243
 公孙胜	Ggung sun Gsen	243
@@ -105636,13 +105580,6 @@ use_preset_vocabulary: false
 关索	Gkuan suo	8
 关索	guan Gso	8
 关索	guan suo	8
-关索李	Gguan Gso Gli	7
-关索李	Gguan suo Gli	7
-关索李	Gkuan Gso Gli	7
-关索李	Gkuan suo Gli	7
-关索李	guan Gso Gli	7
-关索李	guan suo Gli	7
-关索李	guan suo li	7
 关索杨	Gguan Gso Gyong	8
 关索杨	Gguan Gso yang	8
 关索杨	Gguan suo Gyong	8
@@ -121469,77 +121406,17 @@ use_preset_vocabulary: false
 列阵	Glie zhen	71
 列阵	lie zhen	71
 刘	Gliu	30000
-刘一儒	Gliu Gyi Glu	35
-刘一儒	Gliu Gyi ru	35
-刘一儒	liu yi ru	35
-刘一舟	Gliu Gyi Gzeu	150
-刘一舟	Gliu Gyi zhou	150
-刘一舟	liu yi zhou	150
-刘七爹	Gliu Gqi Gdie	141
 刘三姐	Gliu Gsan Gjia	11
 刘三姐	Gliu Gsan jie	11
 刘三姐	liu san jie	11
-刘三爷	Gliu Gsan Gya	45
-刘三爷	Gliu Gsan ye	45
-刘三爷	liu san ye	45
-刘东凯	Gliu Gdeng Gkoi	8
-刘东凯	Gliu Gdeng kai	8
-刘东凯	Gliu dong Gkoi	8
-刘东凯	Gliu dong kai	8
-刘东凯	liu dong kai	8
-刘东方	Gliu Gdeng Gfong	22
-刘东方	Gliu Gdeng fang	22
-刘东方	Gliu dong Gfong	22
-刘东方	Gliu dong fang	22
-刘东方	liu dong fang	22
-刘中藻	Gliu Gjiung Gzau	15
-刘中藻	Gliu Gjiung zao	15
-刘中藻	Gliu zhong Gzau	15
-刘中藻	Gliu zhong zao	15
-刘中藻	liu zhong zao	15
-刘丽华	Gliu Gli Gfa	76
-刘丽华	Gliu Gli hua	76
-刘丽华	liu li hua	76
-刘丽琴	Gliu Gli Gqin	7
-刘义庆	Gliu Gni Gqin	8
-刘义庆	Gliu Gni qing	8
-刘义庆	Gliu yi Gqin	8
-刘义庆	Gliu yi qing	8
-刘义庆	liu yi qing	8
-刘义康	Gliu Gni Gkong	16
-刘义康	Gliu Gni kang	16
-刘义康	Gliu yi Gkong	16
-刘义康	Gliu yi kang	16
-刘义康	liu yi kang	16
-刘义符	Gliu Gni Gfu	7
-刘义符	Gliu yi Gfu	7
-刘义符	liu yi fu	7
-刘义隆	Gliu Gni Gleng	14
-刘义隆	Gliu Gni long	14
-刘义隆	Gliu yi Gleng	14
-刘义隆	Gliu yi long	14
-刘义隆	liu yi long	14
 刘之余	Gliu Gzi Gyu	6
 刘之余	Gliu zhi Gyu	6
 刘之余	liu zhi yu	6
-刘乘风	Gliu Gcen Gfeng	22
-刘乘风	Gliu cheng Gfeng	22
-刘乘风	liu cheng feng	22
-刘书经	Gliu Gsu Gjin	20
-刘书经	Gliu Gsu jing	20
-刘书经	Gliu Gxyu Gjin	20
-刘书经	Gliu Gxyu jing	20
-刘书经	Gliu shu Gjin	20
-刘书经	Gliu shu jing	20
-刘书经	liu shu jing	20
 刘二虎	Gliu Ge Gfu	20
 刘二虎	Gliu Ge hu	20
 刘二虎	Gliu er Gfu	20
 刘二虎	Gliu er hu	20
 刘二虎	liu er hu	20
-刘于义	Gliu Gyu Gni	8
-刘于义	Gliu Gyu yi	8
-刘于义	liu yu yi	8
 刘云山	Gliu Gyun Gsan	22
 刘云山	Gliu Gyun shan	22
 刘云山	liu yun shan	22
@@ -121554,88 +121431,28 @@ use_preset_vocabulary: false
 刘亚楼	Gliu ya Gleu	9
 刘亚楼	Gliu ya lou	9
 刘亚楼	liu ya lou	9
-刘亚生	Gliu Gnga Gsang	15
-刘亚生	Gliu Gnga sheng	15
-刘亚生	Gliu ya Gsang	15
-刘亚生	Gliu ya sheng	15
-刘亚生	liu ya sheng	15
-刘亚辉	Gliu Gnga Gfi	8
-刘亚辉	Gliu Gnga hui	8
-刘亚辉	Gliu ya Gfi	8
-刘亚辉	Gliu ya hui	8
-刘亚辉	liu ya hui	8
 刘亦菲	Gliu Gyi Gfi	256
 刘亦菲	Gliu Gyi fei	256
 刘亦菲	liu yi fei	256
-刘亨立	Gliu Ghen Gli	7
-刘亨立	Gliu heng Gli	7
-刘亨立	liu heng li	7
-刘京京	Gliu Gjin Gjin	11
-刘京京	Gliu Gjin jing	11
-刘京京	Gliu jing Gjin	11
-刘京京	Gliu jing jing	11
-刘京京	liu jing jing	11
 刘亮明	Gliu Gliong Gmiang	6
 刘亮明	Gliu Gliong ming	6
 刘亮明	Gliu liang Gmiang	6
 刘亮明	Gliu liang ming	6
 刘亮明	liu liang ming	6
-刘仁恭	Gliu Gnin Ggung	8
-刘仁恭	Gliu Gnin gong	8
-刘仁恭	Gliu ren Ggung	8
-刘仁恭	Gliu ren gong	8
-刘仁恭	liu ren gong	8
-刘仁轨	Gliu Gnin Ggui	7
-刘仁轨	Gliu ren Ggui	7
-刘仁轨	liu ren gui	7
-刘仁达	Gliu Gnin Gtai	23
-刘仁达	Gliu Gnin da	23
-刘仁达	Gliu ren Gtai	23
-刘仁达	Gliu ren da	23
-刘仁达	liu ren da	23
 刘仁静	Gliu Gnin Gqin	24
 刘仁静	Gliu Gnin jing	24
 刘仁静	Gliu ren Gqin	24
 刘仁静	Gliu ren jing	24
 刘仁静	liu ren jing	24
-刘仙洲	Gliu Gxien Gjiu	8
-刘仙洲	Gliu Gxien zhou	8
-刘仙洲	Gliu xian Gjiu	8
-刘仙洲	Gliu xian zhou	8
-刘仙洲	liu xian zhou	8
-刘代英	Gliu Gtoi Gyin	20
-刘代英	Gliu Gtoi ying	20
-刘代英	Gliu dai Gyin	20
-刘代英	Gliu dai ying	20
-刘代英	liu dai ying	20
-刘以敬	Gliu Gyi Gjin	7
-刘以敬	Gliu Gyi jing	7
-刘以敬	liu yi jing	7
-刘仲康	Gliu Gjiung Gkong	10
-刘仲康	Gliu Gjiung kang	10
-刘仲康	Gliu zhong Gkong	10
-刘仲康	Gliu zhong kang	10
-刘仲康	liu zhong kang	10
-刘仲武	Gliu Gjiung Gwu	15
-刘仲武	Gliu zhong Gwu	15
-刘仲武	liu zhong wu	15
 刘仲甫	Gliu Gjiung Gpu	6
 刘仲甫	Gliu Gjiung fu	6
 刘仲甫	Gliu zhong Gpu	6
 刘仲甫	Gliu zhong fu	6
 刘仲甫	liu zhong fu	6
-刘仲藜	Gliu Gjiung Gli	7
-刘仲藜	Gliu zhong Gli	7
-刘仲藜	liu zhong li	7
 刘伟师	Gliu Gwei Gsi	6
 刘伟师	Gliu Gwei Gsu	6
 刘伟师	Gliu Gwei shi	6
 刘伟师	liu wei shi	6
-刘伯坚	Gliu Gbe Gjien	7
-刘伯坚	Gliu Gbe jian	7
-刘伯坚	Gliu bo Gjien	7
-刘伯坚	Gliu bo jian	7
-刘伯坚	liu bo jian	7
 刘伯承	Gliu Gbe Gcen	448
 刘伯承	Gliu Gbe cheng	448
 刘伯承	Gliu bo Gcen	448
@@ -121645,22 +121462,6 @@ use_preset_vocabulary: false
 刘伯温	Gliu bo Gwen	70
 刘伯温	liu bo wen	70
 刘体斌	Gliu Gti Gbin	6
-刘体纯	Gliu Gti Gqyun	329
-刘体纯	Gliu Gti chun	329
-刘体纯	liu ti chun	329
-刘使君	Gliu Gsi Gjyun	16
-刘使君	Gliu Gsi jun	16
-刘使君	Gliu shi Gjyun	16
-刘使君	Gliu shi jun	16
-刘使君	liu shi jun	16
-刘俊威	Gliu Gjyun Gwei	14
-刘俊威	Gliu jun Gwei	14
-刘俊威	liu jun wei	14
-刘俊谦	Gliu Gjyun Gqien	21
-刘俊谦	Gliu Gjyun qian	21
-刘俊谦	Gliu jun Gqien	21
-刘俊谦	Gliu jun qian	21
-刘俊谦	liu jun qian	21
 刘元鹤	Gliu Gyon Gho	107
 刘元鹤	Gliu Gyon he	107
 刘元鹤	Gliu yuan Gho	107
@@ -121671,79 +121472,16 @@ use_preset_vocabulary: false
 刘先生	Gliu xian Gsang	39
 刘先生	Gliu xian sheng	39
 刘先生	liu xian sheng	39
-刘光世	Gliu Gguong Gsi	93
-刘光世	Gliu Gguong shi	93
-刘光世	Gliu guang Gsi	93
-刘光世	Gliu guang shi	93
-刘光世	liu guang shi	93
-刘光亮	Gliu Gguong Gliong	9
-刘光亮	Gliu Gguong liang	9
-刘光亮	Gliu guang Gliong	9
-刘光亮	Gliu guang liang	9
-刘光亮	liu guang liang	9
-刘光大	Gliu Gguong Gtai	15
-刘光大	Gliu Gguong da	15
-刘光大	Gliu guang Gtai	15
-刘光大	Gliu guang da	15
-刘光大	liu guang da	15
 刘光弟	Gliu Gguong Gti	6
 刘光弟	Gliu Gguong di	6
 刘光弟	Gliu guang Gti	6
 刘光弟	Gliu guang di	6
 刘光弟	liu guang di	6
-刘光斌	Gliu Gguong Gbin	30
-刘光斌	Gliu guang Gbin	30
-刘光斌	liu guang bin	30
-刘光祖	Gliu Gguong Gzu	9
-刘光祖	Gliu guang Gzu	9
-刘光祖	liu guang zu	9
-刘光第	Gliu Gguong Gti	21
-刘光第	Gliu Gguong di	21
-刘光第	Gliu guang Gti	21
-刘光第	Gliu guang di	21
-刘光第	liu guang di	21
-刘克庄	Gliu Gkie Gzong	9
-刘克庄	Gliu Gkie zhuang	9
-刘克庄	Gliu ke Gzong	9
-刘克庄	Gliu ke zhuang	9
-刘克庄	liu ke zhuang	9
 刘公公	Gliu Ggung Ggung	11
 刘公公	Gliu Ggung gong	11
 刘公公	Gliu gong Ggung	11
 刘公公	Gliu gong gong	11
 刘公公	liu gong gong	11
-刘公岛	Gliu Ggung Gdau	61
-刘公岛	Gliu Ggung dao	61
-刘公岛	Gliu gong Gdau	61
-刘公岛	Gliu gong dao	61
-刘公岛	liu gong dao	61
-刘兰芳	Gliu Glan Gfong	8
-刘兰芳	Gliu Glan fang	8
-刘兰芳	liu lan fang	8
-刘兴弟	Gliu Gxin Gti	26
-刘兴弟	Gliu Gxin di	26
-刘兴弟	Gliu xing Gti	26
-刘兴弟	Gliu xing di	26
-刘兴弟	liu xing di	26
-刘养正	Gliu Gyong Gjiang	18
-刘养正	Gliu Gyong zheng	18
-刘养正	Gliu yang Gjiang	18
-刘养正	Gliu yang zheng	18
-刘养正	liu yang zheng	18
-刘冬冬	Gliu Gdeng Gdeng	256
-刘冬冬	Gliu Gdeng dong	256
-刘冬冬	Gliu dong Gdeng	256
-刘冬冬	Gliu dong dong	256
-刘冬冬	liu dong dong	256
-刘凤云	Gliu Gfeng Gyun	76
-刘凤岩	Gliu Gfeng Gngai	25
-刘凤岩	Gliu Gfeng yan	25
-刘凤岩	liu feng yan	25
-刘刚道	Gliu Ggong Gtau	8
-刘刚道	Gliu Ggong dao	8
-刘刚道	Gliu gang Gtau	8
-刘刚道	Gliu gang dao	8
-刘刚道	liu gang dao	8
 刘前刚	Gliu Gqien Ggong	6
 刘前刚	Gliu Gqien gang	6
 刘前刚	Gliu qian Ggong	6
@@ -121769,59 +121507,16 @@ use_preset_vocabulary: false
 刘华清	Gliu hua Gqin	311
 刘华清	Gliu hua qing	311
 刘华清	liu hua qing	311
-刘华秋	Gliu Gfa Gqiu	39
-刘华秋	Gliu hua Gqiu	39
-刘华秋	liu hua qiu	39
-刘博文	Gliu Gbo Gwen	23
-刘卫东	Gliu Gwei Gdeng	256
-刘卫东	Gliu Gwei dong	256
-刘卫东	liu wei dong	256
-刘卫辰	Gliu Gwei Gcen	11
-刘卫辰	Gliu Gwei chen	11
-刘卫辰	liu wei chen	11
-刘可心	Gliu Gkie Gxin	7
-刘可心	Gliu ke Gxin	7
-刘可心	liu ke xin	7
 刘司令	Gliu Gsu Glin	113
 刘司令	Gliu Gsu ling	113
 刘司令	Gliu si Glin	113
 刘司令	Gliu si ling	113
 刘司令	liu si ling	113
-刘合炳	Gliu Gho Gbin	256
-刘合炳	Gliu Gho bing	256
-刘合炳	Gliu he Gbin	256
-刘合炳	Gliu he bing	256
-刘合炳	liu he bing	256
-刘和光	Gliu Gho Gguong	11
-刘和光	Gliu Gho guang	11
-刘和光	Gliu he Gguong	11
-刘和光	Gliu he guang	11
-刘和光	liu he guang	11
 刘和珍	Gliu Gho Gzen	261
 刘和珍	Gliu Gho zhen	261
 刘和珍	Gliu he Gzen	261
 刘和珍	Gliu he zhen	261
 刘和珍	liu he zhen	261
-刘嘉玲	Gliu Gga Glin	8
-刘嘉玲	Gliu Gga ling	8
-刘嘉玲	Gliu jia Glin	8
-刘嘉玲	Gliu jia ling	8
-刘嘉玲	liu jia ling	8
-刘四厢	Gliu Gsu Gxiong	25
-刘四厢	Gliu Gsu xiang	25
-刘四厢	Gliu si Gxiong	25
-刘四厢	Gliu si xiang	25
-刘四厢	liu si xiang	25
-刘国梁	Gliu Ggue Gliong	28
-刘国梁	Gliu Ggue liang	28
-刘国梁	Gliu guo Gliong	28
-刘国梁	Gliu guo liang	28
-刘国梁	liu guo liang	28
-刘国正	Gliu Ggue Gjiang	256
-刘国正	Gliu Ggue zheng	256
-刘国正	Gliu guo Gjiang	256
-刘国正	Gliu guo zheng	256
-刘国正	liu guo zheng	256
 刘国能	Gliu Ggue Glen	122
 刘国能	Gliu Ggue neng	122
 刘国能	Gliu guo Glen	122
@@ -121832,58 +121527,20 @@ use_preset_vocabulary: false
 刘国轩	Gliu guo Gxon	18
 刘国轩	Gliu guo xuan	18
 刘国轩	liu guo xuan	18
-刘培生	Gliu Gpi Gsang	55
-刘培生	Gliu Gpi sheng	55
-刘培生	Gliu pei Gsang	55
-刘培生	Gliu pei sheng	55
-刘培生	liu pei sheng	55
 刘基	Gliu Gji	128
-刘士舜	Gliu Gsi Gxyun	8
-刘士舜	Gliu Gsi shun	8
-刘士舜	Gliu shi Gxyun	8
-刘士舜	Gliu shi shun	8
-刘士舜	liu shi shun	8
-刘处玄	Gliu Gqyu Gxyuon	81
-刘处玄	Gliu Gqyu xuan	81
-刘处玄	Gliu chu Gxyuon	81
-刘处玄	Gliu chu xuan	81
-刘处玄	liu chu xuan	81
 刘备	Gliu Gpi	1753
 刘备	Gliu bei	1753
 刘备	liu bei	1753
-刘备入	Gliu Gpi Glu	8
-刘备入	Gliu Gpi ru	8
-刘备入	Gliu bei Glu	8
-刘备入	Gliu bei ru	8
-刘备入	liu bei ru	8
 刘大人	Gliu Gtai Gnin	21
 刘大人	Gliu Gtai ren	21
 刘大人	Gliu da Gnin	21
 刘大人	Gliu da ren	21
 刘大人	liu da ren	21
-刘大伟	Gliu Gtai Gwei	8
-刘大伟	Gliu da Gwei	8
-刘大伟	liu da wei	8
-刘大响	Gliu Gtai Gxiong	261
-刘大响	Gliu Gtai xiang	261
-刘大响	Gliu da Gxiong	261
-刘大响	Gliu da xiang	261
-刘大响	liu da xiang	261
 刘大哥	Gliu Gtai Gko	21
 刘大哥	Gliu Gtai ge	21
 刘大哥	Gliu da Gko	21
 刘大哥	Gliu da ge	21
 刘大哥	liu da ge	21
-刘大夏	Gliu Gtai Gha	14
-刘大夏	Gliu Gtai xia	14
-刘大夏	Gliu da Gha	14
-刘大夏	Gliu da xia	14
-刘大夏	liu da xia	14
-刘大奎	Gliu Gtai Gxi	13
-刘大奎	Gliu Gtai kui	13
-刘大奎	Gliu da Gxi	13
-刘大奎	Gliu da kui	13
-刘大奎	liu da kui	13
 刘大妈	Gliu Gtai Gme	12
 刘大妈	Gliu Gtai ma	12
 刘大妈	Gliu da Gme	12
@@ -121894,26 +121551,6 @@ use_preset_vocabulary: false
 刘大姐	Gliu da Gjia	8
 刘大姐	Gliu da jie	8
 刘大姐	liu da jie	8
-刘大年	Gliu Gtai Gnien	12
-刘大年	Gliu Gtai nian	12
-刘大年	Gliu da Gnien	12
-刘大年	Gliu da nian	12
-刘大年	liu da nian	12
-刘大白	Gliu Gtai Gpa	7
-刘大白	Gliu Gtai bai	7
-刘大白	Gliu da Gpa	7
-刘大白	Gliu da bai	7
-刘大白	liu da bai	7
-刘大顺	Gliu Gtai Gxyun	88
-刘大顺	Gliu Gtai shun	88
-刘大顺	Gliu da Gxyun	88
-刘大顺	Gliu da shun	88
-刘大顺	liu da shun	88
-刘天华	Gliu Gtien Gfa	7
-刘天华	Gliu Gtien hua	7
-刘天华	Gliu tian Gfa	7
-刘天华	Gliu tian hua	7
-刘天华	liu tian hua	7
 刘太公	Gliu Gtoi Ggung	35
 刘太公	Gliu Gtoi gong	35
 刘太公	Gliu tai Ggung	35
@@ -121944,73 +121581,15 @@ use_preset_vocabulary: false
 刘姥姥	Gliu lao Glau	306
 刘姥姥	Gliu lao lao	306
 刘姥姥	liu lao lao	306
-刘婉芳	Gliu Gwan Gfong	27
-刘婉芳	Gliu Gwan fang	27
-刘婉芳	liu wan fang	27
-刘子华	Gliu Gzu Gfa	768
-刘子华	Gliu Gzu hua	768
-刘子华	Gliu zi Gfa	768
-刘子华	Gliu zi hua	768
-刘子华	liu zi hua	768
-刘子厚	Gliu Gzu Gheu	256
-刘子厚	Gliu Gzu hou	256
-刘子厚	Gliu zi Gheu	256
-刘子厚	Gliu zi hou	256
-刘子厚	liu zi hou	256
-刘子政	Gliu Gzu Gzen	161
-刘子政	Gliu Gzu zheng	161
-刘子政	Gliu zi Gzen	161
-刘子政	Gliu zi zheng	161
-刘子政	liu zi zheng	161
-刘子羽	Gliu Gzu Gyu	33
-刘子羽	Gliu zi Gyu	33
-刘子羽	liu zi yu	33
-刘孔和	Gliu Gkung Gho	11
-刘孔和	Gliu Gkung he	11
-刘孔和	Gliu kong Gho	11
-刘孔和	Gliu kong he	11
-刘孔和	liu kong he	11
-刘孔昭	Gliu Gkung Gzeu	19
-刘孔昭	Gliu Gkung zhao	19
-刘孔昭	Gliu kong Gzeu	19
-刘孔昭	Gliu kong zhao	19
-刘孔昭	liu kong zhao	19
-刘季玉	Gliu Gji Gyu	8
-刘宇亮	Gliu Gyu Gliong	38
-刘宇亮	Gliu Gyu liang	38
-刘宇亮	liu yu liang	38
-刘守光	Gliu Gseu Gguong	7
-刘守光	Gliu Gseu guang	7
-刘守光	Gliu shou Gguong	7
-刘守光	Gliu shou guang	7
-刘守光	liu shou guang	7
 刘安	Gliu Gngon	59
 刘安	Gliu an	59
 刘安	liu an	59
 刘宋	Gliu Gseng	52
 刘宋	Gliu song	52
 刘宋	liu song	52
-刘宋时	Gliu Gseng Gsi	7
-刘宋时	Gliu Gseng shi	7
-刘宋时	Gliu song Gsi	7
-刘宋时	Gliu song shi	7
-刘宋时	liu song shi	7
 刘宗吉	Gliu Gzeng Gji	7
 刘宗吉	Gliu zong Gji	7
 刘宗吉	liu zong ji	7
-刘宗周	Gliu Gzeng Gzeu	151
-刘宗周	Gliu Gzeng zhou	151
-刘宗周	Gliu zong Gzeu	151
-刘宗周	Gliu zong zhou	151
-刘宗周	liu zong zhou	151
-刘宗敏	Gliu Gzeng Gmin	1399
-刘宗敏	Gliu zong Gmin	1399
-刘宗敏	liu zong min	1399
-刘宝全	Gliu Gbau Gqon	14
-刘宝全	Gliu Gbau quan	14
-刘宝全	Gliu bao Gqon	14
-刘宝全	Gliu bao quan	14
-刘宝全	liu bao quan	14
 刘家	Gliu Gga	319
 刘家	Gliu jia	319
 刘家	liu jia	319
@@ -122065,59 +121644,19 @@ use_preset_vocabulary: false
 刘将军	Gliu jiang Gjyun	10
 刘将军	Gliu jiang jun	10
 刘将军	liu jiang jun	10
-刘将爷	Gliu Gjiong Gya	10
-刘将爷	Gliu Gjiong ye	10
-刘将爷	Gliu jiang Gya	10
-刘将爷	Gliu jiang ye	10
-刘将爷	liu jiang ye	10
-刘小东	Gliu Gxieu Gdeng	9
-刘小东	Gliu Gxieu dong	9
-刘小东	Gliu xiao Gdeng	9
-刘小东	Gliu xiao dong	9
-刘小东	liu xiao dong	9
-刘小光	Gliu Gxieu Gguong	15
-刘小光	Gliu Gxieu guang	15
-刘小光	Gliu xiao Gguong	15
-刘小光	Gliu xiao guang	15
-刘小光	liu xiao guang	15
-刘小军	Gliu Gxieu Gjyun	9
-刘小军	Gliu Gxieu jun	9
-刘小军	Gliu xiao Gjyun	9
-刘小军	Gliu xiao jun	9
-刘小军	liu xiao jun	9
 刘小姐	Gliu Gxieu Gjia	14
 刘小姐	Gliu Gxieu jie	14
 刘小姐	Gliu xiao Gjia	14
 刘小姐	Gliu xiao jie	14
 刘小姐	liu xiao jie	14
-刘小明	Gliu Gxieu Gmiang	7
-刘小明	Gliu Gxieu ming	7
-刘小明	Gliu xiao Gmiang	7
-刘小明	Gliu xiao ming	7
-刘小明	liu xiao ming	7
-刘小枫	Gliu Gxieu Gfen	21
-刘小枫	Gliu Gxieu feng	21
-刘小枫	Gliu xiao Gfen	21
-刘小枫	Gliu xiao feng	21
-刘小枫	liu xiao feng	21
 刘少奇	Gliu Gseu Gqi	1025
 刘少奇	Gliu shao Gqi	1025
 刘少奇	liu shao qi	1025
-刘尔卓	Gliu Ge Gzo	16
-刘尔卓	Gliu Ge zhuo	16
-刘尔卓	Gliu er Gzo	16
-刘尔卓	Gliu er zhuo	16
-刘尔卓	liu er zhuo	16
 刘履丁	Gliu Glyu Gdiang	54
 刘履丁	Gliu Glyu ding	54
 刘履丁	Gliu lv Gdiang	54
 刘履丁	Gliu lv ding	54
 刘履丁	liu lv ding	54
-刘巧儿	Gliu Gqieu Ge	8
-刘巧儿	Gliu Gqieu er	8
-刘巧儿	Gliu qiao Ge	8
-刘巧儿	Gliu qiao er	8
-刘巧儿	liu qiao er	8
 刘师傅	Gliu Gsi Gfu	6
 刘师傅	Gliu Gsu Gfu	6
 刘师傅	Gliu shi Gfu	6
@@ -122129,167 +121668,52 @@ use_preset_vocabulary: false
 刘师兄	Gliu shi Gxiang	22
 刘师兄	Gliu shi xiong	22
 刘师兄	liu shi xiong	22
-刘师叔	Gliu Gsi Gxyu	34
-刘师叔	Gliu Gsi shu	34
-刘师叔	Gliu Gsu Gxyu	34
-刘师叔	Gliu Gsu shu	34
-刘师叔	Gliu shi Gxyu	34
-刘师叔	Gliu shi shu	34
-刘师叔	liu shi shu	34
-刘师培	Gliu Gsi Gpi	18
-刘师培	Gliu Gsi pei	18
-刘师培	Gliu Gsu Gpi	18
-刘师培	Gliu Gsu pei	18
-刘师培	Gliu shi Gpi	18
-刘师培	Gliu shi pei	18
-刘师培	liu shi pei	18
-刘师弟	Gliu Gsi Gti	7
-刘师弟	Gliu Gsi di	7
-刘师弟	Gliu Gsu Gti	7
-刘师弟	Gliu Gsu di	7
-刘师弟	Gliu shi Gti	7
-刘师弟	Gliu shi di	7
-刘师弟	liu shi di	7
 刘希亮	Gliu Gxi Gliong	6
 刘希亮	Gliu Gxi liang	6
 刘希亮	liu xi liang	6
 刘希尧	Gliu Gxi Glieu	21
 刘希尧	Gliu Gxi yao	21
 刘希尧	liu xi yao	21
-刘库仁	Gliu Gku Gnin	7
-刘库仁	Gliu Gku ren	7
-刘库仁	liu ku ren	7
-刘应明	Gliu Gyin Gmiang	256
-刘应明	Gliu Gyin ming	256
-刘应明	Gliu ying Gmiang	256
-刘应明	Gliu ying ming	256
-刘应明	liu ying ming	256
 刘延东	Gliu Gyen Gdeng	6
 刘延东	Gliu Gyen dong	6
 刘延东	Gliu yan Gdeng	6
 刘延东	Gliu yan dong	6
 刘延东	liu yan dong	6
-刘延宇	Gliu Gyen Gyu	14
-刘延宇	Gliu yan Gyu	14
-刘延宇	liu yan yu	14
-刘延庆	Gliu Gyen Gqin	132
-刘延庆	Gliu Gyen qing	132
-刘延庆	Gliu yan Gqin	132
-刘延庆	Gliu yan qing	132
-刘延庆	liu yan qing	132
-刘建业	Gliu Gjien Gnie	81
-刘建业	Gliu Gjien ye	81
-刘建业	Gliu jian Gnie	81
-刘建业	Gliu jian ye	81
-刘建业	liu jian ye	81
-刘建新	Gliu Gjien Gxin	7
-刘建新	Gliu jian Gxin	7
-刘建新	liu jian xin	7
-刘建永	Gliu Gjien Gyung	28
-刘建永	Gliu Gjien yong	28
-刘建永	Gliu jian Gyung	28
-刘建永	Gliu jian yong	28
-刘建永	liu jian yong	28
-刘建超	Gliu Gjien Gceu	183
-刘建超	Gliu Gjien chao	183
-刘建超	Gliu jian Gceu	183
-刘建超	Gliu jian chao	183
-刘建超	liu jian chao	183
 刘建锋	Gliu Gjien Gfen	6
 刘建锋	Gliu Gjien feng	6
 刘建锋	Gliu jian Gfen	6
 刘建锋	Gliu jian feng	6
 刘建锋	liu jian feng	6
-刘开朝	Gliu Gkoi Gzeu	7
-刘开朝	Gliu Gkoi chao	7
-刘开朝	Gliu kai Gzeu	7
-刘开朝	Gliu kai chao	7
-刘开朝	liu kai chao	7
-刘开渠	Gliu Gkoi Ggie	9
-刘开渠	Gliu Gkoi qu	9
-刘开渠	Gliu kai Ggie	9
-刘开渠	Gliu kai qu	9
-刘开渠	liu kai qu	9
 刘弗陵	Gliu Gbei Glin	9
 刘弗陵	Gliu Gbei ling	9
 刘弗陵	Gliu fu Glin	9
 刘弗陵	Gliu fu ling	9
 刘弗陵	liu fu ling	9
-刘彦宗	Gliu Gyen Gzeng	41
-刘彦宗	Gliu Gyen zong	41
-刘彦宗	Gliu yan Gzeng	41
-刘彦宗	Gliu yan zong	41
-刘彦宗	liu yan zong	41
-刘彦彬	Gliu Gyen Gbin	33
-刘彦彬	Gliu yan Gbin	33
-刘彦彬	liu yan bin	33
 刘彭祖	Gliu Gpang Gzu	7
 刘彭祖	Gliu peng Gzu	7
 刘彭祖	liu peng zu	7
 刘御史	Gliu Gyu Gsi	7
 刘御史	Gliu Gyu shi	7
 刘御史	liu yu shi	7
-刘德一	Gliu Gde Gyi	12
 刘德华	Gliu Gde Gfa	37
 刘德华	Gliu Gde hua	37
 刘德华	liu de hua	37
-刘德生	Gliu Gde Gsang	8
-刘德生	Gliu Gde sheng	8
-刘德生	liu de sheng	8
-刘徽注	Gliu Gfi Gjyu	9
-刘徽注	Gliu Gfi zhu	9
-刘徽注	Gliu hui Gjyu	9
-刘徽注	Gliu hui zhu	9
-刘徽注	liu hui zhu	9
-刘心武	Gliu Gxin Gwu	42
 刘志丹	Gliu Gzi Gdan	34
 刘志丹	Gliu zhi Gdan	34
 刘志丹	liu zhi dan	34
-刘志军	Gliu Gzi Gjyun	269
-刘志军	Gliu Gzi jun	269
-刘志军	Gliu zhi Gjyun	269
-刘志军	Gliu zhi jun	269
-刘志军	liu zhi jun	269
-刘志刚	Gliu Gzi Ggong	18
-刘志刚	Gliu Gzi gang	18
-刘志刚	Gliu zhi Ggong	18
-刘志刚	Gliu zhi gang	18
-刘志刚	liu zhi gang	18
-刘志坚	Gliu Gzi Gjien	31
-刘志坚	Gliu Gzi jian	31
-刘志坚	Gliu zhi Gjien	31
-刘志坚	Gliu zhi jian	31
-刘志坚	liu zhi jian	31
 刘志明	Gliu Gzi Gmiang	6
 刘志明	Gliu Gzi ming	6
 刘志明	Gliu zhi Gmiang	6
 刘志明	Gliu zhi ming	6
 刘志明	liu zhi ming	6
-刘志祥	Gliu Gzi Gxiong	49
-刘志祥	Gliu Gzi xiang	49
-刘志祥	Gliu zhi Gxiong	49
-刘志祥	Gliu zhi xiang	49
-刘志祥	liu zhi xiang	49
-刘志英	Gliu Gzi Gyin	17
-刘志英	Gliu Gzi ying	17
-刘志英	Gliu zhi Gyin	17
-刘志英	Gliu zhi ying	17
-刘志英	liu zhi ying	17
 刘忠德	Gliu Gjiung Gde	47
 刘忠德	Gliu zhong Gde	47
 刘忠德	liu zhong de	47
-刘忠文	Gliu Gjiung Gwen	18
-刘忠文	Gliu zhong Gwen	18
-刘忠文	liu zhong wen	18
-刘忠武	Gliu Gjiung Gwu	19
-刘忠武	Gliu zhong Gwu	19
-刘忠武	liu zhong wu	19
 刘总宪	Gliu Gzeng Ghan	6
 刘总宪	Gliu Gzeng xian	6
 刘总宪	Gliu zong Ghan	6
 刘总宪	Gliu zong xian	6
 刘总宪	liu zong xian	6
-刘恒	Gliu Gheng	39
 刘我成	Gliu Gngo Gcen	15
 刘我成	Gliu Gngo Gxiang	15
 刘我成	Gliu Gngo cheng	15
@@ -122297,37 +121721,15 @@ use_preset_vocabulary: false
 刘我成	Gliu wo Gxiang	15
 刘我成	Gliu wo cheng	15
 刘我成	liu wo cheng	15
-刘承奉	Gliu Gcen Gfeng	17
-刘承奉	Gliu cheng Gfeng	17
-刘承奉	liu cheng feng	17
-刘振伟	Gliu Gzen Gwei	256
-刘振伟	Gliu zhen Gwei	256
-刘振伟	liu zhen wei	256
-刘振英	Gliu Gzen Gyin	8
-刘振英	Gliu Gzen ying	8
-刘振英	Gliu zhen Gyin	8
-刘振英	Gliu zhen ying	8
-刘振英	liu zhen ying	8
 刘捷轩	Gliu Gjie Gxon	6
 刘捷轩	Gliu Gjie xuan	6
 刘捷轩	liu jie xuan	6
-刘掌柜	Gliu Gjiong Gkui	8
-刘掌柜	Gliu Gjiong gui	8
-刘掌柜	Gliu zhang Gkui	8
-刘掌柜	Gliu zhang gui	8
-刘掌柜	liu zhang gui	8
-刘敦桢	Gliu Gden Gzen	9
-刘敦桢	Gliu Gden zhen	9
-刘敦桢	Gliu dun Gzen	9
-刘敦桢	Gliu dun zhen	9
-刘敦桢	liu dun zhen	9
 刘文典	Gliu Gwen Gdien	17
 刘文典	Gliu Gwen dian	17
 刘文典	liu wen dian	17
 刘文彩	Gliu Gwen Gcoi	6
 刘文彩	Gliu Gwen cai	6
 刘文彩	liu wen cai	6
-刘文武	Gliu Gwen Gwu	40
 刘文炳	Gliu Gwen Gbin	19
 刘文炳	Gliu Gwen bing	19
 刘文炳	liu wen bing	19
@@ -122338,187 +121740,30 @@ use_preset_vocabulary: false
 刘文静	Gliu Gwen Gqin	6
 刘文静	Gliu Gwen jing	6
 刘文静	liu wen jing	6
-刘斯奋	Gliu Gsu Gfen	7
-刘斯奋	Gliu si Gfen	7
-刘斯奋	liu si fen	7
-刘新生	Gliu Gxin Gsang	44
-刘新生	Gliu Gxin sheng	44
-刘新生	liu xin sheng	44
-刘方宇	Gliu Gfong Gyu	38
-刘方宇	Gliu fang Gyu	38
-刘方宇	liu fang yu	38
-刘方家族	Gliu Gfong Gga Gzu	11
-刘方家族	Gliu Gfong jia Gzu	11
-刘方家族	Gliu fang Gga Gzu	11
-刘方家族	Gliu fang jia Gzu	11
-刘方家族	liu fang jia zu	11
-刘时平	Gliu Gsi Gpiang	9
-刘时平	Gliu Gsi ping	9
-刘时平	Gliu shi Gpiang	9
-刘时平	Gliu shi ping	9
-刘时平	liu shi ping	9
-刘昌蓉	Gliu Gqiong Gleng	56
-刘昌蓉	Gliu Gqiong rong	56
-刘昌蓉	Gliu chang Gleng	56
-刘昌蓉	Gliu chang rong	56
-刘昌蓉	liu chang rong	56
-刘昌赫	Gliu Gqiong Gho	8
-刘昌赫	Gliu Gqiong he	8
-刘昌赫	Gliu chang Gho	8
-刘昌赫	Gliu chang he	8
-刘昌赫	liu chang he	8
 刘明康	Gliu Gmiang Gkong	6
 刘明康	Gliu Gmiang kang	6
 刘明康	Gliu ming Gkong	6
 刘明康	Gliu ming kang	6
 刘明康	liu ming kang	6
-刘明祖	Gliu Gmiang Gzu	257
-刘明祖	Gliu ming Gzu	257
-刘明祖	liu ming zu	257
-刘明远	Gliu Gmiang Gyon	10
-刘明远	Gliu Gmiang yuan	10
-刘明远	Gliu ming Gyon	10
-刘明远	Gliu ming yuan	10
-刘明远	liu ming yuan	10
 刘易斯	Gliu Gya Gsu	57
 刘易斯	Gliu Gya si	57
 刘易斯	Gliu yi Gsu	57
 刘易斯	Gliu yi si	57
 刘易斯	liu yi si	57
-刘春明	Gliu Gqyun Gmiang	32
-刘春明	Gliu Gqyun ming	32
-刘春明	Gliu chun Gmiang	32
-刘春明	Gliu chun ming	32
-刘春明	liu chun ming	32
-刘显红	Gliu Gxien Gfeng	36
-刘显红	Gliu Gxien hong	36
-刘显红	Gliu xian Gfeng	36
-刘显红	Gliu xian hong	36
-刘显红	liu xian hong	36
-刘晓庆	Gliu Gxieu Gqin	26
-刘晓庆	Gliu Gxieu qing	26
-刘晓庆	Gliu xiao Gqin	26
-刘晓庆	Gliu xiao qing	26
-刘晓庆	liu xiao qing	26
-刘晓放	Gliu Gxieu Gfong	7
-刘晓放	Gliu Gxieu fang	7
-刘晓放	Gliu xiao Gfong	7
-刘晓放	Gliu xiao fang	7
-刘晓放	liu xiao fang	7
 刘晓波	Gliu Gxieu Gbo	68
 刘晓波	Gliu xiao Gbo	68
 刘晓波	liu xiao bo	68
-刘晓程	Gliu Gxieu Gcen	16
-刘晓程	Gliu Gxieu cheng	16
-刘晓程	Gliu xiao Gcen	16
-刘晓程	Gliu xiao cheng	16
-刘晓程	liu xiao cheng	16
-刘晓连	Gliu Gxieu Glien	23
-刘晓连	Gliu Gxieu lian	23
-刘晓连	Gliu xiao Glien	23
-刘晓连	Gliu xiao lian	23
-刘晓连	liu xiao lian	23
-刘景升	Gliu Gjin Gsen	10
-刘景升	Gliu Gjin sheng	10
-刘景升	Gliu jing Gsen	10
-刘景升	Gliu jing sheng	10
-刘景升	liu jing sheng	10
-刘根民	Gliu Ggien Gmin	49
-刘根民	Gliu gen Gmin	49
-刘根民	liu gen min	49
-刘梦龙	Gliu Gmeng Gliung	18
-刘梦龙	Gliu Gmeng long	18
-刘梦龙	liu meng long	18
-刘次昌	Gliu Gcu Gqiong	10
-刘次昌	Gliu Gcu chang	10
-刘次昌	Gliu ci Gqiong	10
-刘次昌	Gliu ci chang	10
-刘次昌	liu ci chang	10
-刘正彦	Gliu Gjiang Gyen	16
-刘正彦	Gliu Gjiang yan	16
-刘正彦	Gliu zheng Gyen	16
-刘正彦	Gliu zheng yan	16
-刘正彦	liu zheng yan	16
-刘正风	Gliu Gjiang Gfeng	248
-刘正风	Gliu zheng Gfeng	248
-刘正风	liu zheng feng	248
-刘步蟾	Gliu Gpu Gzen	81
-刘步蟾	Gliu Gpu chan	81
-刘步蟾	Gliu bu Gzen	81
-刘步蟾	Gliu bu chan	81
-刘步蟾	liu bu chan	81
-刘永华	Gliu Gyung Gfa	7
-刘永华	Gliu Gyung hua	7
-刘永华	Gliu yong Gfa	7
-刘永华	Gliu yong hua	7
-刘永华	liu yong hua	7
 刘永福	Gliu Gyung Gfu	20
 刘永福	Gliu yong Gfu	20
 刘永福	liu yong fu	20
-刘永良	Gliu Gyung Gliong	9
-刘永良	Gliu Gyung liang	9
-刘永良	Gliu yong Gliong	9
-刘永良	Gliu yong liang	9
-刘永良	liu yong liang	9
 刘汉宏	Gliu Ghon Gfeng	6
 刘汉宏	Gliu Ghon hong	6
 刘汉宏	Gliu han Gfeng	6
 刘汉宏	Gliu han hong	6
 刘汉宏	liu han hong	6
-刘注似	Gliu Gjyu Gsi	8
-刘注似	Gliu Gjyu shi	8
-刘注似	Gliu zhu Gsi	8
-刘注似	Gliu zhu shi	8
-刘注似	liu zhu shi	8
-刘注相	Gliu Gjyu Gxiong	8
-刘注相	Gliu Gjyu xiang	8
-刘注相	Gliu zhu Gxiong	8
-刘注相	Gliu zhu xiang	8
-刘注相	liu zhu xiang	8
-刘泽清	Gliu Gca Gqiang	58
-刘泽清	Gliu Gca Gqin	58
-刘泽清	Gliu Gca qing	58
-刘泽清	Gliu ze Gqiang	58
-刘泽清	Gliu ze Gqin	58
-刘泽清	Gliu ze qing	58
-刘泽清	liu ze qing	58
-刘洪泉	Gliu Gfeng Gqon	16
-刘洪泉	Gliu Gfeng quan	16
-刘洪泉	Gliu hong Gqon	16
-刘洪泉	Gliu hong quan	16
-刘洪泉	liu hong quan	16
-刘海	Gliu Ghoi	65
-刘海	Gliu hai	65
-刘海	liu hai	65
-刘海洋	Gliu Ghoi Gyong	12
-刘海洋	Gliu Ghoi yang	12
-刘海洋	Gliu hai Gyong	12
-刘海洋	Gliu hai yang	12
-刘海洋	liu hai yang	12
-刘海粟	Gliu Ghoi Gsu	17
-刘海粟	Gliu hai Gsu	17
-刘海粟	liu hai su	17
-刘清芬	Gliu Gqiang Gfen	12
-刘清芬	Gliu Gqin Gfen	12
-刘清芬	Gliu qing Gfen	12
-刘清芬	liu qing fen	12
 刘渊	Gliu Gyon	55
 刘渊	Gliu yuan	55
 刘渊	liu yuan	55
-刘渝敏	Gliu Gyu Gmin	8
-刘湛恩	Gliu Gkang Gngien	256
-刘湛恩	Gliu Gkang en	256
-刘湛恩	Gliu zhan Gngien	256
-刘湛恩	Gliu zhan en	256
-刘湛恩	liu zhan en	256
-刘澜涛	Gliu Glan Gtau	45
-刘澜涛	Gliu Glan tao	45
-刘澜涛	liu lan tao	45
-刘爱萍	Gliu Gngoi Gpin	21
-刘爱萍	Gliu Gngoi ping	21
-刘爱萍	Gliu ai Gpin	21
-刘爱萍	Gliu ai ping	21
-刘爱萍	liu ai ping	21
 刘牢之	Gliu Glau Gzi	23
 刘牢之	Gliu Glau zhi	23
 刘牢之	Gliu lao Gzi	23
@@ -122527,67 +121772,29 @@ use_preset_vocabulary: false
 刘玄德	Gliu Gxyuon Gde	48
 刘玄德	Gliu xuan Gde	48
 刘玄德	liu xuan de	48
-刘玉升	Gliu Gyu Gsen	91
-刘玉升	Gliu Gyu sheng	91
-刘玉升	liu yu sheng	91
-刘玉娘	Gliu Gyu Gniong	7
-刘玉娘	Gliu Gyu niang	7
-刘玉娘	liu yu niang	7
 刘玉尺	Gliu Gyu Gqia	241
 刘玉尺	Gliu Gyu chi	241
 刘玉尺	liu yu chi	241
-刘玉明	Gliu Gyu Gmiang	7
-刘玉明	Gliu Gyu ming	7
-刘玉明	liu yu ming	7
-刘玉林	Gliu Gyu Glin	50
-刘玉琴	Gliu Gyu Gqin	7
 刘玉翠	Gliu Gyu Gqyu	153
 刘玉翠	Gliu Gyu cui	153
 刘玉翠	liu yu cui	153
 刘玉芬	Gliu Gyu Gfen	6
-刘白方	Gliu Gpa Gfong	9
-刘白方	Gliu Gpa fang	9
-刘白方	Gliu bai Gfong	9
-刘白方	Gliu bai fang	9
-刘白方	liu bai fang	9
-刘白羽	Gliu Gpa Gyu	11
-刘白羽	Gliu bai Gyu	11
-刘白羽	liu bai yu	11
 刘皇叔	Gliu Gfong Gxyu	48
 刘皇叔	Gliu Gfong shu	48
 刘皇叔	Gliu huang Gxyu	48
 刘皇叔	Gliu huang shu	48
 刘皇叔	liu huang shu	48
-刘盛佳	Gliu Gsen Gga	17
-刘盛佳	Gliu Gsen jia	17
-刘盛佳	Gliu sheng Gga	17
-刘盛佳	Gliu sheng jia	17
-刘盛佳	liu sheng jia	17
 刘知几	Gliu Gzi Gji	6
 刘知几	Gliu zhi Gji	6
 刘知几	liu zhi ji	6
-刘知寨	Gliu Gzi Gzai	26
-刘知寨	Gliu Gzi zhai	26
-刘知寨	Gliu zhi Gzai	26
-刘知寨	Gliu zhi zhai	26
-刘知寨	liu zhi zhai	26
 刘知远	Gliu Gzi Gyon	38
 刘知远	Gliu Gzi yuan	38
 刘知远	Gliu zhi Gyon	38
 刘知远	Gliu zhi yuan	38
 刘知远	liu zhi yuan	38
-刘石泉	Gliu Gxia Gqon	256
-刘石泉	Gliu Gxia quan	256
-刘石泉	Gliu shi Gqon	256
-刘石泉	Gliu shi quan	256
-刘石泉	liu shi quan	256
 刘禅	Gliu Gdan	42
 刘禅	Gliu chan	42
 刘禅	liu chan	42
-刘福印	Gliu Gfu Gyin	7
-刘福通	Gliu Gfu Gteng	71
-刘福通	Gliu Gfu tong	71
-刘福通	liu fu tong	71
 刘禹锡	Gliu Gyu Gxi	44
 刘秀兄弟	Gliu Gxiu Gxiang Gti	6
 刘秀兄弟	Gliu Gxiu Gxiang di	6
@@ -122597,39 +121804,11 @@ use_preset_vocabulary: false
 刘秀才	Gliu Gxiu Gcoi	12
 刘秀才	Gliu Gxiu cai	12
 刘秀才	liu xiu cai	12
-刘秉忠	Gliu Gbin Gjiung	29
-刘秉忠	Gliu Gbin zhong	29
-刘秉忠	Gliu bing Gjiung	29
-刘秉忠	Gliu bing zhong	29
-刘秉忠	liu bing zhong	29
-刘积斌	Gliu Gji Gbin	259
-刘稻村	Gliu Gtau Gqyun	27
-刘稻村	Gliu Gtau cun	27
-刘稻村	Gliu dao Gqyun	27
-刘稻村	Gliu dao cun	27
-刘稻村	liu dao cun	27
 刘竹庄	Gliu Gjyu Gzong	6
 刘竹庄	Gliu Gjyu zhuang	6
 刘竹庄	Gliu zhu Gzong	6
 刘竹庄	Gliu zhu zhuang	6
 刘竹庄	liu zhu zhuang	6
-刘精松	Gliu Gjiang Gseng	257
-刘精松	Gliu Gjiang song	257
-刘精松	Gliu jing Gseng	257
-刘精松	Gliu jing song	257
-刘精松	liu jing song	257
-刘絮云	Gliu Gxyu Gyun	336
-刘絮云	Gliu xu Gyun	336
-刘絮云	liu xu yun	336
-刘纪文	Gliu Gji Gwen	7
-刘纪鹏	Gliu Gji Gpen	8
-刘纪鹏	Gliu Gji peng	8
-刘纪鹏	liu ji peng	8
-刘绍棠	Gliu Gseu Gtong	10
-刘绍棠	Gliu Gseu tang	10
-刘绍棠	Gliu shao Gtong	10
-刘绍棠	Gliu shao tang	10
-刘绍棠	liu shao tang	10
 刘继明	Gliu Gji Gmiang	6
 刘继明	Gliu Gji ming	6
 刘继明	liu ji ming	6
@@ -122663,16 +121842,6 @@ use_preset_vocabulary: false
 刘老爷	Gliu lao Gya	29
 刘老爷	Gliu lao ye	29
 刘老爷	liu lao ye	29
-刘联军	Gliu Glien Gjyun	7
-刘联军	Gliu Glien jun	7
-刘联军	Gliu lian Gjyun	7
-刘联军	Gliu lian jun	7
-刘联军	liu lian jun	7
-刘育海	Gliu Gyiu Ghoi	25
-刘育海	Gliu Gyiu hai	25
-刘育海	Gliu yu Ghoi	25
-刘育海	Gliu yu hai	25
-刘育海	liu yu hai	25
 刘胡兰	Gliu Gfu Glan	49
 刘胡兰	Gliu hu Glan	49
 刘胡兰	liu hu lan	49
@@ -122681,73 +121850,25 @@ use_preset_vocabulary: false
 刘自强	Gliu zi Gqiong	12
 刘自强	Gliu zi qiang	12
 刘自强	liu zi qiang	12
-刘舜仁	Gliu Gxyun Gnin	14
-刘舜仁	Gliu Gxyun ren	14
-刘舜仁	Gliu shun Gnin	14
-刘舜仁	Gliu shun ren	14
-刘舜仁	liu shun ren	14
-刘良佐	Gliu Gliong Gzo	38
-刘良佐	Gliu Gliong zuo	38
-刘良佐	Gliu liang Gzo	38
-刘良佐	Gliu liang zuo	38
-刘良佐	liu liang zuo	38
-刘芳亮	Gliu Gfong Gliong	294
-刘芳亮	Gliu Gfong liang	294
-刘芳亮	Gliu fang Gliong	294
-刘芳亮	Gliu fang liang	294
-刘芳亮	liu fang liang	294
-刘若愚	Gliu Glo Gyu	9
-刘若愚	Gliu ruo Gyu	9
-刘若愚	liu ruo yu	9
-刘茂林	Gliu Gmau Glin	10
-刘茂林	Gliu mao Glin	10
-刘茂林	liu mao lin	10
 刘表	Gliu Gbieu	71
 刘表	Gliu biao	71
 刘表	liu biao	71
 刘裕	Gliu Gyu	187
-刘西杰	Gliu Gxi Gjie	13
-刘诗昆	Gliu Gsi Gkun	7
-刘诗昆	Gliu shi Gkun	7
-刘诗昆	liu shi kun	7
-刘谋儿	Gliu Gmeu Ge	20
-刘谋儿	Gliu Gmeu er	20
-刘谋儿	Gliu mou Ge	20
-刘谋儿	Gliu mou er	20
-刘谋儿	liu mou er	20
 刘豫州	Gliu Gyu Gzeu	24
 刘豫州	Gliu Gyu zhou	24
 刘豫州	liu yu zhou	24
 刘贵妃	Gliu Ggui Gfi	71
 刘贵妃	Gliu Ggui fei	71
 刘贵妃	liu gui fei	71
-刘贵立	Gliu Ggui Gli	25
-刘贵芳	Gliu Ggui Gfong	16
-刘贵芳	Gliu Ggui fang	16
-刘贵芳	liu gui fang	16
 刘转运	Gliu Gjon Gyun	15
 刘转运	Gliu zhuan Gyun	15
 刘转运	liu zhuan yun	15
-刘进忠	Gliu Gjin Gjiung	11
-刘进忠	Gliu Gjin zhong	11
-刘进忠	liu jin zhong	11
 刘道玉	Gliu Gtau Gyu	256
 刘道玉	Gliu dao Gyu	256
 刘道玉	liu dao yu	256
 刘邦	Gliu Gbong	837
 刘邦	Gliu bang	837
 刘邦	liu bang	837
-刘郎浦	Gliu Glong Gpu	513
-刘郎浦	Gliu lang Gpu	513
-刘郎浦	liu lang pu	513
-刘醒龙	Gliu Gxiang Gliung	261
-刘醒龙	Gliu Gxiang long	261
-刘醒龙	Gliu xing Gliung	261
-刘醒龙	Gliu xing long	261
-刘醒龙	liu xing long	261
-刘采云	Gliu Gcoi Gyun	24
-刘采云	Gliu cai Gyun	24
-刘采云	liu cai yun	24
 刘重阳	Gliu Gqiung Gyong	6
 刘重阳	Gliu Gqiung yang	6
 刘重阳	Gliu chong Gyong	6
@@ -122756,13 +121877,6 @@ use_preset_vocabulary: false
 刘金平	Gliu Gjin Gpiang	13
 刘金平	Gliu Gjin ping	13
 刘金平	liu jin ping	13
-刘金英	Gliu Gjin Gyin	20
-刘金英	Gliu Gjin ying	20
-刘金英	liu jin ying	20
-刘金贵	Gliu Gjin Ggui	11
-刘铁军	Gliu Gtie Gjyun	7
-刘铁军	Gliu Gtie jun	7
-刘铁军	liu tie jun	7
 刘铭传	Gliu Gmiang Gqon	16
 刘铭传	Gliu Gmiang chuan	16
 刘铭传	Gliu ming Gqon	16
@@ -122773,43 +121887,9 @@ use_preset_vocabulary: false
 刘锦棠	Gliu jin Gtong	6
 刘锦棠	Gliu jin tang	6
 刘锦棠	liu jin tang	6
-刘长卿	Gliu Gqiong Gqin	7
-刘长卿	Gliu Gqiong qing	7
-刘长卿	Gliu zhang Gqin	7
-刘长卿	Gliu zhang qing	7
-刘长卿	liu zhang qing	7
-刘雁飞	Gliu Gyen Gfi	256
-刘雁飞	Gliu Gyen fei	256
-刘雁飞	Gliu yan Gfi	256
-刘雁飞	Gliu yan fei	256
-刘雁飞	liu yan fei	256
-刘雍凡	Gliu Gfeng Gfan	9
-刘雍凡	Gliu yong Gfan	9
-刘雍凡	liu yong fan	9
-刘雪荣	Gliu Gxie Gleng	256
-刘雪荣	Gliu Gxie rong	256
-刘雪荣	Gliu xue Gleng	256
-刘雪荣	Gliu xue rong	256
-刘雪荣	liu xue rong	256
-刘震云	Gliu Gzen Gyun	38
-刘震云	Gliu zhen Gyun	38
-刘震云	liu zhen yun	38
-刘青山	Gliu Gqiang Gsan	24
-刘青山	Gliu Gqiang shan	24
-刘青山	Gliu qing Gsan	24
-刘青山	Gliu qing shan	24
-刘青山	liu qing shan	24
-刘静逸	Gliu Gqin Gyi	44
-刘静逸	Gliu jing Gyi	44
-刘静逸	liu jing yi	44
 刘香兰	Gliu Gxiong Glan	6
 刘香兰	Gliu xiang Glan	6
 刘香兰	liu xiang lan	6
-刘高倬	Gliu Ggau Gzo	31
-刘高倬	Gliu Ggau zhuo	31
-刘高倬	Gliu gao Gzo	31
-刘高倬	Gliu gao zhuo	31
-刘高倬	liu gao zhuo	31
 刘鸿生	Gliu Gfen Gsang	6
 刘鸿生	Gliu Gfen sheng	6
 刘鸿生	Gliu hong Gsang	6
@@ -122820,7 +121900,6 @@ use_preset_vocabulary: false
 刘鹤真	Gliu he Gzen	106
 刘鹤真	Gliu he zhen	106
 刘鹤真	liu he zhen	106
-刘黎敏	Gliu Gli Gmin	256
 刘黑闼	Gliu Ghe Gtai	9
 刘黑闼	Gliu Ghe ta	9
 刘黑闼	Gliu hei Gtai	9
@@ -178242,14 +177321,6 @@ use_preset_vocabulary: false
 周三	Gzeu Gsan	211
 周三	zhou Gsan	211
 周三	zhou san	211
-周世兄	Gzeu Gsi Gxiang	7
-周世兄	Gzeu Gsi xiong	7
-周世兄	Gzeu shi Gxiang	7
-周世兄	Gzeu shi xiong	7
-周世兄	zhou Gsi Gxiang	7
-周世兄	zhou Gsi xiong	7
-周世兄	zhou shi Gxiang	7
-周世兄	zhou shi xiong	7
 周世宗	Gzeu Gsi Gzeng	37
 周世宗	Gzeu Gsi zong	37
 周世宗	Gzeu shi Gzeng	37
@@ -178258,20 +177329,10 @@ use_preset_vocabulary: false
 周世宗	zhou Gsi zong	37
 周世宗	zhou shi Gzeng	37
 周世宗	zhou shi zong	37
-周义霖	Gzeu Gni Glin	15
-周义霖	Gzeu yi Glin	15
-周义霖	zhou Gni Glin	15
-周义霖	zhou yi Glin	15
-周义霖	zhou yi lin	15
 周二	Gzeu Ge	392
 周二	Gzeu er	392
 周二	zhou Ge	392
 周二	zhou er	392
-周云阳	Gzeu Gyun Gyong	41
-周云阳	Gzeu Gyun yang	41
-周云阳	zhou Gyun Gyong	41
-周云阳	zhou Gyun yang	41
-周云阳	zhou yun yang	41
 周五	Gzeu Gng	269
 周五	Gzeu wu	269
 周五	zhou Gng	269
@@ -178281,14 +177342,6 @@ use_preset_vocabulary: false
 周亚夫	zhou Gnga Gfu	49
 周亚夫	zhou ya Gfu	49
 周亚夫	zhou ya fu	49
-周介生	Gzeu Gkai Gsang	8
-周介生	Gzeu Gkai sheng	8
-周介生	Gzeu jie Gsang	8
-周介生	Gzeu jie sheng	8
-周介生	zhou Gkai Gsang	8
-周介生	zhou Gkai sheng	8
-周介生	zhou jie Gsang	8
-周介生	zhou jie sheng	8
 周代	Gzeu Gtoi	260
 周代	Gzeu dai	260
 周代	zhou Gtoi	260
@@ -178301,11 +177354,6 @@ use_preset_vocabulary: false
 周仲英	zhou Gjiung ying	389
 周仲英	zhou zhong Gyin	389
 周仲英	zhou zhong ying	389
-周伟良	Gzeu Gwei Gliong	8
-周伟良	Gzeu Gwei liang	8
-周伟良	zhou Gwei Gliong	8
-周伟良	zhou Gwei liang	8
-周伟良	zhou wei liang	8
 周传瑛	Gzeu Gqon Gyin	6
 周传瑛	Gzeu Gqon ying	6
 周传瑛	Gzeu chuan Gyin	6
@@ -178314,19 +177362,6 @@ use_preset_vocabulary: false
 周传瑛	zhou Gqon ying	6
 周传瑛	zhou chuan Gyin	6
 周传瑛	zhou chuan ying	6
-周传雄	Gzeu Gqon Gxiung	256
-周传雄	Gzeu Gqon xiong	256
-周传雄	Gzeu chuan Gxiung	256
-周传雄	Gzeu chuan xiong	256
-周传雄	zhou Gqon Gxiung	256
-周传雄	zhou Gqon xiong	256
-周传雄	zhou chuan Gxiung	256
-周传雄	zhou chuan xiong	256
-周伯信	Gzeu Gbe Gxin	55
-周伯信	Gzeu bo Gxin	55
-周伯信	zhou Gbe Gxin	55
-周伯信	zhou bo Gxin	55
-周伯信	zhou bo xin	55
 周伯通	Gzeu Gbe Gteng	1476
 周伯通	Gzeu Gbe tong	1476
 周伯通	Gzeu bo Gteng	1476
@@ -178351,11 +177386,6 @@ use_preset_vocabulary: false
 周作人	zhou Gzo ren	92
 周作人	zhou zuo Gnin	92
 周作人	zhou zuo ren	92
-周信芳	Gzeu Gxin Gfong	16
-周信芳	Gzeu Gxin fang	16
-周信芳	zhou Gxin Gfong	16
-周信芳	zhou Gxin fang	16
-周信芳	zhou xin fang	16
 周元忠	Gzeu Gyon Gjiung	6
 周元忠	Gzeu Gyon zhong	6
 周元忠	Gzeu yuan Gjiung	6
@@ -178372,36 +177402,10 @@ use_preset_vocabulary: false
 周先生	zhou Gxien sheng	8
 周先生	zhou xian Gsang	8
 周先生	zhou xian sheng	8
-周光召	Gzeu Gguong Gzeu	17
-周光召	Gzeu Gguong zhao	17
-周光召	Gzeu guang Gzeu	17
-周光召	Gzeu guang zhao	17
-周光召	zhou Gguong Gzeu	17
-周光召	zhou Gguong zhao	17
-周光召	zhou guang Gzeu	17
-周光召	zhou guang zhao	17
 周全	Gzeu Gqon	261
 周全	Gzeu quan	261
 周全	zhou Gqon	261
 周全	zhou quan	261
-周八师	Gzeu Gba Gsi	8
-周八师	Gzeu Gba Gsu	8
-周八师	Gzeu Gba shi	8
-周八师	Gzeu Gbai Gsi	8
-周八师	Gzeu Gbai Gsu	8
-周八师	Gzeu Gbai shi	8
-周八师	Gzeu ba Gsi	8
-周八师	Gzeu ba Gsu	8
-周八师	Gzeu ba shi	8
-周八师	zhou Gba Gsi	8
-周八师	zhou Gba Gsu	8
-周八师	zhou Gba shi	8
-周八师	zhou Gbai Gsi	8
-周八师	zhou Gbai Gsu	8
-周八师	zhou Gbai shi	8
-周八师	zhou ba Gsi	8
-周八师	zhou ba Gsu	8
-周八师	zhou ba shi	8
 周公庙	Gzeu Ggung Gmieu	31
 周公庙	Gzeu Ggung miao	31
 周公庙	Gzeu gong Gmieu	31
@@ -178430,11 +177434,6 @@ use_preset_vocabulary: false
 周刊	Gzeu kan	978
 周刊	zhou Gkon	978
 周刊	zhou kan	978
-周则天	Gzeu Gze Gtien	9
-周则天	Gzeu Gze tian	9
-周则天	zhou Gze Gtien	9
-周则天	zhou Gze tian	9
-周则天	zhou ze tian	9
 周初	Gzeu Gqyu	72
 周初	Gzeu chu	72
 周初	zhou Gqyu	72
@@ -178443,17 +177442,6 @@ use_preset_vocabulary: false
 周到	Gzeu dao	443
 周到	zhou Gdau	443
 周到	zhou dao	443
-周勃	Gzeu Gbo	43
-周勃	zhou Gbo	43
-周勃	zhou bo	43
-周勇江	Gzeu Gyung Ggong	19
-周勇江	Gzeu Gyung jiang	19
-周勇江	Gzeu yong Ggong	19
-周勇江	Gzeu yong jiang	19
-周勇江	zhou Gyung Ggong	19
-周勇江	zhou Gyung jiang	19
-周勇江	zhou yong Ggong	19
-周勇江	zhou yong jiang	19
 周厉王	Gzeu Gli Gwong	35
 周厉王	Gzeu Gli wang	35
 周厉王	zhou Gli Gwong	35
@@ -178512,11 +177500,6 @@ use_preset_vocabulary: false
 周口店遗址博物馆	zhou kou dian Gyi zhi Gbo Gwu Gguon	7
 周口店遗址博物馆	zhou kou dian Gyi zhi Gbo Gwu guan	7
 周口店遗址博物馆	zhou kou dian yi zhi bo wu guan	7
-周吴郑	Gzeu Gwu Gzen	10
-周吴郑	Gzeu Gwu zheng	10
-周吴郑	zhou Gwu Gzen	10
-周吴郑	zhou Gwu zheng	10
-周吴郑	zhou wu zheng	10
 周吴陈	Gzeu Gwu Gcen	6
 周吴陈	Gzeu Gwu chen	6
 周吴陈	zhou Gwu Gcen	6
@@ -178530,11 +177513,6 @@ use_preset_vocabulary: false
 周和平	zhou Gho ping	6
 周和平	zhou he Gpiang	6
 周和平	zhou he ping	6
-周嘉谟	Gzeu Gga Gmo	13
-周嘉谟	Gzeu jia Gmo	13
-周嘉谟	zhou Gga Gmo	13
-周嘉谟	zhou jia Gmo	13
-周嘉谟	zhou jia mo	13
 周四	Gzeu Gsu	204
 周四	Gzeu si	204
 周四	zhou Gsu	204
@@ -178551,45 +177529,6 @@ use_preset_vocabulary: false
 周围神经	zhou Gwei shen Gjin	26
 周围神经	zhou Gwei shen jing	26
 周围神经	zhou wei shen jing	26
-周国卿	Gzeu Ggue Gqin	10
-周国卿	Gzeu Ggue qing	10
-周国卿	Gzeu guo Gqin	10
-周国卿	Gzeu guo qing	10
-周国卿	zhou Ggue Gqin	10
-周国卿	zhou Ggue qing	10
-周国卿	zhou guo Gqin	10
-周国卿	zhou guo qing	10
-周坤仁	Gzeu Gkun Gnin	257
-周坤仁	Gzeu Gkun ren	257
-周坤仁	zhou Gkun Gnin	257
-周坤仁	zhou Gkun ren	257
-周坤仁	zhou kun ren	257
-周培公	Gzeu Gpi Ggung	256
-周培公	Gzeu Gpi gong	256
-周培公	Gzeu pei Ggung	256
-周培公	Gzeu pei gong	256
-周培公	zhou Gpi Ggung	256
-周培公	zhou Gpi gong	256
-周培公	zhou pei Ggung	256
-周培公	zhou pei gong	256
-周培毅	Gzeu Gpi Gyi	8
-周培毅	Gzeu pei Gyi	8
-周培毅	zhou Gpi Gyi	8
-周培毅	zhou pei Gyi	8
-周培毅	zhou pei yi	8
-周培源	Gzeu Gpi Gyon	9
-周培源	Gzeu Gpi yuan	9
-周培源	Gzeu pei Gyon	9
-周培源	Gzeu pei yuan	9
-周培源	zhou Gpi Gyon	9
-周培源	zhou Gpi yuan	9
-周培源	zhou pei Gyon	9
-周培源	zhou pei yuan	9
-周士朴	Gzeu Gsi Gpu	8
-周士朴	Gzeu shi Gpu	8
-周士朴	zhou Gsi Gpu	8
-周士朴	zhou shi Gpu	8
-周士朴	zhou shi pu	8
 周大人	Gzeu Gtai Gnin	7
 周大人	Gzeu Gtai ren	7
 周大人	Gzeu da Gnin	7
@@ -178606,52 +177545,10 @@ use_preset_vocabulary: false
 周大哥	zhou Gtai ge	49
 周大哥	zhou da Gko	49
 周大哥	zhou da ge	49
-周大奶奶	Gzeu Gtai Glai Glai	26
-周大奶奶	Gzeu Gtai Glai nai	26
-周大奶奶	Gzeu Gtai nai Glai	26
-周大奶奶	Gzeu Gtai nai nai	26
-周大奶奶	Gzeu da Glai Glai	26
-周大奶奶	Gzeu da Glai nai	26
-周大奶奶	Gzeu da nai Glai	26
-周大奶奶	Gzeu da nai nai	26
-周大奶奶	zhou Gtai Glai Glai	26
-周大奶奶	zhou Gtai Glai nai	26
-周大奶奶	zhou Gtai nai Glai	26
-周大奶奶	zhou Gtai nai nai	26
-周大奶奶	zhou da Glai Glai	26
-周大奶奶	zhou da Glai nai	26
-周大奶奶	zhou da nai Glai	26
-周大奶奶	zhou da nai nai	26
 周天	Gzeu Gtien	40
 周天	Gzeu tian	40
 周天	zhou Gtien	40
 周天	zhou tian	40
-周天伦	Gzeu Gtien Glen	9
-周天伦	Gzeu Gtien lun	9
-周天伦	Gzeu tian Glen	9
-周天伦	Gzeu tian lun	9
-周天伦	zhou Gtien Glen	9
-周天伦	zhou Gtien lun	9
-周天伦	zhou tian Glen	9
-周天伦	zhou tian lun	9
-周天勇	Gzeu Gtien Gyung	7
-周天勇	Gzeu Gtien yong	7
-周天勇	Gzeu tian Gyung	7
-周天勇	Gzeu tian yong	7
-周天勇	zhou Gtien Gyung	7
-周天勇	zhou Gtien yong	7
-周天勇	zhou tian Gyung	7
-周天勇	zhou tian yong	7
-周天卦	Gzeu Gtien Ggua	27
-周天卦	Gzeu tian Ggua	27
-周天卦	zhou Gtien Ggua	27
-周天卦	zhou tian Ggua	27
-周天卦	zhou tian gua	27
-周天古	Gzeu Gtien Ggu	10
-周天古	Gzeu tian Ggu	10
-周天古	zhou Gtien Ggu	10
-周天古	zhou tian Ggu	10
-周天古	zhou tian gu	10
 周天子	Gzeu Gtien Gzu	29
 周天子	Gzeu Gtien zi	29
 周天子	Gzeu tian Gzu	29
@@ -178660,25 +177557,6 @@ use_preset_vocabulary: false
 周天子	zhou Gtien zi	29
 周天子	zhou tian Gzu	29
 周天子	zhou tian zi	29
-周姊姊	Gzeu Gzu Gzu	14
-周姊姊	Gzeu Gzu zi	14
-周姊姊	Gzeu zi Gzu	14
-周姊姊	Gzeu zi zi	14
-周姊姊	zhou Gzu Gzu	14
-周姊姊	zhou Gzu zi	14
-周姊姊	zhou zi Gzu	14
-周姊姊	zhou zi zi	14
-周姨娘	Gzeu Gyi Gniong	10
-周姨娘	Gzeu Gyi niang	10
-周姨娘	zhou Gyi Gniong	10
-周姨娘	zhou Gyi niang	10
-周姨娘	zhou yi niang	10
-周威信	Gzeu Gwei Gxin	20
-周威信	zhou Gwei Gxin	20
-周威信	zhou wei xin	20
-周威烈	Gzeu Gwei Glie	8
-周威烈	zhou Gwei Glie	8
-周威烈	zhou wei lie	8
 周子东	Gzeu Gzu Gdeng	6
 周子东	Gzeu Gzu dong	6
 周子东	Gzeu zi Gdeng	6
@@ -178687,43 +177565,11 @@ use_preset_vocabulary: false
 周子东	zhou Gzu dong	6
 周子东	zhou zi Gdeng	6
 周子东	zhou zi dong	6
-周子旺	Gzeu Gzu Gwong	10
-周子旺	Gzeu Gzu wang	10
-周子旺	Gzeu zi Gwong	10
-周子旺	Gzeu zi wang	10
-周子旺	zhou Gzu Gwong	10
-周子旺	zhou Gzu wang	10
-周子旺	zhou zi Gwong	10
-周子旺	zhou zi wang	10
 周子昆	Gzeu Gzu Gkun	6
 周子昆	Gzeu zi Gkun	6
 周子昆	zhou Gzu Gkun	6
 周子昆	zhou zi Gkun	6
 周子昆	zhou zi kun	6
-周孔惠	Gzeu Gkung Gfi	9
-周孔惠	Gzeu Gkung hui	9
-周孔惠	Gzeu kong Gfi	9
-周孔惠	Gzeu kong hui	9
-周孔惠	zhou Gkung Gfi	9
-周孔惠	zhou Gkung hui	9
-周孔惠	zhou kong Gfi	9
-周孔惠	zhou kong hui	9
-周宏英	Gzeu Gfeng Gyin	10
-周宏英	Gzeu Gfeng ying	10
-周宏英	Gzeu hong Gyin	10
-周宏英	Gzeu hong ying	10
-周宏英	zhou Gfeng Gyin	10
-周宏英	zhou Gfeng ying	10
-周宏英	zhou hong Gyin	10
-周宏英	zhou hong ying	10
-周宗建	Gzeu Gzeng Gjien	8
-周宗建	Gzeu Gzeng jian	8
-周宗建	Gzeu zong Gjien	8
-周宗建	Gzeu zong jian	8
-周宗建	zhou Gzeng Gjien	8
-周宗建	zhou Gzeng jian	8
-周宗建	zhou zong Gjien	8
-周宗建	zhou zong jian	8
 周定公	Gzeu Gtiang Ggung	6
 周定公	Gzeu Gtiang gong	6
 周定公	Gzeu ding Ggung	6
@@ -178740,11 +177586,6 @@ use_preset_vocabulary: false
 周宝珠	zhou Gbau zhu	11
 周宝珠	zhou bao Gjyu	11
 周宝珠	zhou bao zhu	11
-周宝裕	Gzeu Gbau Gyu	7
-周宝裕	Gzeu bao Gyu	7
-周宝裕	zhou Gbau Gyu	7
-周宝裕	zhou bao Gyu	7
-周宝裕	zhou bao yu	7
 周宣王	Gzeu Gxyuon Gwong	60
 周宣王	Gzeu Gxyuon wang	60
 周宣王	Gzeu xuan Gwong	60
@@ -178761,106 +177602,13 @@ use_preset_vocabulary: false
 周家	Gzeu jia	298
 周家	zhou Gga	298
 周家	zhou jia	298
-周家口	Gzeu Gga Gkieu	9
-周家口	Gzeu Gga kou	9
-周家口	Gzeu jia Gkieu	9
-周家口	Gzeu jia kou	9
-周家口	zhou Gga Gkieu	9
-周家口	zhou Gga kou	9
-周家口	zhou jia Gkieu	9
-周家口	zhou jia kou	9
-周家庄	Gzeu Gga Gzong	9
-周家庄	Gzeu Gga zhuang	9
-周家庄	Gzeu jia Gzong	9
-周家庄	Gzeu jia zhuang	9
-周家庄	zhou Gga Gzong	9
-周家庄	zhou Gga zhuang	9
-周家庄	zhou jia Gzong	9
-周家庄	zhou jia zhuang	9
-周家湖	Gzeu Gga Gfu	256
-周家湖	Gzeu Gga hu	256
-周家湖	Gzeu jia Gfu	256
-周家湖	Gzeu jia hu	256
-周家湖	zhou Gga Gfu	256
-周家湖	zhou Gga hu	256
-周家湖	zhou jia Gfu	256
-周家湖	zhou jia hu	256
 周密	Gzeu Gmi	447
 周密	zhou Gmi	447
 周密	zhou mi	447
-周小川	Gzeu Gxieu Gqon	23
-周小川	Gzeu Gxieu chuan	23
-周小川	Gzeu xiao Gqon	23
-周小川	Gzeu xiao chuan	23
-周小川	zhou Gxieu Gqon	23
-周小川	zhou Gxieu chuan	23
-周小川	zhou xiao Gqon	23
-周小川	zhou xiao chuan	23
-周小明	Gzeu Gxieu Gmiang	7
-周小明	Gzeu Gxieu ming	7
-周小明	Gzeu xiao Gmiang	7
-周小明	Gzeu xiao ming	7
-周小明	zhou Gxieu Gmiang	7
-周小明	zhou Gxieu ming	7
-周小明	zhou xiao Gmiang	7
-周小明	zhou xiao ming	7
-周小燕	Gzeu Gxieu Gyen	27
-周小燕	Gzeu Gxieu yan	27
-周小燕	Gzeu xiao Gyen	27
-周小燕	Gzeu xiao yan	27
-周小燕	zhou Gxieu Gyen	27
-周小燕	zhou Gxieu yan	27
-周小燕	zhou xiao Gyen	27
-周小燕	zhou xiao yan	27
-周小舟	Gzeu Gxieu Gzeu	21
-周小舟	Gzeu Gxieu zhou	21
-周小舟	Gzeu xiao Gzeu	21
-周小舟	Gzeu xiao zhou	21
-周小舟	zhou Gxieu Gzeu	21
-周小舟	zhou Gxieu zhou	21
-周小舟	zhou xiao Gzeu	21
-周小舟	zhou xiao zhou	21
-周少波	Gzeu Gseu Gbo	256
-周少波	Gzeu shao Gbo	256
-周少波	zhou Gseu Gbo	256
-周少波	zhou shao Gbo	256
-周少波	zhou shao bo	256
 周岁	Gzeu Gxi	496
 周岁	Gzeu sui	496
 周岁	zhou Gxi	496
 周岁	zhou sui	496
-周崇光	Gzeu Gqiung Gguong	9
-周崇光	Gzeu Gqiung guang	9
-周崇光	Gzeu chong Gguong	9
-周崇光	Gzeu chong guang	9
-周崇光	zhou Gqiung Gguong	9
-周崇光	zhou Gqiung guang	9
-周崇光	zhou chong Gguong	9
-周崇光	zhou chong guang	9
-周师兄	Gzeu Gsi Gxiang	17
-周师兄	Gzeu Gsi xiong	17
-周师兄	Gzeu Gsu Gxiang	17
-周师兄	Gzeu Gsu xiong	17
-周师兄	Gzeu shi Gxiang	17
-周师兄	Gzeu shi xiong	17
-周师兄	zhou Gsi Gxiang	17
-周师兄	zhou Gsi xiong	17
-周师兄	zhou Gsu Gxiang	17
-周师兄	zhou Gsu xiong	17
-周师兄	zhou shi Gxiang	17
-周师兄	zhou shi xiong	17
-周师叔	Gzeu Gsi Gxyu	28
-周师叔	Gzeu Gsi shu	28
-周师叔	Gzeu Gsu Gxyu	28
-周师叔	Gzeu Gsu shu	28
-周师叔	Gzeu shi Gxyu	28
-周师叔	Gzeu shi shu	28
-周师叔	zhou Gsi Gxyu	28
-周师叔	zhou Gsi shu	28
-周师叔	zhou Gsu Gxyu	28
-周师叔	zhou Gsu shu	28
-周师叔	zhou shi Gxyu	28
-周师叔	zhou shi shu	28
 周平王	Gzeu Gpiang Gwong	15
 周平王	Gzeu Gpiang wang	15
 周平王	Gzeu ping Gwong	15
@@ -178905,14 +177653,6 @@ use_preset_vocabulary: false
 周延	Gzeu yan	33
 周延	zhou Gyen	33
 周延	zhou yan	33
-周延儒	Gzeu Gyen Glu	169
-周延儒	Gzeu Gyen ru	169
-周延儒	Gzeu yan Glu	169
-周延儒	Gzeu yan ru	169
-周延儒	zhou Gyen Glu	169
-周延儒	zhou Gyen ru	169
-周延儒	zhou yan Glu	169
-周延儒	zhou yan ru	169
 周建人	Gzeu Gjien Gnin	8
 周建人	Gzeu Gjien ren	8
 周建人	Gzeu jian Gnin	8
@@ -178934,48 +177674,11 @@ use_preset_vocabulary: false
 周德兴	zhou Gde Gxin	6
 周德兴	zhou Gde xing	6
 周德兴	zhou de xing	6
-周德武	Gzeu Gde Gwu	7
-周德武	zhou Gde Gwu	7
-周德武	zhou de wu	7
-周心媛	Gzeu Gxin Gyon	8
-周心媛	Gzeu Gxin yuan	8
-周心媛	zhou Gxin Gyon	8
-周心媛	zhou Gxin yuan	8
-周心媛	zhou xin yuan	8
-周志方	Gzeu Gzi Gfong	9
-周志方	Gzeu Gzi fang	9
-周志方	Gzeu zhi Gfong	9
-周志方	Gzeu zhi fang	9
-周志方	zhou Gzi Gfong	9
-周志方	zhou Gzi fang	9
-周志方	zhou zhi Gfong	9
-周志方	zhou zhi fang	9
-周志腾	Gzeu Gzi Gteng	12
-周志腾	Gzeu zhi Gteng	12
-周志腾	zhou Gzi Gteng	12
-周志腾	zhou zhi Gteng	12
-周志腾	zhou zhi teng	12
-周思聪	Gzeu Gsu Gceng	9
-周思聪	Gzeu Gsu cong	9
-周思聪	Gzeu si Gceng	9
-周思聪	Gzeu si cong	9
-周思聪	zhou Gsu Gceng	9
-周思聪	zhou Gsu cong	9
-周思聪	zhou si Gceng	9
-周思聪	zhou si cong	9
 周总理	Gzeu Gzeng Gli	36
 周总理	Gzeu zong Gli	36
 周总理	zhou Gzeng Gli	36
 周总理	zhou zong Gli	36
 周总理	zhou zong li	36
-周总镖	Gzeu Gzeng Gpieu	13
-周总镖	Gzeu Gzeng biao	13
-周总镖	Gzeu zong Gpieu	13
-周总镖	Gzeu zong biao	13
-周总镖	zhou Gzeng Gpieu	13
-周总镖	zhou Gzeng biao	13
-周总镖	zhou zong Gpieu	13
-周总镖	zhou zong biao	13
 周恩来	Gzeu Gngien Gloi	3067
 周恩来	Gzeu Gngien lai	3067
 周恩来	Gzeu en Gloi	3067
@@ -178984,11 +177687,6 @@ use_preset_vocabulary: false
 周恩来	zhou Gngien lai	3067
 周恩来	zhou en Gloi	3067
 周恩来	zhou en lai	3067
-周慈朴	Gzeu Gcu Gpu	11
-周慈朴	Gzeu ci Gpu	11
-周慈朴	zhou Gcu Gpu	11
-周慈朴	zhou ci Gpu	11
-周慈朴	zhou ci pu	11
 周懿王	Gzeu Gbi Gwong	8
 周懿王	Gzeu Gbi wang	8
 周懿王	Gzeu yi Gwong	8
@@ -179021,14 +177719,6 @@ use_preset_vocabulary: false
 周成王	zhou Gxiang wang	43
 周成王	zhou cheng Gwong	43
 周成王	zhou cheng wang	43
-周承恩	Gzeu Gcen Gngien	17
-周承恩	Gzeu Gcen en	17
-周承恩	Gzeu cheng Gngien	17
-周承恩	Gzeu cheng en	17
-周承恩	zhou Gcen Gngien	17
-周承恩	zhou Gcen en	17
-周承恩	zhou cheng Gngien	17
-周承恩	zhou cheng en	17
 周折	Gzeu Gze	120
 周折	Gzeu zhe	120
 周折	zhou Gze	120
@@ -179061,11 +177751,6 @@ use_preset_vocabulary: false
 周敬王	zhou Gjin wang	12
 周敬王	zhou jing Gwong	12
 周敬王	zhou jing wang	12
-周文元	Gzeu Gwen Gyon	9
-周文元	Gzeu Gwen yuan	9
-周文元	zhou Gwen Gyon	9
-周文元	zhou Gwen yuan	9
-周文元	zhou wen yuan	9
 周文昌	Gzeu Gwen Gqiong	6
 周文昌	Gzeu Gwen chang	6
 周文昌	zhou Gwen Gqiong	6
@@ -179112,11 +177797,6 @@ use_preset_vocabulary: false
 周昭王	zhou Gzeu wang	25
 周昭王	zhou zhao Gwong	25
 周昭王	zhou zhao wang	25
-周显谟	Gzeu Gxien Gmo	48
-周显谟	Gzeu xian Gmo	48
-周显谟	zhou Gxien Gmo	48
-周显谟	zhou xian Gmo	48
-周显谟	zhou xian mo	48
 周朝	Gzeu Gzeu	182
 周朝	Gzeu chao	182
 周朝	zhou Gzeu	182
@@ -179184,16 +177864,6 @@ use_preset_vocabulary: false
 周杰伦	zhou Gjie Glen	89
 周杰伦	zhou Gjie lun	89
 周杰伦	zhou jie lun	89
-周树杰	Gzeu Gxyu Gjie	8
-周树杰	Gzeu shu Gjie	8
-周树杰	zhou Gxyu Gjie	8
-周树杰	zhou shu Gjie	8
-周树杰	zhou shu jie	8
-周森锋	Gzeu Gsen Gfen	256
-周森锋	Gzeu Gsen feng	256
-周森锋	zhou Gsen Gfen	256
-周森锋	zhou Gsen feng	256
-周森锋	zhou sen feng	256
 周正	Gzeu Gjiang	18
 周正	Gzeu zheng	18
 周正	zhou Gjiang	18
@@ -179216,22 +177886,6 @@ use_preset_vocabulary: false
 周武王	zhou Gwu Gwong	99
 周武王	zhou Gwu wang	99
 周武王	zhou wu wang	99
-周永年	Gzeu Gyung Gnien	30
-周永年	Gzeu Gyung nian	30
-周永年	Gzeu yong Gnien	30
-周永年	Gzeu yong nian	30
-周永年	zhou Gyung Gnien	30
-周永年	zhou Gyung nian	30
-周永年	zhou yong Gnien	30
-周永年	zhou yong nian	30
-周汝昌	Gzeu Gxyu Gqiong	7
-周汝昌	Gzeu Gxyu chang	7
-周汝昌	Gzeu ru Gqiong	7
-周汝昌	Gzeu ru chang	7
-周汝昌	zhou Gxyu Gqiong	7
-周汝昌	zhou Gxyu chang	7
-周汝昌	zhou ru Gqiong	7
-周汝昌	zhou ru chang	7
 周沧海	Gzeu Gcong Ghoi	6
 周沧海	Gzeu Gcong hai	6
 周沧海	Gzeu cang Ghoi	6
@@ -179248,31 +177902,14 @@ use_preset_vocabulary: false
 周泓洋	zhou Gyin yang	6
 周泓洋	zhou hong Gyong	6
 周泓洋	zhou hong yang	6
-周波	Gzeu Gbo	8
-周波	zhou Gbo	8
-周波	zhou bo	8
 周泽琳	Gzeu Gca Glin	7
 周泽琳	Gzeu ze Glin	7
 周泽琳	zhou Gca Glin	7
 周泽琳	zhou ze Glin	7
 周泽琳	zhou ze lin	7
-周洪宇	Gzeu Gfeng Gyu	8
-周洪宇	Gzeu hong Gyu	8
-周洪宇	zhou Gfeng Gyu	8
-周洪宇	zhou hong Gyu	8
-周洪宇	zhou hong yu	8
 周济	Gzeu Gji	139
 周济	zhou Gji	139
 周济	zhou ji	139
-周海滨	Gzeu Ghoi Gbin	27
-周海滨	Gzeu hai Gbin	27
-周海滨	zhou Ghoi Gbin	27
-周海滨	zhou hai Gbin	27
-周海滨	zhou hai bin	27
-周润	Gzeu Glen	7
-周润	Gzeu run	7
-周润	zhou Glen	7
-周润	zhou run	7
 周润发	Gzeu Glen Gfai	6
 周润发	Gzeu Glen fa	6
 周润发	Gzeu run Gfai	6
@@ -179281,34 +177918,10 @@ use_preset_vocabulary: false
 周润发	zhou Glen fa	6
 周润发	zhou run Gfai	6
 周润发	zhou run fa	6
-周清澍	Gzeu Gqiang Gjyu	19
-周清澍	Gzeu Gqiang shu	19
-周清澍	Gzeu Gqin Gjyu	19
-周清澍	Gzeu Gqin shu	19
-周清澍	Gzeu qing Gjyu	19
-周清澍	Gzeu qing shu	19
-周清澍	zhou Gqiang Gjyu	19
-周清澍	zhou Gqiang shu	19
-周清澍	zhou Gqin Gjyu	19
-周清澍	zhou Gqin shu	19
-周清澍	zhou qing Gjyu	19
-周清澍	zhou qing shu	19
 周游	Gzeu Gyiu	123
 周游	Gzeu you	123
 周游	zhou Gyiu	123
 周游	zhou you	123
-周玉宝	Gzeu Gyu Gbau	21
-周玉宝	Gzeu Gyu bao	21
-周玉宝	zhou Gyu Gbau	21
-周玉宝	zhou Gyu bao	21
-周玉宝	zhou yu bao	21
-周玉清	Gzeu Gyu Gqiang	256
-周玉清	Gzeu Gyu Gqin	256
-周玉清	Gzeu Gyu qing	256
-周玉清	zhou Gyu Gqiang	256
-周玉清	zhou Gyu Gqin	256
-周玉清	zhou Gyu qing	256
-周玉清	zhou yu qing	256
 周王城	Gzeu Gwong Gcen	6
 周王城	Gzeu Gwong cheng	6
 周王城	Gzeu wang Gcen	6
@@ -179317,23 +177930,9 @@ use_preset_vocabulary: false
 周王城	zhou Gwong cheng	6
 周王城	zhou wang Gcen	6
 周王城	zhou wang cheng	6
-周琦思	Gzeu Gqi Gsu	80
-周琦思	Gzeu Gqi si	80
-周琦思	zhou Gqi Gsu	80
-周琦思	zhou Gqi si	80
-周琦思	zhou qi si	80
 周瑜	Gzeu Gyu	316
 周瑜	zhou Gyu	316
 周瑜	zhou yu	316
-周瑜打黄盖	Gzeu Gyu Gda Gwong Ggoi	7
-周瑜打黄盖	Gzeu Gyu Gda Gwong gai	7
-周瑜打黄盖	Gzeu Gyu Gda huang Ggoi	7
-周瑜打黄盖	Gzeu Gyu Gda huang gai	7
-周瑜打黄盖	zhou Gyu Gda Gwong Ggoi	7
-周瑜打黄盖	zhou Gyu Gda Gwong gai	7
-周瑜打黄盖	zhou Gyu Gda huang Ggoi	7
-周瑜打黄盖	zhou Gyu Gda huang gai	7
-周瑜打黄盖	zhou yu da huang gai	7
 周璇	Gzeu Gxon	6
 周璇	Gzeu xuan	6
 周璇	zhou Gxon	6
@@ -179362,42 +177961,14 @@ use_preset_vocabulary: false
 周皇后	zhou Gfong hou	14
 周皇后	zhou huang Gheu	14
 周皇后	zhou huang hou	14
-周相公	Gzeu Gxiong Ggung	7
-周相公	Gzeu Gxiong gong	7
-周相公	Gzeu xiang Ggung	7
-周相公	Gzeu xiang gong	7
-周相公	zhou Gxiong Ggung	7
-周相公	zhou Gxiong gong	7
-周相公	zhou xiang Ggung	7
-周相公	zhou xiang gong	7
-周知	Gzeu Gzi	17
-周知	Gzeu zhi	17
-周知	zhou Gzi	17
-周知	zhou zhi	17
 周礼	Gzeu Gli	260
 周礼	zhou Gli	260
 周礼	zhou li	260
-周秉道	Gzeu Gbin Gtau	12
-周秉道	Gzeu Gbin dao	12
-周秉道	Gzeu bing Gtau	12
-周秉道	Gzeu bing dao	12
-周秉道	zhou Gbin Gtau	12
-周秉道	zhou Gbin dao	12
-周秉道	zhou bing Gtau	12
-周秉道	zhou bing dao	12
-周秦	Gzeu Gqin	12
-周秦	zhou Gqin	12
-周秦	zhou qin	12
 周穆王	Gzeu Gmu Gwong	76
 周穆王	Gzeu Gmu wang	76
 周穆王	zhou Gmu Gwong	76
 周穆王	zhou Gmu wang	76
 周穆王	zhou mu wang	76
-周立勋	Gzeu Gli Gxyun	10
-周立勋	Gzeu Gli xun	10
-周立勋	zhou Gli Gxyun	10
-周立勋	zhou Gli xun	10
-周立勋	zhou li xun	10
 周立波	Gzeu Gli Gbo	12
 周立波	zhou Gli Gbo	12
 周立波	zhou li bo	12
@@ -179414,19 +177985,6 @@ use_preset_vocabulary: false
 周笔畅	zhou Gbi Gqiong	10
 周笔畅	zhou Gbi chang	10
 周笔畅	zhou bi chang	10
-周纯全	Gzeu Gqyun Gqon	257
-周纯全	Gzeu Gqyun quan	257
-周纯全	Gzeu chun Gqon	257
-周纯全	Gzeu chun quan	257
-周纯全	zhou Gqyun Gqon	257
-周纯全	zhou Gqyun quan	257
-周纯全	zhou chun Gqon	257
-周纯全	zhou chun quan	257
-周继红	Gzeu Gji Gfeng	262
-周继红	Gzeu Gji hong	262
-周继红	zhou Gji Gfeng	262
-周继红	zhou Gji hong	262
-周继红	zhou ji hong	262
 周缘	Gzeu Gyon	22
 周缘	Gzeu yuan	22
 周缘	zhou Gyon	22
@@ -179468,14 +178026,6 @@ use_preset_vocabulary: false
 周至县	zhou Gzi xian	7
 周至县	zhou zhi Gxon	7
 周至县	zhou zhi xian	7
-周良霄	Gzeu Gliong Gxieu	28
-周良霄	Gzeu Gliong xiao	28
-周良霄	Gzeu liang Gxieu	28
-周良霄	Gzeu liang xiao	28
-周良霄	zhou Gliong Gxieu	28
-周良霄	zhou Gliong xiao	28
-周良霄	zhou liang Gxieu	28
-周良霄	zhou liang xiao	28
 周芷若	Gzeu Gzi Glo	815
 周芷若	Gzeu Gzi ruo	815
 周芷若	Gzeu zhi Glo	815
@@ -179484,57 +178034,10 @@ use_preset_vocabulary: false
 周芷若	zhou Gzi ruo	815
 周芷若	zhou zhi Glo	815
 周芷若	zhou zhi ruo	815
-周英杰	Gzeu Gyin Gjie	30
-周英杰	Gzeu ying Gjie	30
-周英杰	zhou Gyin Gjie	30
-周英杰	zhou ying Gjie	30
-周英杰	zhou ying jie	30
-周荣曜	Gzeu Gleng Gyeu	28
-周荣曜	Gzeu Gleng yao	28
-周荣曜	Gzeu rong Gyeu	28
-周荣曜	Gzeu rong yao	28
-周荣曜	zhou Gleng Gyeu	28
-周荣曜	zhou Gleng yao	28
-周荣曜	zhou rong Gyeu	28
-周荣曜	zhou rong yao	28
-周行逢	Gzeu Ghang Gfeng	7
-周行逢	Gzeu xing Gfeng	7
-周行逢	zhou Ghang Gfeng	7
-周行逢	zhou xing Gfeng	7
-周行逢	zhou xing feng	7
-周表	Gzeu Gbieu	9
-周表	Gzeu biao	9
-周表	zhou Gbieu	9
-周表	zhou biao	9
-周襄王	Gzeu Gxiong Gwong	10
-周襄王	Gzeu Gxiong wang	10
-周襄王	Gzeu xiang Gwong	10
-周襄王	Gzeu xiang wang	10
-周襄王	zhou Gxiong Gwong	10
-周襄王	zhou Gxiong wang	10
-周襄王	zhou xiang Gwong	10
-周襄王	zhou xiang wang	10
-周观政	Gzeu Gguon Gzen	9
-周观政	Gzeu Gguon zheng	9
-周观政	Gzeu guan Gzen	9
-周观政	Gzeu guan zheng	9
-周观政	zhou Gguon Gzen	9
-周观政	zhou Gguon zheng	9
-周观政	zhou guan Gzen	9
-周观政	zhou guan zheng	9
 周详	Gzeu Gxiong	198
 周详	Gzeu xiang	198
 周详	zhou Gxiong	198
 周详	zhou xiang	198
-周语	Gzeu Gnyu	9
-周语	Gzeu yu	9
-周语	zhou Gnyu	9
-周语	zhou yu	9
-周谷城	Gzeu Ggu Gcen	23
-周谷城	Gzeu Ggu cheng	23
-周谷城	zhou Ggu Gcen	23
-周谷城	zhou Ggu cheng	23
-周谷城	zhou gu cheng	23
 周贵妃	Gzeu Ggui Gfi	6
 周贵妃	Gzeu Ggui fei	6
 周贵妃	zhou Ggui Gfi	6
@@ -179594,11 +178097,6 @@ use_preset_vocabulary: false
 周边	Gzeu bian	1722
 周边	zhou Gbien	1722
 周边	zhou bian	1722
-周逸群	Gzeu Gyi Gqyun	264
-周逸群	Gzeu Gyi qun	264
-周逸群	zhou Gyi Gqyun	264
-周逸群	zhou Gyi qun	264
-周逸群	zhou yi qun	264
 周遇吉	Gzeu Gyu Gji	9
 周遇吉	zhou Gyu Gji	9
 周遇吉	zhou yu ji	9
@@ -179606,19 +178104,6 @@ use_preset_vocabulary: false
 周遭	Gzeu zao	144
 周遭	zhou Gzau	144
 周遭	zhou zao	144
-周邦彦	Gzeu Gbong Gyen	21
-周邦彦	Gzeu Gbong yan	21
-周邦彦	Gzeu bang Gyen	21
-周邦彦	Gzeu bang yan	21
-周邦彦	zhou Gbong Gyen	21
-周邦彦	zhou Gbong yan	21
-周邦彦	zhou bang Gyen	21
-周邦彦	zhou bang yan	21
-周锡生	Gzeu Gxi Gsang	9
-周锡生	Gzeu Gxi sheng	9
-周锡生	zhou Gxi Gsang	9
-周锡生	zhou Gxi sheng	9
-周锡生	zhou xi sheng	9
 周长	Gzeu Gqiong	514
 周长	Gzeu chang	514
 周长	zhou Gqiong	514
@@ -179633,14 +178118,6 @@ use_preset_vocabulary: false
 周阿六	zhou Gnga Gliu	8
 周阿六	zhou a Gliu	8
 周阿六	zhou a liu	8
-周青臣	Gzeu Gqiang Gcen	48
-周青臣	Gzeu Gqiang chen	48
-周青臣	Gzeu qing Gcen	48
-周青臣	Gzeu qing chen	48
-周青臣	zhou Gqiang Gcen	48
-周青臣	zhou Gqiang chen	48
-周青臣	zhou qing Gcen	48
-周青臣	zhou qing chen	48
 周静帝	Gzeu Gqin Gti	7
 周静帝	Gzeu Gqin di	7
 周静帝	Gzeu jing Gti	7
@@ -179649,34 +178126,6 @@ use_preset_vocabulary: false
 周静帝	zhou Gqin di	7
 周静帝	zhou jing Gti	7
 周静帝	zhou jing di	7
-周顺昌	Gzeu Gxyun Gqiong	45
-周顺昌	Gzeu Gxyun chang	45
-周顺昌	Gzeu shun Gqiong	45
-周顺昌	Gzeu shun chang	45
-周顺昌	zhou Gxyun Gqiong	45
-周顺昌	zhou Gxyun chang	45
-周顺昌	zhou shun Gqiong	45
-周顺昌	zhou shun chang	45
-周颠	Gzeu Gdien	134
-周颠	Gzeu dian	134
-周颠	zhou Gdien	134
-周颠	zhou dian	134
-周香华	Gzeu Gxiong Gfa	13
-周香华	Gzeu Gxiong hua	13
-周香华	Gzeu xiang Gfa	13
-周香华	Gzeu xiang hua	13
-周香华	zhou Gxiong Gfa	13
-周香华	zhou Gxiong hua	13
-周香华	zhou xiang Gfa	13
-周香华	zhou xiang hua	13
-周鹤洋	Gzeu Gho Gyong	19
-周鹤洋	Gzeu Gho yang	19
-周鹤洋	Gzeu he Gyong	19
-周鹤洋	Gzeu he yang	19
-周鹤洋	zhou Gho Gyong	19
-周鹤洋	zhou Gho yang	19
-周鹤洋	zhou he Gyong	19
-周鹤洋	zhou he yang	19
 呱	Ggu	30000
 呱	Gku	7500
 呱	gu	7500
@@ -194758,11 +193207,6 @@ use_preset_vocabulary: false
 国字号	guo Gcu hao	33
 国字号	guo zi Ghau	33
 国字号	guo zi hao	33
-国孙吴	Ggue Gsen Gwu	7
-国孙吴	Ggue sun Gwu	7
-国孙吴	guo Gsen Gwu	7
-国孙吴	guo sun Gwu	7
-国孙吴	guo sun wu	7
 国学	Ggue Gho	97
 国学	Ggue xue	97
 国学	guo Gho	97
@@ -225006,11 +223450,6 @@ use_preset_vocabulary: false
 太宗	Gtoi zong	311
 太宗	tai Gzeng	311
 太宗	tai zong	311
-太宗李	Gtoi Gzeng Gli	9
-太宗李	Gtoi zong Gli	9
-太宗李	tai Gzeng Gli	9
-太宗李	tai zong Gli	9
-太宗李	tai zong li	9
 太宗皇	Gtoi Gzeng Gfong	26
 太宗皇	Gtoi Gzeng huang	26
 太宗皇	Gtoi zong Gfong	26
@@ -233236,14 +231675,6 @@ use_preset_vocabulary: false
 姜占国	jiang Gzen guo	19
 姜占国	jiang zhan Ggue	19
 姜占国	jiang zhan guo	19
-姜周红	Gjiong Gzeu Gfeng	17
-姜周红	Gjiong Gzeu hong	17
-姜周红	Gjiong zhou Gfeng	17
-姜周红	Gjiong zhou hong	17
-姜周红	jiang Gzeu Gfeng	17
-姜周红	jiang Gzeu hong	17
-姜周红	jiang zhou Gfeng	17
-姜周红	jiang zhou hong	17
 姜堰	Gjiong Gyen	8
 姜堰	Gjiong yan	8
 姜堰	jiang Gyen	8
@@ -236562,16 +234993,6 @@ use_preset_vocabulary: false
 孙二娘	sun Ge niang	66
 孙二娘	sun er Gniong	66
 孙二娘	sun er niang	66
-孙云晓	Gsen Gyun Gxieu	9
-孙云晓	Gsen Gyun xiao	9
-孙云晓	sun Gyun Gxieu	9
-孙云晓	sun Gyun xiao	9
-孙云晓	sun yun xiao	9
-孙云鹤	Gsen Gyun Gho	7
-孙云鹤	Gsen Gyun he	7
-孙云鹤	sun Gyun Gho	7
-孙云鹤	sun Gyun he	7
-孙云鹤	sun yun he	7
 孙仲君	Gsen Gjiung Gjyun	154
 孙仲君	Gsen Gjiung jun	154
 孙仲君	Gsen zhong Gjyun	154
@@ -236588,14 +235009,6 @@ use_preset_vocabulary: false
 孙仲寿	sun Gjiung shou	100
 孙仲寿	sun zhong Gseu	100
 孙仲寿	sun zhong shou	100
-孙仲河	Gsen Gjiung Gho	11
-孙仲河	Gsen Gjiung he	11
-孙仲河	Gsen zhong Gho	11
-孙仲河	Gsen zhong he	11
-孙仲河	sun Gjiung Gho	11
-孙仲河	sun Gjiung he	11
-孙仲河	sun zhong Gho	11
-孙仲河	sun zhong he	11
 孙仲谋	Gsen Gjiung Gmeu	6
 孙仲谋	Gsen Gjiung mou	6
 孙仲谋	Gsen zhong Gmeu	6
@@ -236653,32 +235066,11 @@ use_preset_vocabulary: false
 孙先生	sun Gxien sheng	42
 孙先生	sun xian Gsang	42
 孙先生	sun xian sheng	42
-孙光宪	Gsen Gguong Ghan	12
-孙光宪	Gsen Gguong xian	12
-孙光宪	Gsen guang Ghan	12
-孙光宪	Gsen guang xian	12
-孙光宪	sun Gguong Ghan	12
-孙光宪	sun Gguong xian	12
-孙光宪	sun guang Ghan	12
-孙光宪	sun guang xian	12
-孙克通	Gsen Gkie Gteng	10
-孙克通	Gsen Gkie tong	10
-孙克通	Gsen ke Gteng	10
-孙克通	Gsen ke tong	10
-孙克通	sun Gkie Gteng	10
-孙克通	sun Gkie tong	10
-孙克通	sun ke Gteng	10
-孙克通	sun ke tong	10
 孙全贵	Gsen Gqon Ggui	25
 孙全贵	Gsen quan Ggui	25
 孙全贵	sun Gqon Ggui	25
 孙全贵	sun quan Ggui	25
 孙全贵	sun quan gui	25
-孙兰香	Gsen Glan Gxiong	12
-孙兰香	Gsen Glan xiang	12
-孙兰香	sun Glan Gxiong	12
-孙兰香	sun Glan xiang	12
-孙兰香	sun lan xiang	12
 孙冶方	Gsen Gya Gfong	6
 孙冶方	Gsen Gya fang	6
 孙冶方	Gsen ye Gfong	6
@@ -236700,14 +235092,6 @@ use_preset_vocabulary: false
 孙半仙	sun Gbon xian	10
 孙半仙	sun ban Gxien	10
 孙半仙	sun ban xian	10
-孙华正	Gsen Gfa Gjiang	10
-孙华正	Gsen Gfa zheng	10
-孙华正	Gsen hua Gjiang	10
-孙华正	Gsen hua zheng	10
-孙华正	sun Gfa Gjiang	10
-孙华正	sun Gfa zheng	10
-孙华正	sun hua Gjiang	10
-孙华正	sun hua zheng	10
 孙卫民	Gsen Gwei Gmin	7
 孙卫民	sun Gwei Gmin	7
 孙卫民	sun wei min	7
@@ -236730,14 +235114,6 @@ use_preset_vocabulary: false
 孙吴	Gsen Gwu	61
 孙吴	sun Gwu	61
 孙吴	sun wu	61
-孙嘉淦	Gsen Gga Ggon	7
-孙嘉淦	Gsen Gga gan	7
-孙嘉淦	Gsen jia Ggon	7
-孙嘉淦	Gsen jia gan	7
-孙嘉淦	sun Gga Ggon	7
-孙嘉淦	sun Gga gan	7
-孙嘉淦	sun jia Ggon	7
-孙嘉淦	sun jia gan	7
 孙嘉绩	Gsen Gga Gji	147
 孙嘉绩	Gsen jia Gji	147
 孙嘉绩	sun Gga Gji	147
@@ -236751,28 +235127,10 @@ use_preset_vocabulary: false
 孙四海	sun Gsu hai	594
 孙四海	sun si Ghoi	594
 孙四海	sun si hai	594
-孙国辅	Gsen Ggue Gfu	10
-孙国辅	Gsen guo Gfu	10
-孙国辅	sun Ggue Gfu	10
-孙国辅	sun guo Gfu	10
-孙国辅	sun guo fu	10
 孙坚	Gsen Gjien	60
 孙坚	Gsen jian	60
 孙坚	sun Gjien	60
 孙坚	sun jian	60
-孙士海	Gsen Gsi Ghoi	7
-孙士海	Gsen Gsi hai	7
-孙士海	Gsen shi Ghoi	7
-孙士海	Gsen shi hai	7
-孙士海	sun Gsi Ghoi	7
-孙士海	sun Gsi hai	7
-孙士海	sun shi Ghoi	7
-孙士海	sun shi hai	7
-孙大午	Gsen Gtai Gwu	13
-孙大午	Gsen da Gwu	13
-孙大午	sun Gtai Gwu	13
-孙大午	sun da Gwu	13
-孙大午	sun da wu	13
 孙大圣	Gsen Gtai Gsen	203
 孙大圣	Gsen Gtai sheng	203
 孙大圣	Gsen da Gsen	203
@@ -236859,16 +235217,6 @@ use_preset_vocabulary: false
 孙学武	sun Gho Gwu	55
 孙学武	sun xue Gwu	55
 孙学武	sun xue wu	55
-孙宝琦	Gsen Gbau Gqi	7
-孙宝琦	Gsen bao Gqi	7
-孙宝琦	sun Gbau Gqi	7
-孙宝琦	sun bao Gqi	7
-孙宝琦	sun bao qi	7
-孙宝礼	Gsen Gbau Gli	14
-孙宝礼	Gsen bao Gli	14
-孙宝礼	sun Gbau Gli	14
-孙宝礼	sun bao Gli	14
-孙宝礼	sun bao li	14
 孙家	Gsen Gga	45
 孙家	Gsen jia	45
 孙家	sun Gga	45
@@ -236962,11 +235310,6 @@ use_preset_vocabulary: false
 孙彬	Gsen Gbin	38
 孙彬	sun Gbin	38
 孙彬	sun bin	38
-孙得功	Gsen Gde Ggung	11
-孙得功	Gsen Gde gong	11
-孙得功	sun Gde Ggung	11
-孙得功	sun Gde gong	11
-孙得功	sun de gong	11
 孙德崖	Gsen Gde Gngai	22
 孙德崖	Gsen Gde ya	22
 孙德崖	sun Gde Gngai	22
@@ -237017,45 +235360,9 @@ use_preset_vocabulary: false
 孙承宗	sun Gcen zong	226
 孙承宗	sun cheng Gzeng	226
 孙承宗	sun cheng zong	226
-孙抚台	Gsen Gfu Gtoi	9
-孙抚台	Gsen Gfu tai	9
-孙抚台	sun Gfu Gtoi	9
-孙抚台	sun Gfu tai	9
-孙抚台	sun fu tai	9
-孙文焕	Gsen Gwen Gfon	8
-孙文焕	Gsen Gwen huan	8
-孙文焕	sun Gwen Gfon	8
-孙文焕	sun Gwen huan	8
-孙文焕	sun wen huan	8
-孙文盛	Gsen Gwen Gsen	12
-孙文盛	Gsen Gwen sheng	12
-孙文盛	sun Gwen Gsen	12
-孙文盛	sun Gwen sheng	12
-孙文盛	sun wen sheng	12
 孙文越	Gsen Gwen Gyue	6
 孙文越	sun Gwen Gyue	6
 孙文越	sun wen yue	6
-孙明杰	Gsen Gmiang Gjie	12
-孙明杰	Gsen ming Gjie	12
-孙明杰	sun Gmiang Gjie	12
-孙明杰	sun ming Gjie	12
-孙明杰	sun ming jie	12
-孙明经	Gsen Gmiang Gjin	7
-孙明经	Gsen Gmiang jing	7
-孙明经	Gsen ming Gjin	7
-孙明经	Gsen ming jing	7
-孙明经	sun Gmiang Gjin	7
-孙明经	sun Gmiang jing	7
-孙明经	sun ming Gjin	7
-孙明经	sun ming jing	7
-孙星衍	Gsen Gxin Gyen	12
-孙星衍	Gsen Gxin yan	12
-孙星衍	Gsen xing Gyen	12
-孙星衍	Gsen xing yan	12
-孙星衍	sun Gxin Gyen	12
-孙星衍	sun Gxin yan	12
-孙星衍	sun xing Gyen	12
-孙星衍	sun xing yan	12
 孙显祖	Gsen Gxien Gzu	6
 孙显祖	Gsen xian Gzu	6
 孙显祖	sun Gxien Gzu	6
@@ -237139,22 +235446,6 @@ use_preset_vocabulary: false
 孙永祚	sun Gyung zuo	29
 孙永祚	sun yong Gtu	29
 孙永祚	sun yong zuo	29
-孙泰藏	Gsen Gtoi Gcong	7
-孙泰藏	Gsen Gtoi cang	7
-孙泰藏	Gsen tai Gcong	7
-孙泰藏	Gsen tai cang	7
-孙泰藏	sun Gtoi Gcong	7
-孙泰藏	sun Gtoi cang	7
-孙泰藏	sun tai Gcong	7
-孙泰藏	sun tai cang	7
-孙洪宪	Gsen Gfeng Ghan	7
-孙洪宪	Gsen Gfeng xian	7
-孙洪宪	Gsen hong Ghan	7
-孙洪宪	Gsen hong xian	7
-孙洪宪	sun Gfeng Ghan	7
-孙洪宪	sun Gfeng xian	7
-孙洪宪	sun hong Ghan	7
-孙洪宪	sun hong xian	7
 孙海平	Gsen Ghoi Gpiang	46
 孙海平	Gsen Ghoi ping	46
 孙海平	Gsen hai Gpiang	46
@@ -237163,11 +235454,6 @@ use_preset_vocabulary: false
 孙海平	sun Ghoi ping	46
 孙海平	sun hai Gpiang	46
 孙海平	sun hai ping	46
-孙淑伟	Gsen Gxyu Gwei	14
-孙淑伟	Gsen shu Gwei	14
-孙淑伟	sun Gxyu Gwei	14
-孙淑伟	sun shu Gwei	14
-孙淑伟	sun shu wei	14
 孙犁	Gsen Gli	44
 孙犁	sun Gli	44
 孙犁	sun li	44
@@ -237195,19 +235481,6 @@ use_preset_vocabulary: false
 孙甜甜	sun Gtien tian	54
 孙甜甜	sun tian Gtien	54
 孙甜甜	sun tian tian	54
-孙祖寿	Gsen Gzu Gseu	12
-孙祖寿	Gsen Gzu shou	12
-孙祖寿	sun Gzu Gseu	12
-孙祖寿	sun Gzu shou	12
-孙祖寿	sun zu shou	12
-孙科佳	Gsen Gko Gga	10
-孙科佳	Gsen Gko jia	10
-孙科佳	Gsen ke Gga	10
-孙科佳	Gsen ke jia	10
-孙科佳	sun Gko Gga	10
-孙科佳	sun Gko jia	10
-孙科佳	sun ke Gga	10
-孙科佳	sun ke jia	10
 孙立人	Gsen Gli Gnin	16
 孙立人	Gsen Gli ren	16
 孙立人	sun Gli Gnin	16
@@ -237216,34 +235489,11 @@ use_preset_vocabulary: false
 孙策	Gsen Gce	125
 孙策	sun Gce	125
 孙策	sun ce	125
-孙绍祖	Gsen Gseu Gzu	8
-孙绍祖	Gsen shao Gzu	8
-孙绍祖	sun Gseu Gzu	8
-孙绍祖	sun shao Gzu	8
-孙绍祖	sun shao zu	8
 孙继海	Gsen Gji Ghoi	67
 孙继海	Gsen Gji hai	67
 孙继海	sun Gji Ghoi	67
 孙继海	sun Gji hai	67
 孙继海	sun ji hai	67
-孙绳祖	Gsen Gsen Gzu	9
-孙绳祖	Gsen sheng Gzu	9
-孙绳祖	sun Gsen Gzu	9
-孙绳祖	sun sheng Gzu	9
-孙绳祖	sun sheng zu	9
-孙耀志	Gsen Gyeu Gzi	14
-孙耀志	Gsen Gyeu zhi	14
-孙耀志	Gsen yao Gzi	14
-孙耀志	Gsen yao zhi	14
-孙耀志	sun Gyeu Gzi	14
-孙耀志	sun Gyeu zhi	14
-孙耀志	sun yao Gzi	14
-孙耀志	sun yao zhi	14
-孙老三	Gsen Glau Gsan	12
-孙老三	Gsen lao Gsan	12
-孙老三	sun Glau Gsan	12
-孙老三	sun lao Gsan	12
-孙老三	sun lao san	12
 孙老九	Gsen Glau Gjiu	18
 孙老九	Gsen lao Gjiu	18
 孙老九	sun Glau Gjiu	18
@@ -237261,35 +235511,6 @@ use_preset_vocabulary: false
 孙膑	Gsen bin	54
 孙膑	sun Gqin	54
 孙膑	sun bin	54
-孙自有	Gsen Gcu Gyiu	8
-孙自有	Gsen Gcu you	8
-孙自有	Gsen zi Gyiu	8
-孙自有	Gsen zi you	8
-孙自有	sun Gcu Gyiu	8
-孙自有	sun Gcu you	8
-孙自有	sun zi Gyiu	8
-孙自有	sun zi you	8
-孙自法	Gsen Gcu Gfa	13
-孙自法	Gsen zi Gfa	13
-孙自法	sun Gcu Gfa	13
-孙自法	sun zi Gfa	13
-孙自法	sun zi fa	13
-孙茂庆	Gsen Gmau Gqin	12
-孙茂庆	Gsen Gmau qing	12
-孙茂庆	Gsen mao Gqin	12
-孙茂庆	Gsen mao qing	12
-孙茂庆	sun Gmau Gqin	12
-孙茂庆	sun Gmau qing	12
-孙茂庆	sun mao Gqin	12
-孙茂庆	sun mao qing	12
-孙菊仙	Gsen Gjiu Gxien	11
-孙菊仙	Gsen Gjiu xian	11
-孙菊仙	Gsen ju Gxien	11
-孙菊仙	Gsen ju xian	11
-孙菊仙	sun Gjiu Gxien	11
-孙菊仙	sun Gjiu xian	11
-孙菊仙	sun ju Gxien	11
-孙菊仙	sun ju xian	11
 孙行者	Gsen Ghang Gjia	200
 孙行者	Gsen Ghang zhe	200
 孙行者	Gsen xing Gjia	200
@@ -237306,12 +235527,6 @@ use_preset_vocabulary: false
 孙诒让	sun Gtoi rang	15
 孙诒让	sun yi Glong	15
 孙诒让	sun yi rang	15
-孙起孟	Gsen Gqi Gmeng	10
-孙起孟	sun Gqi Gmeng	10
-孙起孟	sun qi meng	10
-孙起礼	Gsen Gqi Gli	8
-孙起礼	sun Gqi Gli	8
-孙起礼	sun qi li	8
 孙过庭	Gsen Gguo Gtin	6
 孙过庭	Gsen Gguo ting	6
 孙过庭	sun Gguo Gtin	6
@@ -237330,29 +235545,11 @@ use_preset_vocabulary: false
 孙逸仙	sun Gyi Gxien	21
 孙逸仙	sun Gyi xian	21
 孙逸仙	sun yi xian	21
-孙道临	Gsen Gtau Glin	11
-孙道临	Gsen dao Glin	11
-孙道临	sun Gtau Glin	11
-孙道临	sun dao Glin	11
-孙道临	sun dao lin	11
-孙金铸	Gsen Gjin Gjyu	12
-孙金铸	Gsen Gjin zhu	12
-孙金铸	sun Gjin Gjyu	12
-孙金铸	sun Gjin zhu	12
-孙金铸	sun jin zhu	12
 孙金龙	Gsen Gjin Gliung	259
 孙金龙	Gsen Gjin long	259
 孙金龙	sun Gjin Gliung	259
 孙金龙	sun Gjin long	259
 孙金龙	sun jin long	259
-孙铁匠	Gsen Gtie Gjiong	9
-孙铁匠	Gsen Gtie jiang	9
-孙铁匠	sun Gtie Gjiong	9
-孙铁匠	sun Gtie jiang	9
-孙铁匠	sun tie jiang	9
-孙铁木	Gsen Gtie Gmu	11
-孙铁木	sun Gtie Gmu	11
-孙铁木	sun tie mu	11
 孙银龙	Gsen Gngin Gliung	6
 孙银龙	Gsen Gngin long	6
 孙银龙	Gsen yin Gliung	6
@@ -239009,11 +237206,6 @@ use_preset_vocabulary: false
 宁可信其有	Gning ke Gxin Gqi Gyiu	21
 宁可信其有	Gning ke Gxin Gqi you	21
 宁可信其有	ning ke xin qi you	21
-宁周义	Gning Gzeu Gni	56
-宁周义	Gning Gzeu yi	56
-宁周义	Gning zhou Gni	56
-宁周义	Gning zhou yi	56
-宁周义	ning zhou yi	56
 宁国	Gning Ggue	44
 宁国	Gning guo	44
 宁国	ning guo	44
@@ -243644,26 +241836,6 @@ use_preset_vocabulary: false
 宗朱翊	zong Gjyu yi	17
 宗朱翊	zong zhu Gye	17
 宗朱翊	zong zhu yi	17
-宗李乾	Gzeng Gli Gqien	13
-宗李乾	Gzeng Gli qian	13
-宗李乾	zong Gli Gqien	13
-宗李乾	zong Gli qian	13
-宗李乾	zong li qian	13
-宗李显	Gzeng Gli Gxien	9
-宗李显	Gzeng Gli xian	9
-宗李显	zong Gli Gxien	9
-宗李显	zong Gli xian	9
-宗李显	zong li xian	9
-宗李治	Gzeng Gli Gzi	16
-宗李治	Gzeng Gli zhi	16
-宗李治	zong Gli Gzi	16
-宗李治	zong Gli zhi	16
-宗李治	zong li zhi	16
-宗李谅	Gzeng Gli Gliong	11
-宗李谅	Gzeng Gli liang	11
-宗李谅	zong Gli Gliong	11
-宗李谅	zong Gli liang	11
-宗李谅	zong li liang	11
 宗正	Gzeng Gjiang	10
 宗正	Gzeng zheng	10
 宗正	zong Gjiang	10
@@ -243800,14 +241972,6 @@ use_preset_vocabulary: false
 宗赵佶	zong Gzeu ji	6
 宗赵佶	zong zhao Gqi	6
 宗赵佶	zong zhao ji	6
-宗赵构	Gzeng Gzeu Ggieu	18
-宗赵构	Gzeng Gzeu gou	18
-宗赵构	Gzeng zhao Ggieu	18
-宗赵构	Gzeng zhao gou	18
-宗赵构	zong Gzeu Ggieu	18
-宗赵构	zong Gzeu gou	18
-宗赵构	zong zhao Ggieu	18
-宗赵构	zong zhao gou	18
 宗铁穆	Gzeng Gtie Gmu	32
 宗铁穆	zong Gtie Gmu	32
 宗铁穆	zong tie mu	32
@@ -247882,9 +246046,6 @@ use_preset_vocabulary: false
 宰杀	Gzai Gsai	123
 宰杀	Gzai sha	123
 宰杀	zai sha	123
-宰李邦	Gzai Gli Gbong	8
-宰李邦	Gzai Gli bang	8
-宰李邦	zai li bang	8
 宰海卜	Gzai Ghoi Gbu	16
 宰海卜	Gzai Ghoi bo	16
 宰海卜	Gzai hai Gbu	16
@@ -253953,14 +252114,6 @@ use_preset_vocabulary: false
 小孙子	xiao Gsen zi	37
 小孙子	xiao sun Gzu	37
 小孙子	xiao sun zi	37
-小孙孙	Gxieu Gsen Gsen	8
-小孙孙	Gxieu Gsen sun	8
-小孙孙	Gxieu sun Gsen	8
-小孙孙	Gxieu sun sun	8
-小孙孙	xiao Gsen Gsen	8
-小孙孙	xiao Gsen sun	8
-小孙孙	xiao sun Gsen	8
-小孙孙	xiao sun sun	8
 小学	Gxieu Gho	3296
 小学	Gxieu xue	3296
 小学	xiao Gho	3296
@@ -263546,14 +261699,6 @@ use_preset_vocabulary: false
 川口	Gqon kou	22
 川口	chuan Gkieu	22
 川口	chuan kou	22
-川周明	Gqon Gzeu Gmiang	7
-川周明	Gqon Gzeu ming	7
-川周明	Gqon zhou Gmiang	7
-川周明	Gqon zhou ming	7
-川周明	chuan Gzeu Gmiang	7
-川周明	chuan Gzeu ming	7
-川周明	chuan zhou Gmiang	7
-川周明	chuan zhou ming	7
 川圹	Gqon Gkuong	9
 川圹	Gqon kuang	9
 川圹	chuan Gkuong	9
@@ -277202,11 +275347,6 @@ use_preset_vocabulary: false
 庄子	Gzong zi	485
 庄子	zhuang Gzu	485
 庄子	zhuang zi	485
-庄宗李	Gzong Gzeng Gli	7
-庄宗李	Gzong zong Gli	7
-庄宗李	zhuang Gzeng Gli	7
-庄宗李	zhuang zong Gli	7
-庄宗李	zhuang zong li	7
 庄客	Gzong Gka	211
 庄客	Gzong ke	211
 庄客	zhuang Gka	211
@@ -284973,14 +283113,6 @@ use_preset_vocabulary: false
 张存仁	zhang Gcen ren	24
 张存仁	zhang cun Gnin	24
 张存仁	zhang cun ren	24
-张孙振	Gjiong Gsen Gzen	10
-张孙振	Gjiong Gsen zhen	10
-张孙振	Gjiong sun Gzen	10
-张孙振	Gjiong sun zhen	10
-张孙振	zhang Gsen Gzen	10
-张孙振	zhang Gsen zhen	10
-张孙振	zhang sun Gzen	10
-张孙振	zhang sun zhen	10
 张孝祥	Gjiong Ghau Gxiong	9
 张孝祥	Gjiong Ghau xiang	9
 张孝祥	Gjiong xiao Gxiong	9
@@ -345520,11 +343652,6 @@ use_preset_vocabulary: false
 方术	Gfong shu	92
 方术	fang Gxyu	92
 方术	fang shu	92
-方李邦	Gfong Gli Gbong	256
-方李邦	Gfong Gli bang	256
-方李邦	fang Gli Gbong	256
-方李邦	fang Gli bang	256
-方李邦	fang li bang	256
 方柱	Gfong Gjyu	38
 方柱	Gfong zhu	38
 方柱	fang Gjyu	38
@@ -356751,11 +354878,6 @@ use_preset_vocabulary: false
 景宁	Gjin Gning	12
 景宁	jing Gning	12
 景宁	jing ning	12
-景宗李	Gjin Gzeng Gli	22
-景宗李	Gjin zong Gli	22
-景宗李	jing Gzeng Gli	22
-景宗李	jing zong Gli	22
-景宗李	jing zong li	22
 景山	Gjin Gsan	222
 景山	Gjin shan	222
 景山	jing Gsan	222
@@ -367641,23 +365763,6 @@ use_preset_vocabulary: false
 杌	Gzu	2400
 杌	wu	12000
 李	Gli	30000
-李一氓	Gli Gyi Gmong	8
-李一氓	Gli Gyi mang	8
-李一氓	li yi mang	8
-李三娃	Gli Gsan Gwa	24
-李三才	Gli Gsan Gcoi	53
-李三才	Gli Gsan cai	53
-李三才	li san cai	53
-李三春	Gli Gsan Gqyun	256
-李三春	Gli Gsan chun	256
-李三春	li san chun	256
-李上善	Gli Gsong Gsen	8
-李上善	Gli Gsong shan	8
-李上善	Gli Gxiong Gsen	8
-李上善	Gli Gxiong shan	8
-李上善	Gli shang Gsen	8
-李上善	Gli shang shan	8
-李上善	li shang shan	8
 李世民	Gli Gsi Gmin	194
 李世民	Gli shi Gmin	194
 李世民	li shi min	194
@@ -367666,26 +365771,6 @@ use_preset_vocabulary: false
 李世石	Gli shi Gxia	17
 李世石	Gli shi shi	17
 李世石	li shi shi	17
-李世贤	Gli Gsi Gxien	7
-李世贤	Gli Gsi xian	7
-李世贤	Gli shi Gxien	7
-李世贤	Gli shi xian	7
-李世贤	li shi xian	7
-李世鹤	Gli Gsi Gho	12
-李世鹤	Gli Gsi he	12
-李世鹤	Gli shi Gho	12
-李世鹤	Gli shi he	12
-李世鹤	li shi he	12
-李东垣	Gli Gdeng Gyon	8
-李东垣	Gli Gdeng yuan	8
-李东垣	Gli dong Gyon	8
-李东垣	Gli dong yuan	8
-李东垣	li dong yuan	8
-李东生	Gli Gdeng Gsang	13
-李东生	Gli Gdeng sheng	13
-李东生	Gli dong Gsang	13
-李东生	Gli dong sheng	13
-李东生	li dong sheng	13
 李东阳	Gli Gdeng Gyong	110
 李东阳	Gli Gdeng yang	110
 李东阳	Gli dong Gyong	110
@@ -367704,23 +365789,6 @@ use_preset_vocabulary: false
 李为昌	Gli Gwei Gqiong	6
 李为昌	Gli Gwei chang	6
 李为昌	li wei chang	6
-李为民	Gli Gwei Gmin	293
-李丽静	Gli Gli Gqin	10
-李丽静	Gli Gli jing	10
-李丽静	li li jing	10
-李义山	Gli Gni Gsan	9
-李义山	Gli Gni shan	9
-李义山	Gli yi Gsan	9
-李义山	Gli yi shan	9
-李义山	li yi shan	9
-李义府	Gli Gni Gfu	8
-李义府	Gli yi Gfu	8
-李义府	li yi fu	8
-李义河	Gli Gni Gho	146
-李义河	Gli Gni he	146
-李义河	Gli yi Gho	146
-李义河	Gli yi he	146
-李义河	li yi he	146
 李之薇	Gli Gzi Gwei	6
 李之薇	Gli zhi Gwei	6
 李之薇	li zhi wei	6
@@ -367729,26 +365797,6 @@ use_preset_vocabulary: false
 李之藻	Gli zhi Gzau	19
 李之藻	Gli zhi zao	19
 李之藻	li zhi zao	19
-李之龙	Gli Gzi Gliung	18
-李之龙	Gli Gzi long	18
-李之龙	Gli zhi Gliung	18
-李之龙	Gli zhi long	18
-李之龙	li zhi long	18
-李二哥	Gli Ge Gko	12
-李二哥	Gli Ge ge	12
-李二哥	Gli er Gko	12
-李二哥	Gli er ge	12
-李二哥	li er ge	12
-李二嫂	Gli Ge Gsau	11
-李二嫂	Gli Ge sao	11
-李二嫂	Gli er Gsau	11
-李二嫂	Gli er sao	11
-李二嫂	li er sao	11
-李云冲	Gli Gyun Gqiung	10
-李云冲	Gli Gyun chong	10
-李云冲	li yun chong	10
-李云迪	Gli Gyun Gdi	7
-李云风	Gli Gyun Gfeng	351
 李云飞	Gli Gyun Gfi	11
 李云飞	Gli Gyun fei	11
 李云飞	li yun fei	11
@@ -367762,101 +365810,14 @@ use_preset_vocabulary: false
 李亚仙	Gli ya Gxien	6
 李亚仙	Gli ya xian	6
 李亚仙	li ya xian	6
-李亚平	Gli Gnga Gpiang	49
-李亚平	Gli Gnga ping	49
-李亚平	Gli ya Gpiang	49
-李亚平	Gli ya ping	49
-李亚平	li ya ping	49
-李亚普	Gli Gnga Gpu	18
-李亚普	Gli ya Gpu	18
-李亚普	li ya pu	18
 李亚鹏	Gli Gnga Gpen	19
 李亚鹏	Gli Gnga peng	19
 李亚鹏	Gli ya Gpen	19
 李亚鹏	Gli ya peng	19
 李亚鹏	li ya peng	19
-李京文	Gli Gjin Gwen	9
-李京文	Gli jing Gwen	9
-李京文	li jing wen	9
-李仁孝	Gli Gnin Ghau	21
-李仁孝	Gli Gnin xiao	21
-李仁孝	Gli ren Ghau	21
-李仁孝	Gli ren xiao	21
-李仁孝	li ren xiao	21
-李从军	Gli Gqiung Gjyun	256
-李从军	Gli Gqiung jun	256
-李从军	Gli cong Gjyun	256
-李从军	Gli cong jun	256
-李从军	li cong jun	256
 李从吉	Gli Gqiung Gji	6
 李从吉	Gli cong Gji	6
 李从吉	li cong ji	6
-李仙风	Gli Gxien Gfeng	43
-李仙风	Gli xian Gfeng	43
-李仙风	li xian feng	43
-李伟峰	Gli Gwei Gfeng	7
-李伯清	Gli Gbe Gqiang	30
-李伯清	Gli Gbe Gqin	30
-李伯清	Gli Gbe qing	30
-李伯清	Gli bo Gqiang	30
-李伯清	Gli bo Gqin	30
-李伯清	Gli bo qing	30
-李伯清	li bo qing	30
-李伯纪	Gli Gbe Gji	7
-李伯纪	Gli bo Gji	7
-李伯纪	li bo ji	7
-李伯谦	Gli Gbe Gqien	12
-李伯谦	Gli Gbe qian	12
-李伯谦	Gli bo Gqien	12
-李伯谦	Gli bo qian	12
-李伯谦	li bo qian	12
-李作荣	Gli Gzo Gleng	256
-李作荣	Gli Gzo rong	256
-李作荣	Gli zuo Gleng	256
-李作荣	Gli zuo rong	256
-李作荣	li zuo rong	256
-李作鹏	Gli Gzo Gpen	39
-李作鹏	Gli Gzo peng	39
-李作鹏	Gli zuo Gpen	39
-李作鹏	Gli zuo peng	39
-李作鹏	li zuo peng	39
-李佳明	Gli Gga Gmiang	48
-李佳明	Gli Gga ming	48
-李佳明	Gli jia Gmiang	48
-李佳明	Gli jia ming	48
-李佳明	li jia ming	48
-李佳薇	Gli Gga Gwei	25
-李佳薇	Gli jia Gwei	25
-李佳薇	li jia wei	25
-李俊	Gli Gjyun	550
-李俊	Gli jun	550
-李俊	li jun	550
-李信兄弟	Gli Gxin Gxiang Gti	26
-李信兄弟	Gli Gxin Gxiang di	26
-李信兄弟	Gli Gxin xiong Gti	26
-李信兄弟	Gli Gxin xiong di	26
-李信兄弟	li xin xiong di	26
-李健华	Gli Gqien Gfa	10
-李健华	Gli Gqien hua	10
-李健华	Gli jian Gfa	10
-李健华	Gli jian hua	10
-李健华	li jian hua	10
-李健吾	Gli Gqien Gngo	7
-李健吾	Gli Gqien wu	7
-李健吾	Gli jian Gngo	7
-李健吾	Gli jian wu	7
-李健吾	li jian wu	7
-李健超	Gli Gqien Gceu	35
-李健超	Gli Gqien chao	35
-李健超	Gli jian Gceu	35
-李健超	Gli jian chao	35
-李健超	li jian chao	35
-李傀儡	Gli Gkui Glei	18
-李儒雄	Gli Glu Gxiung	256
-李儒雄	Gli Glu xiong	256
-李儒雄	Gli ru Gxiung	256
-李儒雄	Gli ru xiong	256
-李儒雄	li ru xiong	256
 李元伟	Gli Gyon Gwei	6
 李元伟	Gli yuan Gwei	6
 李元伟	li yuan wei	6
@@ -367868,19 +365829,6 @@ use_preset_vocabulary: false
 李元昊	Gli yuan Ghau	21
 李元昊	Gli yuan hao	21
 李元昊	li yuan hao	21
-李元正	Gli Gyon Gjiang	257
-李元正	Gli Gyon zheng	257
-李元正	Gli yuan Gjiang	257
-李元正	Gli yuan zheng	257
-李元正	li yuan zheng	257
-李元田	Gli Gyon Gtien	12
-李元田	Gli Gyon tian	12
-李元田	Gli yuan Gtien	12
-李元田	Gli yuan tian	12
-李元田	li yuan tian	12
-李兆基	Gli Gzeu Gji	8
-李兆基	Gli zhao Gji	8
-李兆基	li zhao ji	8
 李先念	Gli Gxien Gnien	961
 李先念	Gli Gxien nian	961
 李先念	Gli xian Gnien	961
@@ -367891,29 +365839,11 @@ use_preset_vocabulary: false
 李先生	Gli xian Gsang	69
 李先生	Gli xian sheng	69
 李先生	li xian sheng	69
-李光弼	Gli Gguong Gbi	30
-李光弼	Gli guang Gbi	30
-李光弼	li guang bi	30
-李光昭	Gli Gguong Gzeu	166
-李光昭	Gli Gguong zhao	166
-李光昭	Gli guang Gzeu	166
-李光昭	Gli guang zhao	166
-李光昭	li guang zhao	166
 李光耀	Gli Gguong Gyeu	24
 李光耀	Gli Gguong yao	24
 李光耀	Gli guang Gyeu	24
 李光耀	Gli guang yao	24
 李光耀	li guang yao	24
-李光辉	Gli Gguong Gfi	7
-李光辉	Gli Gguong hui	7
-李光辉	Gli guang Gfi	7
-李光辉	Gli guang hui	7
-李光辉	li guang hui	7
-李克尔	Gli Gkie Ge	16
-李克尔	Gli Gkie er	16
-李克尔	Gli ke Ge	16
-李克尔	Gli ke er	16
-李克尔	li ke er	16
 李克强	Gli Gkie Gqiong	6
 李克强	Gli Gkie qiang	6
 李克强	Gli ke Gqiong	6
@@ -367929,16 +365859,6 @@ use_preset_vocabulary: false
 李克用	Gli ke Gyung	33
 李克用	Gli ke yong	33
 李克用	li ke yong	33
-李全明	Gli Gqon Gmiang	8
-李全明	Gli Gqon ming	8
-李全明	Gli quan Gmiang	8
-李全明	Gli quan ming	8
-李全明	li quan ming	8
-李公佐	Gli Ggung Gzo	7
-李公佐	Gli Ggung zuo	7
-李公佐	Gli gong Gzo	7
-李公佐	Gli gong zuo	7
-李公佐	li gong zuo	7
 李公公	Gli Ggung Ggung	13
 李公公	Gli Ggung gong	13
 李公公	Gli gong Ggung	13
@@ -367949,49 +365869,14 @@ use_preset_vocabulary: false
 李公子	Gli gong Gzu	194
 李公子	Gli gong zi	194
 李公子	li gong zi	194
-李公朴	Gli Ggung Gpu	33
-李公朴	Gli gong Gpu	33
-李公朴	li gong pu	33
-李公麟	Gli Ggung Glin	22
-李公麟	Gli gong Glin	22
-李公麟	li gong lin	22
 李兵道	Gli Gbin Gtau	6
 李兵道	Gli Gbin dao	6
 李兵道	Gli bing Gtau	6
 李兵道	Gli bing dao	6
 李兵道	li bing dao	6
-李军门	Gli Gjyun Gmen	20
-李军门	Gli jun Gmen	20
-李军门	li jun men	20
 李冰	Gli Gbin	48
 李冰	Gli bing	48
 李冰	li bing	48
-李冶著	Gli Gya Gjyu	8
-李冶著	Gli Gya zhu	8
-李冶著	Gli ye Gjyu	8
-李冶著	Gli ye zhu	8
-李冶著	li ye zhu	8
-李凤鸣	Gli Gfeng Gmiang	37
-李凤鸣	Gli Gfeng ming	37
-李凤鸣	li feng ming	37
-李力世	Gli Gli Gsi	62
-李力世	Gli Gli shi	62
-李力世	li li shi	62
-李劲源	Gli Gjin Gyon	31
-李劲源	Gli Gjin yuan	31
-李劲源	li jin yuan	31
-李勃玲	Gli Gbo Glin	51
-李勃玲	Gli Gbo ling	51
-李勃玲	li bo ling	51
-李十儿	Gli Gset Ge	26
-李十儿	Gli Gset er	26
-李十儿	Gli Gsi Ge	26
-李十儿	Gli Gsi er	26
-李十儿	Gli Gxi Ge	26
-李十儿	Gli Gxi er	26
-李十儿	Gli shi Ge	26
-李十儿	Gli shi er	26
-李十儿	li shi er	26
 李十娘	Gli Gset Gniong	104
 李十娘	Gli Gset niang	104
 李十娘	Gli Gsi Gniong	104
@@ -368001,67 +365886,14 @@ use_preset_vocabulary: false
 李十娘	Gli shi Gniong	104
 李十娘	Gli shi niang	104
 李十娘	li shi niang	104
-李卓吾	Gli Gzo Gngo	9
-李卓吾	Gli Gzo wu	9
-李卓吾	Gli zhuo Gngo	9
-李卓吾	Gli zhuo wu	9
-李卓吾	li zhuo wu	9
-李南屏	Gli Glang Gpin	12
-李南屏	Gli Glang ping	12
-李南屏	Gli nan Gpin	12
-李南屏	Gli nan ping	12
-李南屏	li nan ping	12
 李博士	Gli Gbo Gsi	6
 李博士	Gli Gbo shi	6
 李博士	li bo shi	6
-李卜克	Gli Gbu Gkie	28
-李卜克	Gli Gbu ke	28
-李卜克	Gli bo Gkie	28
-李卜克	Gli bo ke	28
-李卜克	li bo ke	28
-李占奇	Gli Gzen Gqi	23
-李占奇	Gli zhan Gqi	23
-李占奇	li zhan qi	23
-李卫公	Gli Gwei Ggung	12
-李卫公	Gli Gwei gong	12
-李卫公	li wei gong	12
-李厚义	Gli Gheu Gni	21
-李厚义	Gli Gheu yi	21
-李厚义	Gli hou Gni	21
-李厚义	Gli hou yi	21
-李厚义	li hou yi	21
-李双双	Gli Gsong Gsong	11
-李双双	Gli Gsong shuang	11
-李双双	Gli shuang Gsong	11
-李双双	Gli shuang shuang	11
-李双双	li shuang shuang	11
-李双喜	Gli Gsong Gxi	164
-李双喜	Gli shuang Gxi	164
-李双喜	li shuang xi	164
 李叔同	Gli Gxyu Gteng	24
 李叔同	Gli Gxyu tong	24
 李叔同	Gli shu Gteng	24
 李叔同	Gli shu tong	24
 李叔同	li shu tong	24
-李古壁	Gli Ggu Gbia	10
-李古壁	Gli Ggu bi	10
-李古壁	li gu bi	10
-李可夫	Gli Gkie Gfu	9
-李可夫	Gli ke Gfu	9
-李可夫	li ke fu	9
-李可染	Gli Gkie Glen	16
-李可染	Gli Gkie ran	16
-李可染	Gli ke Glen	16
-李可染	Gli ke ran	16
-李可染	li ke ran	16
-李可灼	Gli Gkie Gzo	13
-李可灼	Gli Gkie zhuo	13
-李可灼	Gli ke Gzo	13
-李可灼	Gli ke zhuo	13
-李可灼	li ke zhuo	13
-李可秀	Gli Gkie Gxiu	148
-李可秀	Gli ke Gxiu	148
-李可秀	li ke xiu	148
 李吉甫	Gli Gji Gpu	28
 李吉甫	Gli Gji fu	28
 李吉甫	li ji fu	28
@@ -368070,39 +365902,17 @@ use_preset_vocabulary: false
 李后主	Gli hou Gjyu	18
 李后主	Gli hou zhu	18
 李后主	li hou zhu	18
-李向前	Gli Gxiong Gqien	110
-李向前	Gli Gxiong qian	110
-李向前	Gli xiang Gqien	110
-李向前	Gli xiang qian	110
-李向前	li xiang qian	110
-李君如	Gli Gjyun Glu	17
-李君如	Gli Gjyun ru	17
-李君如	Gli jun Glu	17
-李君如	Gli jun ru	17
-李君如	li jun ru	17
-李启明	Gli Gqi Gmiang	8
-李启明	Gli Gqi ming	8
-李启明	li qi ming	8
 李商隐	Gli Gxiong Gyin	60
 李商隐	Gli shang Gyin	60
 李商隐	li shang yin	60
-李善兰	Gli Gsen Glan	40
-李善兰	Gli shan Glan	40
-李善兰	li shan lan	40
 李善长	Gli Gsen Gqiong	73
 李善长	Gli Gsen zhang	73
 李善长	Gli shan Gqiong	73
 李善长	Gli shan zhang	73
 李善长	li shan zhang	73
-李嗣源	Gli Gsi Gyon	14
-李嗣源	Gli Gsi yuan	14
-李嗣源	li si yuan	14
 李嘉图	Gli Gga Gtu	191
 李嘉图	Gli jia Gtu	191
 李嘉图	li jia tu	191
-李嘉欣	Gli Gga Gxin	8
-李嘉欣	Gli jia Gxin	8
-李嘉欣	li jia xin	8
 李嘉诚	Gli Gga Gcen	65
 李嘉诚	Gli Gga cheng	65
 李嘉诚	Gli jia Gcen	65
@@ -368116,129 +365926,21 @@ use_preset_vocabulary: false
 李四光	Gli si Gguong	330
 李四光	Gli si guang	330
 李四光	li si guang	330
-李四摧	Gli Gsu Gcei	7
-李四摧	Gli Gsu cui	7
-李四摧	Gli si Gcei	7
-李四摧	Gli si cui	7
-李四摧	li si cui	7
-李国兴	Gli Ggue Gxin	80
-李国兴	Gli Ggue xing	80
-李国兴	Gli guo Gxin	80
-李国兴	Gli guo xing	80
-李国兴	li guo xing	80
-李国华	Gli Ggue Gfa	41
-李国华	Gli Ggue hua	41
-李国华	Gli guo Gfa	41
-李国华	Gli guo hua	41
-李国华	li guo hua	41
-李国奇	Gli Ggue Gqi	31
-李国奇	Gli guo Gqi	31
-李国奇	li guo qi	31
-李国安	Gli Ggue Gngon	7
-李国安	Gli Ggue an	7
-李国安	Gli guo Gngon	7
-李国安	Gli guo an	7
-李国安	li guo an	7
-李国文	Gli Ggue Gwen	8
-李国文	Gli guo Gwen	8
-李国文	li guo wen	8
-李国柱	Gli Ggue Gjyu	18
-李国柱	Gli Ggue zhu	18
-李国柱	Gli guo Gjyu	18
-李国柱	Gli guo zhu	18
-李国柱	li guo zhu	18
-李国瑞	Gli Ggue Glei	114
-李国瑞	Gli Ggue rui	114
-李国瑞	Gli guo Glei	114
-李国瑞	Gli guo rui	114
-李国瑞	li guo rui	114
-李国豪	Gli Ggue Ghau	43
-李国豪	Gli Ggue hao	43
-李国豪	Gli guo Ghau	43
-李国豪	Gli guo hao	43
-李国豪	li guo hao	43
-李国香	Gli Ggue Gxiong	181
-李国香	Gli Ggue xiang	181
-李国香	Gli guo Gxiong	181
-李国香	Gli guo xiang	181
-李国香	li guo xiang	181
-李基永	Gli Gji Gyung	33
-李基永	Gli Gji yong	33
-李基永	li ji yong	33
-李堂主	Gli Gtong Gjyu	13
-李堂主	Gli Gtong zhu	13
-李堂主	Gli tang Gjyu	13
-李堂主	Gli tang zhu	13
-李堂主	li tang zhu	13
-李士实	Gli Gsi Gsi	16
-李士实	Gli Gsi shi	16
-李士实	Gli shi Gsi	16
-李士实	Gli shi shi	16
-李士实	li shi shi	16
-李士群	Gli Gsi Gqyun	15
-李士群	Gli Gsi qun	15
-李士群	Gli shi Gqyun	15
-李士群	Gli shi qun	15
-李士群	li shi qun	15
-李壮飞	Gli Gzong Gfi	8
-李壮飞	Gli Gzong fei	8
-李壮飞	Gli zhuang Gfi	8
-李壮飞	Gli zhuang fei	8
-李壮飞	li zhuang fei	8
-李处温	Gli Gqyu Gwen	107
-李处温	Gli chu Gwen	107
-李处温	li chu wen	107
 李大人	Gli Gtai Gnin	56
 李大人	Gli Gtai ren	56
 李大人	Gli da Gnin	56
 李大人	Gli da ren	56
 李大人	li da ren	56
-李大双	Gli Gtai Gsong	256
-李大双	Gli Gtai shuang	256
-李大双	Gli da Gsong	256
-李大双	Gli da shuang	256
-李大双	li da shuang	256
 李大哥	Gli Gtai Gko	57
 李大哥	Gli Gtai ge	57
 李大哥	Gli da Gko	57
 李大哥	Gli da ge	57
 李大哥	li da ge	57
-李大社	Gli Gtai Gxia	7
-李大社	Gli Gtai she	7
-李大社	Gli da Gxia	7
-李大社	Gli da she	7
-李大社	li da she	7
 李大钊	Gli Gtai Gzeu	1338
 李大钊	Gli Gtai zhao	1338
 李大钊	Gli da Gzeu	1338
 李大钊	Gli da zhao	1338
 李大钊	li da zhao	1338
-李天华	Gli Gtien Gfa	13
-李天华	Gli Gtien hua	13
-李天华	Gli tian Gfa	13
-李天华	Gli tian hua	13
-李天华	li tian hua	13
-李天垣	Gli Gtien Gyon	21
-李天垣	Gli Gtien yuan	21
-李天垣	Gli tian Gyon	21
-李天垣	Gli tian yuan	21
-李天垣	li tian yuan	21
-李天宠	Gli Gtien Gqiung	8
-李天宠	Gli Gtien chong	8
-李天宠	Gli tian Gqiung	8
-李天宠	Gli tian chong	8
-李天宠	li tian chong	8
-李天羽	Gli Gtien Gyu	19
-李天羽	Gli tian Gyu	19
-李天羽	li tian yu	19
-李天霞	Gli Gtien Gha	7
-李天霞	Gli Gtien xia	7
-李天霞	Gli tian Gha	7
-李天霞	Gli tian xia	7
-李天霞	li tian xia	7
-李太医	Gli Gtoi Gyi	20
-李太医	Gli tai Gyi	20
-李太医	li tai yi	20
 李太后	Gli Gtoi Gheu	1111
 李太后	Gli Gtoi hou	1111
 李太后	Gli tai Gheu	1111
@@ -368260,11 +365962,6 @@ use_preset_vocabulary: false
 李奇微	Gli Gqi Gzang	8
 李奇微	Gli Gqi wei	8
 李奇微	li qi wei	8
-李如月	Gli Glu Gnyue	9
-李如月	Gli Glu yue	9
-李如月	Gli ru Gnyue	9
-李如月	Gli ru yue	9
-李如月	li ru yue	9
 李如松	Gli Glu Gseng	277
 李如松	Gli Glu song	277
 李如松	Gli ru Gseng	277
@@ -368275,16 +365972,6 @@ use_preset_vocabulary: false
 李如柏	Gli ru Gbe	25
 李如柏	Gli ru bai	25
 李如柏	li ru bai	25
-李如梅	Gli Glu Gmi	8
-李如梅	Gli Glu mei	8
-李如梅	Gli ru Gmi	8
-李如梅	Gli ru mei	8
-李如梅	li ru mei	8
-李姊姊	Gli Gzu Gzu	8
-李姊姊	Gli Gzu zi	8
-李姊姊	Gli zi Gzu	8
-李姊姊	Gli zi zi	8
-李姊姊	li zi zi	8
 李娘娘	Gli Gniong Gniong	8
 李娘娘	Gli Gniong niang	8
 李娘娘	Gli niang Gniong	8
@@ -368293,11 +365980,6 @@ use_preset_vocabulary: false
 李娜	Gli Glo	438
 李娜	Gli na	438
 李娜	li na	438
-李婶娘	Gli Gsen Gniong	13
-李婶娘	Gli Gsen niang	13
-李婶娘	Gli shen Gniong	13
-李婶娘	Gli shen niang	13
-李婶娘	li shen niang	13
 李媚姐	Gli Gmi Gjia	8
 李媚姐	Gli Gmi jie	8
 李媚姐	Gli mei Gjia	8
@@ -368306,55 +365988,17 @@ use_preset_vocabulary: false
 李子	Gli Gzu	348
 李子	Gli zi	348
 李子	li zi	348
-李子树	Gli Gzu Gxyu	43
-李子树	Gli Gzu shu	43
-李子树	Gli zi Gxyu	43
-李子树	Gli zi shu	43
-李子树	li zi shu	43
-李存义	Gli Gcen Gni	9
-李存义	Gli Gcen yi	9
-李存义	Gli cun Gni	9
-李存义	Gli cun yi	9
-李存义	li cun yi	9
-李存孝	Gli Gcen Ghau	11
-李存孝	Gli Gcen xiao	11
-李存孝	Gli cun Ghau	11
-李存孝	Gli cun xiao	11
-李存孝	li cun xiao	11
-李孝忠	Gli Ghau Gjiung	63
-李孝忠	Gli Ghau zhong	63
-李孝忠	Gli xiao Gjiung	63
-李孝忠	Gli xiao zhong	63
-李孝忠	li xiao zhong	63
-李孝恭	Gli Ghau Ggung	7
-李孝恭	Gli Ghau gong	7
-李孝恭	Gli xiao Ggung	7
-李孝恭	Gli xiao gong	7
-李孝恭	li xiao gong	7
-李孝逸	Gli Ghau Gyi	8
-李孝逸	Gli xiao Gyi	8
-李孝逸	li xiao yi	8
-李学勤	Gli Gho Gqin	72
-李学勤	Gli xue Gqin	72
-李学勤	li xue qin	72
 李学江	Gli Gho Ggong	6
 李学江	Gli Gho jiang	6
 李学江	Gli xue Ggong	6
 李学江	Gli xue jiang	6
 李学江	li xue jiang	6
-李宁	Gli Gning	60
-李宁牌	Gli Gning Gpai	16
 李宇明	Gli Gyu Gmiang	34
 李宇明	Gli Gyu ming	34
 李宇明	li yu ming	34
 李宇春	Gli Gyu Gqyun	15
 李宇春	Gli Gyu chun	15
 李宇春	li yu chun	15
-李守耕	Gli Gseu Ggien	10
-李守耕	Gli Gseu geng	10
-李守耕	Gli shou Ggien	10
-李守耕	Gli shou geng	10
-李守耕	li shou geng	10
 李宗仁	Gli Gzeng Gnin	145
 李宗仁	Gli Gzeng ren	145
 李宗仁	Gli zong Gnin	145
@@ -368363,19 +366007,6 @@ use_preset_vocabulary: false
 李宗伟	Gli Gzeng Gwei	6
 李宗伟	Gli zong Gwei	6
 李宗伟	li zong wei	6
-李宗振	Gli Gzeng Gzen	15
-李宗振	Gli Gzeng zhen	15
-李宗振	Gli zong Gzen	15
-李宗振	Gli zong zhen	15
-李宗振	li zong zhen	15
-李宗翰	Gli Gzeng Ghon	256
-李宗翰	Gli Gzeng han	256
-李宗翰	Gli zong Ghon	256
-李宗翰	Gli zong han	256
-李宗翰	li zong han	256
-李宗闵	Gli Gzeng Gmin	11
-李宗闵	Gli zong Gmin	11
-李宗闵	li zong min	11
 李定国	Gli Gtiang Ggue	62
 李定国	Gli Gtiang guo	62
 李定国	Gli ding Ggue	62
@@ -368386,138 +366017,32 @@ use_preset_vocabulary: false
 李宝花	Gli bao Gfa	6
 李宝花	Gli bao hua	6
 李宝花	li bao hua	6
-李宣良	Gli Gxyuon Gliong	20
-李宣良	Gli Gxyuon liang	20
-李宣良	Gli xuan Gliong	20
-李宣良	Gli xuan liang	20
-李宣良	li xuan liang	20
-李宫裁	Gli Ggung Gcoi	17
-李宫裁	Gli Ggung cai	17
-李宫裁	Gli gong Gcoi	17
-李宫裁	Gli gong cai	17
-李宫裁	li gong cai	17
-李家	Gli Gga	443
-李家	Gli jia	443
-李家	li jia	443
-李家墩	Gli Gga Gdeng	256
-李家墩	Gli Gga dun	256
-李家墩	Gli jia Gdeng	256
-李家墩	Gli jia dun	256
-李家墩	li jia dun	256
-李家寨	Gli Gga Gzai	49
-李家寨	Gli Gga zhai	49
-李家寨	Gli jia Gzai	49
-李家寨	Gli jia zhai	49
-李家寨	li jia zhai	49
-李家山	Gli Gga Gsan	7
-李家山	Gli Gga shan	7
-李家山	Gli jia Gsan	7
-李家山	Gli jia shan	7
-李家山	li jia shan	7
-李家庄	Gli Gga Gzong	21
-李家庄	Gli Gga zhuang	21
-李家庄	Gli jia Gzong	21
-李家庄	Gli jia zhuang	21
-李家庄	li jia zhuang	21
 李家集	Gli Gga Gji	6
 李家集	Gli jia Gji	6
 李家集	li jia ji	6
-李富春	Gli Gfu Gqyun	35
-李富春	Gli Gfu chun	35
-李富春	li fu chun	35
-李富荣	Gli Gfu Gleng	18
-李富荣	Gli Gfu rong	18
-李富荣	li fu rong	18
 李将军	Gli Gjiong Gjyun	32
 李将军	Gli Gjiong jun	32
 李将军	Gli jiang Gjyun	32
 李将军	Gli jiang jun	32
 李将军	li jiang jun	32
-李小二	Gli Gxieu Ge	16
-李小二	Gli Gxieu er	16
-李小二	Gli xiao Ge	16
-李小二	Gli xiao er	16
-李小二	li xiao er	16
-李小双	Gli Gxieu Gsong	259
-李小双	Gli Gxieu shuang	259
-李小双	Gli xiao Gsong	259
-李小双	Gli xiao shuang	259
-李小双	li xiao shuang	259
-李小姐	Gli Gxieu Gjia	14
-李小姐	Gli Gxieu jie	14
-李小姐	Gli xiao Gjia	14
-李小姐	Gli xiao jie	14
-李小姐	li xiao jie	14
-李小峰	Gli Gxieu Gfeng	10
-李小峰	Gli xiao Gfeng	10
-李小峰	li xiao feng	10
 李小明	Gli Gxieu Gmiang	6
 李小明	Gli Gxieu ming	6
 李小明	Gli xiao Gmiang	6
 李小明	Gli xiao ming	6
 李小明	li xiao ming	6
-李小芽	Gli Gxieu Gnga	60
-李小芽	Gli Gxieu ya	60
-李小芽	Gli xiao Gnga	60
-李小芽	Gli xiao ya	60
-李小芽	li xiao ya	60
 李小霞	Gli Gxieu Gha	6
 李小霞	Gli Gxieu xia	6
 李小霞	Gli xiao Gha	6
 李小霞	Gli xiao xia	6
 李小霞	li xiao xia	6
-李小龙	Gli Gxieu Gliung	15
-李小龙	Gli Gxieu long	15
-李小龙	Gli xiao Gliung	15
-李小龙	Gli xiao long	15
-李小龙	li xiao long	15
-李少春	Gli Gseu Gqyun	8
-李少春	Gli Gseu chun	8
-李少春	Gli shao Gqyun	8
-李少春	Gli shao chun	8
-李少春	li shao chun	8
-李尔本	Gli Ge Gben	10
-李尔本	Gli er Gben	10
-李尔本	li er ben	10
 李尔王	Gli Ge Gwong	22
 李尔王	Gli Ge wang	22
 李尔王	Gli er Gwong	22
 李尔王	Gli er wang	22
 李尔王	li er wang	22
-李岚清	Gli Gtan Gqiang	311
-李岚清	Gli Gtan Gqin	311
-李岚清	Gli Gtan qing	311
-李岚清	Gli lan Gqiang	311
-李岚清	Gli lan Gqin	311
-李岚清	Gli lan qing	311
-李岚清	li lan qing	311
-李岩兄弟	Gli Gngai Gxiang Gti	19
-李岩兄弟	Gli Gngai Gxiang di	19
-李岩兄弟	Gli Gngai xiong Gti	19
-李岩兄弟	Gli Gngai xiong di	19
-李岩兄弟	Gli yan Gxiang Gti	19
-李岩兄弟	Gli yan Gxiang di	19
-李岩兄弟	Gli yan xiong Gti	19
-李岩兄弟	Gli yan xiong di	19
-李岩兄弟	li yan xiong di	19
-李岩心	Gli Gngai Gxin	11
-李岩心	Gli yan Gxin	11
-李岩心	li yan xin	11
-李岩见	Gli Gngai Gjien	8
-李岩见	Gli Gngai jian	8
-李岩见	Gli yan Gjien	8
-李岩见	Gli yan jian	8
-李岩见	li yan jian	8
 李峰道	Gli Gfeng Gtau	6
 李峰道	Gli Gfeng dao	6
 李峰道	li feng dao	6
-李师伯	Gli Gsi Gbe	39
-李师伯	Gli Gsi bo	39
-李师伯	Gli Gsu Gbe	39
-李师伯	Gli Gsu bo	39
-李师伯	Gli shi Gbe	39
-李师伯	Gli shi bo	39
-李师伯	li shi bo	39
 李师傅	Gli Gsi Gfu	6
 李师傅	Gli Gsu Gfu	6
 李师傅	Gli shi Gfu	6
@@ -368539,67 +366064,21 @@ use_preset_vocabulary: false
 李师师	Gli shi Gsu	189
 李师师	Gli shi shi	189
 李师师	li shi shi	189
-李师道	Gli Gsi Gtau	10
-李师道	Gli Gsi dao	10
-李师道	Gli Gsu Gtau	10
-李师道	Gli Gsu dao	10
-李师道	Gli shi Gtau	10
-李师道	Gli shi dao	10
-李师道	li shi dao	10
-李希光	Gli Gxi Gguong	11
-李希光	Gli Gxi guang	11
-李希光	li xi guang	11
 李希烈	Gli Gxi Glie	20
-李常杰	Gli Gqiong Gjie	12
-李常杰	Gli chang Gjie	12
-李常杰	li chang jie	12
-李平水	Gli Gpiang Gxyu	102
-李平水	Gli Gpiang shui	102
-李平水	Gli ping Gxyu	102
-李平水	Gli ping shui	102
-李平水	li ping shui	102
-李幼滋	Gli Gyiu Gzu	9
-李幼滋	Gli Gyiu zi	9
-李幼滋	Gli you Gzu	9
-李幼滋	Gli you zi	9
-李幼滋	li you zi	9
 李广	Gli Gguong	43
 李广	Gli guang	43
 李广	li guang	43
 李广利	Gli Gguong Gli	19
 李广利	Gli guang Gli	19
 李广利	li guang li	19
-李广花	Gli Gguong Gfa	24
-李广花	Gli Gguong hua	24
-李广花	Gli guang Gfa	24
-李广花	Gli guang hua	24
-李广花	li guang hua	24
-李庆华	Gli Gqin Gfa	15
-李庆华	Gli Gqin hua	15
-李庆华	Gli qing Gfa	15
-李庆华	Gli qing hua	15
-李庆华	li qing hua	15
-李庆霖	Gli Gqin Glin	14
-李庆霖	Gli qing Glin	14
-李庆霖	li qing lin	14
 李应发	Gli Gyin Gfai	11
 李应发	Gli Gyin fa	11
 李应发	Gli ying Gfai	11
 李应发	Gli ying fa	11
 李应发	li ying fa	11
-李应道	Gli Gyin Gtau	8
-李应道	Gli Gyin dao	8
-李应道	Gli ying Gtau	8
-李应道	Gli ying dao	8
-李应道	li ying dao	8
 李延一	Gli Gyen Gyi	6
 李延一	Gli yan Gyi	6
 李延一	li yan yi	6
-李延宗	Gli Gyen Gzeng	47
-李延宗	Gli Gyen zong	47
-李延宗	Gli yan Gzeng	47
-李延宗	Gli yan zong	47
-李延宗	li yan zong	47
 李延寿	Gli Gyen Gseu	8
 李延寿	Gli Gyen shou	8
 李延寿	Gli yan Gseu	8
@@ -368610,26 +366089,6 @@ use_preset_vocabulary: false
 李延年	Gli yan Gnien	8
 李延年	Gli yan nian	8
 李延年	li yan nian	8
-李廷豹	Gli Gtin Gbau	17
-李廷豹	Gli Gtin bao	17
-李廷豹	Gli ting Gbau	17
-李廷豹	Gli ting bao	17
-李廷豹	li ting bao	17
-李建兴	Gli Gjien Gxin	9
-李建兴	Gli Gjien xing	9
-李建兴	Gli jian Gxin	9
-李建兴	Gli jian xing	9
-李建兴	li jian xing	9
-李建华	Gli Gjien Gfa	20
-李建华	Gli Gjien hua	20
-李建华	Gli jian Gfa	20
-李建华	Gli jian hua	20
-李建华	li jian hua	20
-李建国	Gli Gjien Ggue	9
-李建国	Gli Gjien guo	9
-李建国	Gli jian Ggue	9
-李建国	Gli jian guo	9
-李建国	li jian guo	9
 李建成	Gli Gjien Gcen	33
 李建成	Gli Gjien Gxiang	33
 李建成	Gli Gjien cheng	33
@@ -368637,29 +366096,11 @@ use_preset_vocabulary: false
 李建成	Gli jian Gxiang	33
 李建成	Gli jian cheng	33
 李建成	li jian cheng	33
-李建明	Gli Gjien Gmiang	261
-李建明	Gli Gjien ming	261
-李建明	Gli jian Gmiang	261
-李建明	Gli jian ming	261
-李建明	li jian ming	261
-李建波	Gli Gjien Gbo	43
-李建波	Gli jian Gbo	43
-李建波	li jian bo	43
 李建群	Gli Gjien Gqyun	256
 李建群	Gli Gjien qun	256
 李建群	Gli jian Gqyun	256
 李建群	Gli jian qun	256
 李建群	li jian qun	256
-李建英	Gli Gjien Gyin	48
-李建英	Gli Gjien ying	48
-李建英	Gli jian Gyin	48
-李建英	Gli jian ying	48
-李建英	li jian ying	48
-李开先	Gli Gkoi Gxien	13
-李开先	Gli Gkoi xian	13
-李开先	Gli kai Gxien	13
-李开先	Gli kai xian	13
-李开先	li kai xian	13
 李开复	Gli Gkoi Gfu	38
 李开复	Gli kai Gfu	38
 李开复	li kai fu	38
@@ -368668,88 +366109,17 @@ use_preset_vocabulary: false
 李开芳	Gli kai Gfong	6
 李开芳	Gli kai fang	6
 李开芳	li kai fang	6
-李弥昌	Gli Gmi Gqiong	12
-李弥昌	Gli Gmi chang	12
-李弥昌	li mi chang	12
 李强	Gli Gqiong	159
 李强	Gli qiang	159
 李强	li qiang	159
 李彝殷	Gli Gyi Gyin	6
-李彝超	Gli Gyi Gceu	8
-李彝超	Gli Gyi chao	8
-李彝超	li yi chao	8
-李彦宏	Gli Gyen Gfeng	24
-李彦宏	Gli Gyen hong	24
-李彦宏	Gli yan Gfeng	24
-李彦宏	Gli yan hong	24
-李彦宏	li yan hong	24
-李彩凤	Gli Gcoi Gfeng	12
-李彩凤	Gli cai Gfeng	12
-李彩凤	li cai feng	12
 李德	Gli Gde	70
-李德伦	Gli Gde Glen	8
-李德伦	Gli Gde lun	8
-李德伦	li de lun	8
-李德全	Gli Gde Gqon	127
-李德全	Gli Gde quan	127
-李德全	li de quan	127
 李德明	Gli Gde Gmiang	37
 李德明	Gli Gde ming	37
 李德明	li de ming	37
-李德生	Gli Gde Gsang	32
-李德生	Gli Gde sheng	32
-李德生	li de sheng	32
-李德裕	Gli Gde Gyu	31
-李心善	Gli Gxin Gsen	9
-李心善	Gli Gxin shan	9
-李心善	li xin shan	9
 李必达	Gli Gbi Gtai	11
 李必达	Gli Gbi da	11
 李必达	li bi da	11
-李志常	Gli Gzi Gqiong	99
-李志常	Gli Gzi chang	99
-李志常	Gli zhi Gqiong	99
-李志常	Gli zhi chang	99
-李志常	li zhi chang	99
-李志敏	Gli Gzi Gmin	11
-李志敏	Gli zhi Gmin	11
-李志敏	li zhi min	11
-李志高	Gli Gzi Ggau	259
-李志高	Gli Gzi gao	259
-李志高	Gli zhi Ggau	259
-李志高	Gli zhi gao	259
-李志高	li zhi gao	259
-李怀仙	Gli Gfai Gxien	9
-李怀仙	Gli Gfai xian	9
-李怀仙	Gli huai Gxien	9
-李怀仙	Gli huai xian	9
-李怀仙	li huai xian	9
-李怀光	Gli Gfai Gguong	12
-李怀光	Gli Gfai guang	12
-李怀光	Gli huai Gguong	12
-李怀光	Gli huai guang	12
-李怀光	li huai guang	12
-李思训	Gli Gsu Gxyun	16
-李思训	Gli Gsu xun	16
-李思训	Gli si Gxyun	16
-李思训	Gli si xun	16
-李思训	li si xun	16
-李思齐	Gli Gsu Gqi	22
-李思齐	Gli si Gqi	22
-李思齐	li si qi	22
-李总管	Gli Gzeng Gguon	15
-李总管	Gli Gzeng guan	15
-李总管	Gli zong Gguon	15
-李总管	Gli zong guan	15
-李总管	li zong guan	15
-李悝	Gli Gli	45
-李悝	Gli kui	45
-李悝	li kui	45
-李慎明	Gli Gsen Gmiang	256
-李慎明	Gli Gsen ming	256
-李慎明	Gli shen Gmiang	256
-李慎明	Gli shen ming	256
-李慎明	li shen ming	256
 李慕良	Gli Gmu Gliong	6
 李慕良	Gli Gmu liang	6
 李慕良	li mu liang	6
@@ -368778,24 +366148,11 @@ use_preset_vocabulary: false
 李承晚	Gli Gcen Gwan	80
 李承晚	Gli cheng Gwan	80
 李承晚	li cheng wan	80
-李振福	Gli Gzen Gfu	7
-李振福	Gli zhen Gfu	7
-李振福	li zhen fu	7
-李振邺	Gli Gzen Gnie	122
-李振邺	Gli Gzen ye	122
-李振邺	Gli zhen Gnie	122
-李振邺	Gli zhen ye	122
-李振邺	li zhen ye	122
 李掌柜	Gli Gjiong Gkui	8
 李掌柜	Gli Gjiong gui	8
 李掌柜	Gli zhang Gkui	8
 李掌柜	Gli zhang gui	8
 李掌柜	li zhang gui	8
-李攀龙	Gli Gpon Gliung	15
-李攀龙	Gli Gpon long	15
-李攀龙	Gli pan Gliung	15
-李攀龙	Gli pan long	15
-李攀龙	li pan long	15
 李政委	Gli Gzen Gwei	6
 李政委	Gli zheng Gwei	6
 李政委	li zheng wei	6
@@ -368804,69 +366161,33 @@ use_preset_vocabulary: false
 李政道	Gli zheng Gtau	65
 李政道	Gli zheng dao	65
 李政道	li zheng dao	65
-李敬泽	Gli Gjin Gca	8
-李敬泽	Gli Gjin ze	8
-李敬泽	Gli jing Gca	8
-李敬泽	Gli jing ze	8
-李敬泽	li jing ze	8
 李敬臣	Gli Gjin Gcen	6
 李敬臣	Gli Gjin chen	6
 李敬臣	Gli jing Gcen	6
 李敬臣	Gli jing chen	6
 李敬臣	li jing chen	6
-李文博	Gli Gwen Gbo	7
-李文和	Gli Gwen Gho	24
-李文和	Gli Gwen he	24
-李文和	li wen he	24
 李文忠	Gli Gwen Gjiung	90
 李文忠	Gli Gwen zhong	90
 李文忠	li wen zhong	90
 李文斯	Gli Gwen Gsu	6
 李文斯	Gli Gwen si	6
 李文斯	li wen si	6
-李文治	Gli Gwen Gzi	7
-李文治	Gli Gwen zhi	7
-李文治	li wen zhi	7
-李文秀	Gli Gwen Gxiu	876
 李斯	Gli Gsu	72
 李斯	Gli si	72
 李斯	li si	72
-李斯德	Gli Gsu Gde	8
-李斯德	Gli si Gde	8
-李斯德	li si de	8
 李斯特	Gli Gsu Gte	41
 李斯特	Gli si Gte	41
 李斯特	li si te	41
-李新彦	Gli Gxin Gyen	10
-李新彦	Gli Gxin yan	10
-李新彦	li xin yan	10
-李新烽	Gli Gxin Gfeng	23
-李新良	Gli Gxin Gliong	257
-李新良	Gli Gxin liang	257
-李新良	li xin liang	257
-李新觉	Gli Gxin Ggo	256
-李新觉	Gli Gxin jue	256
-李新觉	li xin jue	256
 李日公	Gli Gni Ggung	8
 李日公	Gli Gni gong	8
 李日公	Gli ri Ggung	8
 李日公	Gli ri gong	8
 李日公	li ri gong	8
-李时勉	Gli Gsi Gmien	10
-李时勉	Gli Gsi mian	10
-李时勉	Gli shi Gmien	10
-李时勉	Gli shi mian	10
-李时勉	li shi mian	10
 李时珍	Gli Gsi Gzen	349
 李时珍	Gli Gsi zhen	349
 李时珍	Gli shi Gzen	349
 李时珍	Gli shi zhen	349
 李时珍	li shi zhen	349
-李昌平	Gli Gqiong Gpiang	8
-李昌平	Gli Gqiong ping	8
-李昌平	Gli chang Gpiang	8
-李昌平	Gli chang ping	8
-李昌平	li chang ping	8
 李昌言	Gli Gqiong Gnien	6
 李昌言	Gli Gqiong yan	6
 李昌言	Gli chang Gnien	6
@@ -368877,41 +366198,17 @@ use_preset_vocabulary: false
 李昌镐	Gli chang Ggau	33
 李昌镐	Gli chang gao	33
 李昌镐	li chang gao	33
-李明心	Gli Gmiang Gxin	81
-李明心	Gli ming Gxin	81
-李明心	li ming xin	81
 李明文	Gli Gmiang Gwen	6
 李明文	Gli ming Gwen	6
 李明文	li ming wen	6
-李明森	Gli Gmiang Gsen	15
-李明森	Gli ming Gsen	15
-李明森	li ming sen	15
-李明瑞	Gli Gmiang Glei	7
-李明瑞	Gli Gmiang rui	7
-李明瑞	Gli ming Glei	7
-李明瑞	Gli ming rui	7
-李明瑞	li ming rui	7
 李明豫	Gli Gmiang Gyu	256
 李明豫	Gli ming Gyu	256
 李明豫	li ming yu	256
-李春久	Gli Gqyun Gjiu	7
-李春久	Gli chun Gjiu	7
-李春久	li chun jiu	7
 李春亭	Gli Gqyun Gtin	256
 李春亭	Gli Gqyun ting	256
 李春亭	Gli chun Gtin	256
 李春亭	Gli chun ting	256
 李春亭	li chun ting	256
-李春来	Gli Gqyun Gloi	52
-李春来	Gli Gqyun lai	52
-李春来	Gli chun Gloi	52
-李春来	Gli chun lai	52
-李春来	li chun lai	52
-李春芳	Gli Gqyun Gfong	37
-李春芳	Gli Gqyun fang	37
-李春芳	Gli chun Gfong	37
-李春芳	Gli chun fang	37
-李春芳	li chun fang	37
 李显忠	Gli Gxien Gjiung	6
 李显忠	Gli Gxien zhong	6
 李显忠	Gli xian Gjiung	6
@@ -368922,28 +366219,6 @@ use_preset_vocabulary: false
 李显龙	Gli xian Gliung	20
 李显龙	Gli xian long	20
 李显龙	li xian long	20
-李晓光	Gli Gxieu Gguong	16
-李晓光	Gli Gxieu guang	16
-李晓光	Gli xiao Gguong	16
-李晓光	Gli xiao guang	16
-李晓光	li xiao guang	16
-李晓岗	Gli Gxieu Ggong	16
-李晓岗	Gli Gxieu gang	16
-李晓岗	Gli xiao Ggong	16
-李晓岗	Gli xiao gang	16
-李晓岗	li xiao gang	16
-李晓霞	Gli Gxieu Gha	25
-李晓霞	Gli Gxieu xia	25
-李晓霞	Gli xiao Gha	25
-李晓霞	Gli xiao xia	25
-李晓霞	li xiao xia	25
-李晓颖	Gli Gxieu Gyin	12
-李晓颖	Gli Gxieu ying	12
-李晓颖	Gli xiao Gyin	12
-李晓颖	Gli xiao ying	12
-李晓颖	li xiao ying	12
-李普希	Gli Gpu Gxi	9
-李普曼	Gli Gpu Gman	8
 李景林	Gli Gjin Glin	128
 李景林	Gli jing Glin	128
 李景林	li jing lin	128
@@ -368977,35 +366252,17 @@ use_preset_vocabulary: false
 李林甫	Gli Glin Gpu	101
 李林甫	Gli Glin fu	101
 李林甫	li lin fu	101
-李树德	Gli Gxyu Gde	22
-李树德	Gli shu Gde	22
-李树德	li shu de	22
-李树文	Gli Gxyu Gwen	259
-李树文	Gli shu Gwen	259
-李树文	li shu wen	259
 李梅亭	Gli Gmi Gtin	145
 李梅亭	Gli Gmi ting	145
 李梅亭	Gli mei Gtin	145
 李梅亭	Gli mei ting	145
 李梅亭	li mei ting	145
-李梦阳	Gli Gmeng Gyong	26
-李梦阳	Gli Gmeng yang	26
-李梦阳	li meng yang	26
 李梦龙	Gli Gmeng Gliung	6
 李梦龙	Gli Gmeng long	6
 李梦龙	li meng long	6
 李次九	Gli Gcu Gjiu	6
 李次九	Gli ci Gjiu	6
 李次九	li ci jiu	6
-李毅男	Gli Gyi Glang	37
-李毅男	Gli Gyi nan	37
-李毅男	li yi nan	37
-李毓芳	Gli Gjyu Gfong	30
-李毓芳	Gli Gjyu fang	30
-李毓芳	Gli yu Gfong	30
-李毓芳	Gli yu fang	30
-李毓芳	li yu fang	30
-李比希	Gli Gbi Gxi	24
 李氏	Gli Gsi	145
 李氏	Gli shi	145
 李氏	li shi	145
@@ -369014,68 +366271,14 @@ use_preset_vocabulary: false
 李永乐	Gli yong Glo	18
 李永乐	Gli yong le	18
 李永乐	li yong le	18
-李永军	Gli Gyung Gjyun	11
-李永军	Gli Gyung jun	11
-李永军	Gli yong Gjyun	11
-李永军	Gli yong jun	11
-李永军	li yong jun	11
-李永波	Gli Gyung Gbo	292
-李永波	Gli yong Gbo	292
-李永波	li yong bo	292
-李永芳	Gli Gyung Gfong	25
-李永芳	Gli Gyung fang	25
-李永芳	Gli yong Gfong	25
-李永芳	Gli yong fang	25
-李永芳	li yong fang	25
-李永贞	Gli Gyung Gzen	7
-李永贞	Gli Gyung zhen	7
-李永贞	Gli yong Gzen	7
-李永贞	Gli yong zhen	7
-李永贞	li yong zhen	7
-李永革	Gli Gyung Ggie	12
-李永革	Gli Gyung ge	12
-李永革	Gli yong Ggie	12
-李永革	Gli yong ge	12
-李永革	li yong ge	12
-李汉俊	Gli Ghon Gjyun	314
-李汉俊	Gli Ghon jun	314
-李汉俊	Gli han Gjyun	314
-李汉俊	Gli han jun	314
-李汉俊	li han jun	314
 李沅芷	Gli Gyon Gzi	521
 李沅芷	Gli Gyon zhi	521
 李沅芷	Gli yuan Gzi	521
 李沅芷	Gli yuan zhi	521
 李沅芷	li yuan zhi	521
-李泓冰	Gli Gyin Gbin	8
-李泓冰	Gli Gyin bing	8
-李泓冰	Gli hong Gbin	8
-李泓冰	Gli hong bing	8
-李泓冰	li hong bing	8
-李泽厚	Gli Gca Gheu	7
-李泽厚	Gli Gca hou	7
-李泽厚	Gli ze Gheu	7
-李泽厚	Gli ze hou	7
-李泽厚	li ze hou	7
-李洁思	Gli Gjie Gsu	12
-李洁思	Gli Gjie si	12
-李洁思	li jie si	12
-李洪洋	Gli Gfeng Gyong	20
-李洪洋	Gli Gfeng yang	20
-李洪洋	Gli hong Gyong	20
-李洪洋	Gli hong yang	20
-李洪洋	li hong yang	20
 李济深	Gli Gji Gsen	99
 李济深	Gli Gji shen	99
 李济深	li ji shen	99
-李济琛	Gli Gji Gqin	8
-李济琛	Gli Gji chen	8
-李济琛	li ji chen	8
-李润田	Gli Glen Gtien	47
-李润田	Gli Glen tian	47
-李润田	Gli run Gtien	47
-李润田	Gli run tian	47
-李润田	li run tian	47
 李淳风	Gli Gqyun Gfeng	49
 李淳风	Gli chun Gfeng	49
 李淳风	li chun feng	49
@@ -369109,48 +366312,9 @@ use_preset_vocabulary: false
 李烈钧	Gli Glie Gjyun	23
 李烈钧	Gli Glie jun	23
 李烈钧	li lie jun	23
-李焕之	Gli Gfon Gzi	10
-李焕之	Gli Gfon zhi	10
-李焕之	Gli huan Gzi	10
-李焕之	Gli huan zhi	10
-李焕之	li huan zhi	10
 李煜	Gli Gji	71
 李煜	Gli yu	71
 李煜	li yu	71
-李燕玲	Gli Gyen Glin	11
-李燕玲	Gli Gyen ling	11
-李燕玲	Gli yan Glin	11
-李燕玲	Gli yan ling	11
-李燕玲	li yan ling	11
-李特尔	Gli Gte Ge	13
-李特尔	Gli Gte er	13
-李特尔	li te er	13
-李狗儿	Gli Ggieu Ge	93
-李狗儿	Gli Ggieu er	93
-李狗儿	Gli gou Ge	93
-李狗儿	Gli gou er	93
-李狗儿	li gou er	93
-李狗皮	Gli Ggieu Gpi	7
-李狗皮	Gli gou Gpi	7
-李狗皮	li gou pi	7
-李献可	Gli Gxien Gkie	7
-李献可	Gli Gxien ke	7
-李献可	Gli xian Gkie	7
-李献可	Gli xian ke	7
-李献可	li xian ke	7
-李玉堂	Gli Gyu Gtong	9
-李玉堂	Gli Gyu tang	9
-李玉堂	li yu tang	9
-李玉玲	Gli Gyu Glin	18
-李玉玲	Gli Gyu ling	18
-李玉玲	li yu ling	18
-李玮峰	Gli Gwei Gfeng	29
-李玲蔚	Gli Glin Gwei	16
-李玲蔚	Gli ling Gwei	16
-李玲蔚	li ling wei	16
-李珊	Gli Gsan	258
-李珊	Gli shan	258
-李珊	li shan	258
 李瑞环	Gli Glei Gfan	244
 李瑞环	Gli Glei huan	244
 李瑞环	Gli rui Gfan	244
@@ -369161,15 +366325,6 @@ use_preset_vocabulary: false
 李瑞英	Gli rui Gyin	6
 李瑞英	Gli rui ying	6
 李瑞英	li rui ying	6
-李瓶儿	Gli Gpin Ge	9
-李瓶儿	Gli Gpin er	9
-李瓶儿	Gli ping Ge	9
-李瓶儿	Gli ping er	9
-李瓶儿	li ping er	9
-李生民	Gli Gsang Gmin	7
-李生民	Gli sheng Gmin	7
-李生民	li sheng min	7
-李登云	Gli Gdeng Gyun	115
 李登辉	Gli Gdeng Gfi	82
 李登辉	Gli Gdeng hui	82
 李登辉	li deng hui	82
@@ -369183,114 +366338,36 @@ use_preset_vocabulary: false
 李白成	Gli bai Gxiang	6
 李白成	Gli bai cheng	6
 李白成	li bai cheng	6
-李百药	Gli Gba Gyo	7
-李百药	Gli Gba yao	7
-李百药	Gli bai Gyo	7
-李百药	Gli bai yao	7
-李百药	li bai yao	7
-李盛铎	Gli Gsen Gtu	17
-李盛铎	Gli Gsen duo	17
-李盛铎	Gli sheng Gtu	17
-李盛铎	Gli sheng duo	17
-李盛铎	li sheng duo	17
-李瞎子	Gli Ghoi Gzu	10
-李瞎子	Gli Ghoi zi	10
-李瞎子	Gli xia Gzu	10
-李瞎子	Gli xia zi	10
-李瞎子	li xia zi	10
 李石曾	Gli Gxia Gzen	6
 李石曾	Gli Gxia ceng	6
 李石曾	Gli shi Gzen	6
 李石曾	Gli shi ceng	6
 李石曾	li shi ceng	6
-李祖伦	Gli Gzu Glen	19
-李祖伦	Gli Gzu lun	19
-李祖伦	li zu lun	19
 李秀成	Gli Gxiu Gcen	41
 李秀成	Gli Gxiu Gxiang	41
 李秀成	Gli Gxiu cheng	41
 李秀成	li xiu cheng	41
-李秀春	Gli Gxiu Gqyun	11
-李秀春	Gli Gxiu chun	11
-李秀春	li xiu chun	11
-李秉衡	Gli Gbin Ghen	10
-李秉衡	Gli Gbin heng	10
-李秉衡	Gli bing Ghen	10
-李秉衡	Gli bing heng	10
-李秉衡	li bing heng	10
 李秋水	Gli Gqiu Gxyu	184
 李秋水	Gli Gqiu shui	184
 李秋水	li qiu shui	184
-李立三	Gli Gli Gsan	66
 李管家	Gli Gguon Gga	28
 李管家	Gli Gguon jia	28
 李管家	Gli guan Gga	28
 李管家	Gli guan jia	28
 李管家	li guan jia	28
 李粉姬	Gli Gfen Gji	6
-李精白	Gli Gjiang Gpa	10
-李精白	Gli Gjiang bai	10
-李精白	Gli jing Gpa	10
-李精白	Gli jing bai	10
-李精白	li jing bai	10
-李素丽	Gli Gsu Gli	15
-李红兵	Gli Gfeng Gbin	24
-李红兵	Gli Gfeng bing	24
-李红兵	Gli hong Gbin	24
-李红兵	Gli hong bing	24
-李红兵	li hong bing	24
 李约瑟	Gli Gyo Gse	28
 李约瑟	Gli yue Gse	28
 李约瑟	li yue se	28
-李继捧	Gli Gji Gbeng	19
-李继捧	Gli Gji peng	19
-李继捧	li ji peng	19
-李继朱	Gli Gji Gjyu	9
-李继朱	Gli Gji zhu	9
-李继朱	li ji zhu	9
 李继迁	Gli Gji Gqien	61
 李继迁	Gli Gji qian	61
 李继迁	li ji qian	61
-李绪鄂	Gli Gxyu Gngo	256
-李绪鄂	Gli Gxyu e	256
-李绪鄂	Gli xu Gngo	256
-李绪鄂	Gli xu e	256
-李绪鄂	li xu e	256
-李续宾	Gli Gxyu Gbin	11
-李续宾	Gli xu Gbin	11
-李续宾	li xu bin	11
-李维业	Gli Gwei Gnie	7
-李维业	Gli Gwei ye	7
-李维业	li wei ye	7
 李维汉	Gli Gwei Ghon	32
 李维汉	Gli Gwei han	32
 李维汉	li wei han	32
-李美洁	Gli Gmi Gjie	7
-李美洁	Gli mei Gjie	7
-李美洁	li mei jie	7
-李翊君	Gli Gye Gjyun	256
-李翊君	Gli Gye jun	256
-李翊君	Gli yi Gjyun	256
-李翊君	Gli yi jun	256
-李翊君	li yi jun	256
-李翠莲	Gli Gqyu Glien	12
-李翠莲	Gli Gqyu lian	12
-李翠莲	Gli cui Glien	12
-李翠莲	Gli cui lian	12
-李翠莲	li cui lian	12
 李老九	Gli Glau Gjiu	6
 李老九	Gli lao Gjiu	6
 李老九	li lao jiu	6
-李老汉	Gli Glau Ghon	19
-李老汉	Gli Glau han	19
-李老汉	Gli lao Ghon	19
-李老汉	Gli lao han	19
-李老汉	li lao han	19
-李老爷	Gli Glau Gya	11
-李老爷	Gli Glau ye	11
-李老爷	Gli lao Gya	11
-李老爷	Gli lao ye	11
-李老爷	li lao ye	11
 李自成	Gli Gcu Gcen	5577
 李自成	Gli Gcu Gxiang	5577
 李自成	Gli Gcu cheng	5577
@@ -369311,11 +366388,6 @@ use_preset_vocabulary: false
 李自成起义	Gli zi cheng Gqi Gni	18
 李自成起义	Gli zi cheng Gqi yi	18
 李自成起义	li zi cheng qi yi	18
-李舜佶	Gli Gxyun Gqi	25
-李舜佶	Gli Gxyun ji	25
-李舜佶	Gli shun Gqi	25
-李舜佶	Gli shun ji	25
-李舜佶	li shun ji	25
 李舜臣	Gli Gxyun Gcen	108
 李舜臣	Gli Gxyun chen	108
 李舜臣	Gli shun Gcen	108
@@ -369326,30 +366398,11 @@ use_preset_vocabulary: false
 李芳亭	Gli fang Gtin	7
 李芳亭	Gli fang ting	7
 李芳亭	li fang ting	7
-李苦禅	Gli Gku Gdan	14
-李苦禅	Gli Gku chan	14
-李苦禅	li ku chan	14
-李英民	Gli Gyin Gmin	12
-李英民	Gli ying Gmin	12
-李英民	li ying min	12
-李茂贞	Gli Gmau Gzen	19
-李茂贞	Gli Gmau zhen	19
-李茂贞	Gli mao Gzen	19
-李茂贞	Gli mao zhen	19
-李茂贞	li mao zhen	19
 李荣杓	Gli Gleng Gpieu	6
 李荣杓	Gli Gleng biao	6
 李荣杓	Gli rong Gpieu	6
 李荣杓	Gli rong biao	6
 李荣杓	li rong biao	6
-李荣融	Gli Gleng Gyung	9
-李荣融	Gli Gleng rong	9
-李荣融	Gli rong Gyung	9
-李荣融	Gli rong rong	9
-李荣融	li rong rong	9
-李莫愁	Gli Gmo Gceu	1953
-李莫愁	Gli Gmo chou	1953
-李莫愁	li mo chou	1953
 李莲英	Gli Glien Gyin	613
 李莲英	Gli Glien ying	613
 李莲英	Gli lian Gyin	613
@@ -369360,17 +366413,6 @@ use_preset_vocabulary: false
 李虎儿	Gli hu Ge	6
 李虎儿	Gli hu er	6
 李虎儿	li hu er	6
-李虞候	Gli Gyu Gheu	16
-李虞候	Gli Gyu hou	16
-李虞候	li yu hou	16
-李行亮	Gli Ghang Gliong	256
-李行亮	Gli Ghang liang	256
-李行亮	Gli xing Gliong	256
-李行亮	Gli xing liang	256
-李行亮	li xing liang	256
-李西华	Gli Gxi Gfa	67
-李西华	Gli Gxi hua	67
-李西华	li xi hua	67
 李谅祚	Gli Gliong Gtu	8
 李谅祚	Gli Gliong zuo	8
 李谅祚	Gli liang Gtu	8
@@ -369380,74 +366422,20 @@ use_preset_vocabulary: false
 李贵妃	Gli Ggui Gfi	409
 李贵妃	Gli Ggui fei	409
 李贵妃	li gui fei	409
-李贵鲜	Gli Ggui Gxien	28
-李贵鲜	Gli Ggui xian	28
-李贵鲜	li gui xian	28
-李贺普	Gli Gho Gpu	19
-李贺普	Gli he Gpu	19
-李贺普	li he pu	19
 李贽	Gli Gzi	30
 李贽	Gli zhi	30
 李贽	li zhi	30
-李辅国	Gli Gfu Ggue	7
-李辅国	Gli Gfu guo	7
-李辅国	li fu guo	7
 李达任	Gli Gtai Glin	6
 李达任	Gli Gtai ren	6
 李达任	Gli da Glin	6
 李达任	Gli da ren	6
 李达任	li da ren	6
-李进忠	Gli Gjin Gjiung	10
-李进忠	Gli Gjin zhong	10
-李进忠	li jin zhong	10
-李连宁	Gli Glien Gning	256
-李连宁	Gli lian Gning	256
-李连宁	li lian ning	256
-李连新	Gli Glien Gxin	34
-李连新	Gli lian Gxin	34
-李连新	li lian xin	34
-李连杰	Gli Glien Gjie	9
-李连杰	Gli lian Gjie	9
-李连杰	li lian jie	9
-李适之	Gli Gsi Gzi	8
-李适之	Gli Gsi zhi	8
-李适之	Gli shi Gzi	8
-李适之	Gli shi zhi	8
-李适之	li shi zhi	8
 李逵	Gli Gkui	1151
 李道友	Gli Gtau Gyiu	6
 李道友	Gli Gtau you	6
 李道友	Gli dao Gyiu	6
 李道友	Gli dao you	6
 李道友	li dao you	6
-李道宗	Gli Gtau Gzeng	10
-李道宗	Gli Gtau zong	10
-李道宗	Gli dao Gzeng	10
-李道宗	Gli dao zong	10
-李道宗	li dao zong	10
-李道豫	Gli Gtau Gyu	14
-李道豫	Gli dao Gyu	14
-李道豫	li dao yu	14
-李道长	Gli Gtau Gjiong	8
-李道长	Gli Gtau zhang	8
-李道长	Gli dao Gjiong	8
-李道长	Gli dao zhang	8
-李道长	li dao zhang	8
-李邦华	Gli Gbong Gfa	36
-李邦华	Gli Gbong hua	36
-李邦华	Gli bang Gfa	36
-李邦华	Gli bang hua	36
-李邦华	li bang hua	36
-李邦彦	Gli Gbong Gyen	87
-李邦彦	Gli Gbong yan	87
-李邦彦	Gli bang Gyen	87
-李邦彦	Gli bang yan	87
-李邦彦	li bang yan	87
-李重庵	Gli Gqiung Gngon	257
-李重庵	Gli Gqiung an	257
-李重庵	Gli zhong Gngon	257
-李重庵	Gli zhong an	257
-李重庵	li zhong an	257
 李重润	Gli Gqiung Glen	6
 李重润	Gli Gqiung run	6
 李重润	Gli zhong Glen	6
@@ -369458,109 +366446,21 @@ use_preset_vocabulary: false
 李重茂	Gli zhong Gmau	6
 李重茂	Gli zhong mao	6
 李重茂	li zhong mao	6
-李金华	Gli Gjin Gfa	54
-李金华	Gli Gjin hua	54
-李金华	li jin hua	54
-李金吾	Gli Gjin Gngo	16
-李金吾	Gli Gjin wu	16
-李金吾	li jin wu	16
-李金早	Gli Gjin Gzau	256
-李金早	Gli Gjin zao	256
-李金早	li jin zao	256
-李金生	Gli Gjin Gsang	10
-李金生	Gli Gjin sheng	10
-李金生	li jin sheng	10
-李金羽	Gli Gjin Gyu	157
-李金龙	Gli Gjin Gliung	28
-李金龙	Gli Gjin long	28
-李金龙	li jin long	28
-李钟玉	Gli Gjiung Gyu	12
-李钟玉	Gli zhong Gyu	12
-李钟玉	li zhong yu	12
 李铁	Gli Gtie	177
-李铁嘴	Gli Gtie Gjyu	100
-李铁嘴	Gli Gtie zui	100
-李铁嘴	li tie zui	100
-李铁映	Gli Gtie Gyang	342
-李铁映	Gli Gtie ying	342
-李铁映	li tie ying	342
-李银河	Gli Gngin Gho	14
-李银河	Gli Gngin he	14
-李银河	Gli yin Gho	14
-李银河	Gli yin he	14
-李银河	li yin he	14
-李锁爷	Gli Gso Gya	9
-李锁爷	Gli Gso ye	9
-李锁爷	Gli suo Gya	9
-李锁爷	Gli suo ye	9
-李锁爷	li suo ye	9
-李锡尼	Gli Gxi Gni	10
-李锡铭	Gli Gxi Gmiang	12
-李锡铭	Gli Gxi ming	12
-李锡铭	li xi ming	12
-李镇中	Gli Gzen Gjiung	10
-李镇中	Gli Gzen zhong	10
-李镇中	Gli zhen Gjiung	10
-李镇中	Gli zhen zhong	10
-李镇中	li zhen zhong	10
-李长云	Gli Gqiong Gyun	16
-李长云	Gli zhang Gyun	16
-李长云	li zhang yun	16
 李长庚	Gli Gqiong Gkien	6
 李长庚	Gli Gqiong geng	6
 李长庚	Gli chang Gkien	6
 李长庚	Gli chang geng	6
 李长庚	li chang geng	6
-李长春	Gli Gqiong Gqyun	7
-李长春	Gli Gqiong chun	7
-李长春	Gli chang Gqyun	7
-李长春	Gli chang chun	7
-李长春	li chang chun	7
-李长水	Gli Gqiong Gxyu	19
-李长水	Gli Gqiong shui	19
-李长水	Gli zhang Gxyu	19
-李长水	Gli zhang shui	19
-李长水	li zhang shui	19
-李闯王	Gli Gcong Gwong	301
-李闯王	Gli Gcong wang	301
-李闯王	Gli chuang Gwong	301
-李闯王	Gli chuang wang	301
-李闯王	li chuang wang	301
-李阎王	Gli Gyen Gwong	46
-李阎王	Gli Gyen wang	46
-李阎王	Gli yan Gwong	46
-李阎王	Gli yan wang	46
-李阎王	li yan wang	46
-李阳冰	Gli Gyong Gbin	10
-李阳冰	Gli Gyong bing	10
-李阳冰	Gli yang Gbin	10
-李阳冰	Gli yang bing	10
-李阳冰	li yang bing	10
-李陵碑	Gli Glin Gbi	7
-李陵碑	Gli Glin bei	7
-李陵碑	Gli ling Gbi	7
-李陵碑	Gli ling bei	7
-李陵碑	li ling bei	7
 李隆基	Gli Gleng Gji	50
 李隆基	Gli long Gji	50
 李隆基	li long ji	50
 李雅普	Gli Gnga Gpu	6
 李雅普	Gli ya Gpu	6
 李雅普	li ya pu	6
-李雪梅	Gli Gxie Gmi	19
-李雪梅	Gli Gxie mei	19
-李雪梅	Gli xue Gmi	19
-李雪梅	Gli xue mei	19
-李雪梅	li xue mei	19
 李雷道	Gli Glei Gtau	6
 李雷道	Gli Glei dao	6
 李雷道	li lei dao	6
-李雷雷	Gli Glei Glei	15
-李青山	Gli Gqiang Gsan	9
-李青山	Gli Gqiang shan	9
-李青山	Gli qing Gsan	9
-李青山	Gli qing shan	9
-李青山	li qing shan	9
 李靖	Gli Gjin	77
 李靖	Gli jing	77
 李靖	li jing	77
@@ -369569,21 +366469,6 @@ use_preset_vocabulary: false
 李顺达	Gli shun Gtai	21
 李顺达	Gli shun da	21
 李顺达	li shun da	21
-李飞黄	Gli Gfi Gwong	165
-李飞黄	Gli Gfi huang	165
-李飞黄	Gli fei Gwong	165
-李飞黄	Gli fei huang	165
-李飞黄	li fei huang	165
-李香君	Gli Gxiong Gjyun	14
-李香君	Gli Gxiong jun	14
-李香君	Gli xiang Gjyun	14
-李香君	Gli xiang jun	14
-李香君	li xiang jun	14
-李香香	Gli Gxiong Gxiong	10
-李香香	Gli Gxiong xiang	10
-李香香	Gli xiang Gxiong	10
-李香香	Gli xiang xiang	10
-李香香	li xiang xiang	10
 李高成	Gli Ggau Gcen	2407
 李高成	Gli Ggau Gxiang	2407
 李高成	Gli Ggau cheng	2407
@@ -369591,54 +366476,20 @@ use_preset_vocabulary: false
 李高成	Gli gao Gxiang	2407
 李高成	Gli gao cheng	2407
 李高成	li gao cheng	2407
-李鸿忠	Gli Gfen Gjiung	1025
-李鸿忠	Gli Gfen zhong	1025
-李鸿忠	Gli hong Gjiung	1025
-李鸿忠	Gli hong zhong	1025
-李鸿忠	li hong zhong	1025
-李鸿恩	Gli Gfen Gngien	9
-李鸿恩	Gli Gfen en	9
-李鸿恩	Gli hong Gngien	9
-李鸿恩	Gli hong en	9
-李鸿恩	li hong en	9
 李鸿章	Gli Gfen Gjiong	2617
 李鸿章	Gli Gfen zhang	2617
 李鸿章	Gli hong Gjiong	2617
 李鸿章	Gli hong zhang	2617
 李鸿章	li hong zhang	2617
-李鸿藻	Gli Gfen Gzau	7
-李鸿藻	Gli Gfen zao	7
-李鸿藻	Gli hong Gzau	7
-李鸿藻	Gli hong zao	7
-李鸿藻	li hong zao	7
 李鹏	Gli Gpen	675
 李鹏	Gli peng	675
 李鹏	li peng	675
-李麦劝	Gli Gmai Gqyuon	7
-李麦劝	Gli Gmai quan	7
-李麦劝	li mai quan	7
 李麦听	Gli Gmai Gtiang	12
 李麦听	Gli Gmai ting	12
 李麦听	li mai ting	12
 李麦喊	Gli Gmai Ghang	6
 李麦喊	Gli Gmai han	6
 李麦喊	li mai han	6
-李麦忙	Gli Gmai Gmong	9
-李麦忙	Gli Gmai mang	9
-李麦忙	li mai mang	9
-李默庵	Gli Gme Gngon	12
-李默庵	Gli Gme an	12
-李默庵	Gli mo Gngon	12
-李默庵	Gli mo an	12
-李默庵	li mo an	12
-李默然	Gli Gme Glen	8
-李默然	Gli Gme ran	8
-李默然	Gli mo Glen	8
-李默然	Gli mo ran	8
-李默然	li mo ran	8
-李龟寿	Gli Ggui Gseu	7
-李龟寿	Gli Ggui shou	7
-李龟寿	li gui shou	7
 杏	Gxin	30000
 杏	xing	30000
 杏仁	Gxin Gnin	141
@@ -399903,11 +396754,6 @@ use_preset_vocabulary: false
 汝何敢	ru Gho gan	7
 汝何敢	ru he Ggong	7
 汝何敢	ru he gan	7
-汝侯刘	Gxyu Gheu Gliu	19
-汝侯刘	Gxyu hou Gliu	19
-汝侯刘	ru Gheu Gliu	19
-汝侯刘	ru hou Gliu	19
-汝侯刘	ru hou liu	19
 汝南	Gxyu Glang	107
 汝南	Gxyu nan	107
 汝南	ru Glang	107
@@ -401933,11 +398779,6 @@ use_preset_vocabulary: false
 汲	Ggie	7500
 汲	Gji	30000
 汲	ji	7500
-汲冢周	Gji Gzong Gzeu	7
-汲冢周	Gji Gzong zhou	7
-汲冢周	Gji zhong Gzeu	7
-汲冢周	Gji zhong zhou	7
-汲冢周	ji zhong zhou	7
 汲取	Gji Gqi	313
 汲取	Gji qu	313
 汲取	ji qu	313
@@ -437020,9 +433861,6 @@ use_preset_vocabulary: false
 牧养	Gmu Gyong	15
 牧养	Gmu yang	15
 牧养	mu yang	15
-牧刘表	Gmu Gliu Gbieu	260
-牧刘表	Gmu Gliu biao	260
-牧刘表	mu liu biao	260
 牧区	Gmu Gqyu	315
 牧区	Gmu qu	315
 牧区	mu qu	315
@@ -442701,14 +439539,6 @@ use_preset_vocabulary: false
 王介儒	wang Gkai ru	28
 王介儒	wang jie Glu	28
 王介儒	wang jie ru	28
-王从周	Gwong Gqiung Gzeu	42
-王从周	Gwong Gqiung zhou	42
-王从周	Gwong cong Gzeu	42
-王从周	Gwong cong zhou	42
-王从周	wang Gqiung Gzeu	42
-王从周	wang Gqiung zhou	42
-王从周	wang cong Gzeu	42
-王从周	wang cong zhou	42
 王仕海	Gwong Gsi Ghoi	12
 王仕海	Gwong Gsi hai	12
 王仕海	Gwong shi Ghoi	12
@@ -443086,17 +439916,6 @@ use_preset_vocabulary: false
 王凯旋	wang Gkoi xuan	12
 王凯旋	wang kai Gxon	12
 王凯旋	wang kai xuan	12
-王刘安	Gwong Gliu Gngon	10
-王刘安	Gwong Gliu an	10
-王刘安	wang Gliu Gngon	10
-王刘安	wang Gliu an	10
-王刘安	wang liu an	10
-王刘恒	Gwong Gliu Gheng	12
-王刘恒	wang Gliu Gheng	12
-王刘恒	wang liu heng	12
-王刘武	Gwong Gliu Gwu	12
-王刘武	wang Gliu Gwu	12
-王刘武	wang liu wu	12
 王刘胜	Gwong Gliu Gsen	14
 王刘胜	Gwong Gliu sheng	14
 王刘胜	wang Gliu Gsen	14
@@ -445920,14 +442739,6 @@ use_preset_vocabulary: false
 王贞鹏	wang Gzen peng	11
 王贞鹏	wang zhen Gpen	11
 王贞鹏	wang zhen peng	11
-王赵构	Gwong Gzeu Ggieu	16
-王赵构	Gwong Gzeu gou	16
-王赵构	Gwong zhao Ggieu	16
-王赵构	Gwong zhao gou	16
-王赵构	wang Gzeu Ggieu	16
-王赵构	wang Gzeu gou	16
-王赵构	wang zhao Ggieu	16
-王赵构	wang zhao gou	16
 王超平	Gwong Gceu Gpiang	10
 王超平	Gwong Gceu ping	10
 王超平	Gwong chao Gpiang	10
@@ -465961,9 +462772,6 @@ use_preset_vocabulary: false
 益州	Gyi Gzeu	168
 益州	Gyi zhou	168
 益州	yi zhou	168
-益州刘	Gyi Gzeu Gliu	9
-益州刘	Gyi zhou Gliu	9
-益州刘	yi zhou liu	9
 益州牧	Gyi Gzeu Gmu	24
 益州牧	Gyi zhou Gmu	24
 益州牧	yi zhou mu	24
@@ -518847,14 +515655,6 @@ use_preset_vocabulary: false
 缪色奥	mou Gse Gngau	16
 缪色奥	mou Gse ao	16
 缪色奥	mou se ao	16
-缪荃孙	Gmu Gson Gsen	8
-缪荃孙	Gmu Gson sun	8
-缪荃孙	Gmu quan Gsen	8
-缪荃孙	Gmu quan sun	8
-缪荃孙	mou Gson Gsen	8
-缪荃孙	mou Gson sun	8
-缪荃孙	mou quan Gsen	8
-缪荃孙	mou quan sun	8
 缫	Gsau	7500
 缫	Gzau	30000
 缫	sao	30000
@@ -526966,9 +523766,6 @@ use_preset_vocabulary: false
 老朽	Glau Gxiu	154
 老朽	lao Gxiu	154
 老朽	lao xiu	154
-老李	Glau Gli	298
-老李	lao Gli	298
-老李	lao li	298
 老板	Glau Gban	4402
 老板	lao Gban	4402
 老板	lao ban	4402
@@ -560041,14 +556838,6 @@ use_preset_vocabulary: false
 薄厚	Gpo hou	9
 薄厚	bao Gheu	9
 薄厚	bao hou	9
-薄周孔	Gpo Gzeu Gkung	7
-薄周孔	Gpo Gzeu kong	7
-薄周孔	Gpo zhou Gkung	7
-薄周孔	Gpo zhou kong	7
-薄周孔	bao Gzeu Gkung	7
-薄周孔	bao Gzeu kong	7
-薄周孔	bao zhou Gkung	7
-薄周孔	bao zhou kong	7
 薄命	Gpo Gmiang	32
 薄命	Gpo ming	32
 薄命	bo Gmiang	32
@@ -568203,11 +564992,6 @@ use_preset_vocabulary: false
 裴斯泰	pei Gsu tai	13
 裴斯泰	pei si Gtoi	13
 裴斯泰	pei si tai	13
-裴李岗	Gfi Gli Ggong	15
-裴李岗	Gfi Gli gang	15
-裴李岗	pei Gli Ggong	15
-裴李岗	pei Gli gang	15
-裴李岗	pei li gang	15
 裴松之	Gfi Gseng Gzi	7
 裴松之	Gfi Gseng zhi	7
 裴松之	Gfi song Gzi	7
@@ -592275,53 +589059,11 @@ use_preset_vocabulary: false
 赵一曼	Gzeu Gyi Gman	8
 赵一曼	zhao Gyi Gman	8
 赵一曼	zhao yi man	8
-赵一荻	Gzeu Gyi Gdi	233
-赵一荻	zhao Gyi Gdi	233
-赵一荻	zhao yi di	233
-赵三叔	Gzeu Gsan Gxyu	9
-赵三叔	Gzeu Gsan shu	9
-赵三叔	zhao Gsan Gxyu	9
-赵三叔	zhao Gsan shu	9
-赵三叔	zhao san shu	9
-赵三哥	Gzeu Gsan Gko	41
-赵三哥	Gzeu Gsan ge	41
-赵三哥	zhao Gsan Gko	41
-赵三哥	zhao Gsan ge	41
-赵三哥	zhao san ge	41
-赵三爷	Gzeu Gsan Gya	49
-赵三爷	Gzeu Gsan ye	49
-赵三爷	zhao Gsan Gya	49
-赵三爷	zhao Gsan ye	49
-赵三爷	zhao san ye	49
-赵世炎	Gzeu Gsi Gyen	177
-赵世炎	Gzeu Gsi yan	177
-赵世炎	Gzeu shi Gyen	177
-赵世炎	Gzeu shi yan	177
-赵世炎	zhao Gsi Gyen	177
-赵世炎	zhao Gsi yan	177
-赵世炎	zhao shi Gyen	177
-赵世炎	zhao shi yan	177
 赵丽蓉	Gzeu Gli Gleng	6
 赵丽蓉	Gzeu Gli rong	6
 赵丽蓉	zhao Gli Gleng	6
 赵丽蓉	zhao Gli rong	6
 赵丽蓉	zhao li rong	6
-赵之谦	Gzeu Gzi Gqien	12
-赵之谦	Gzeu Gzi qian	12
-赵之谦	Gzeu zhi Gqien	12
-赵之谦	Gzeu zhi qian	12
-赵之谦	zhao Gzi Gqien	12
-赵之谦	zhao Gzi qian	12
-赵之谦	zhao zhi Gqien	12
-赵之谦	zhao zhi qian	12
-赵之龙	Gzeu Gzi Gliung	25
-赵之龙	Gzeu Gzi long	25
-赵之龙	Gzeu zhi Gliung	25
-赵之龙	Gzeu zhi long	25
-赵之龙	zhao Gzi Gliung	25
-赵之龙	zhao Gzi long	25
-赵之龙	zhao zhi Gliung	25
-赵之龙	zhao zhi long	25
 赵争争	Gzeu Gzang Gzang	140
 赵争争	Gzeu Gzang zheng	140
 赵争争	Gzeu zheng Gzang	140
@@ -592330,27 +589072,6 @@ use_preset_vocabulary: false
 赵争争	zhao Gzang zheng	140
 赵争争	zhao zheng Gzang	140
 赵争争	zhao zheng zheng	140
-赵二哥	Gzeu Ge Gko	23
-赵二哥	Gzeu Ge ge	23
-赵二哥	Gzeu er Gko	23
-赵二哥	Gzeu er ge	23
-赵二哥	zhao Ge Gko	23
-赵二哥	zhao Ge ge	23
-赵二哥	zhao er Gko	23
-赵二哥	zhao er ge	23
-赵二媳妇	Gzeu Ge Gxi Gfu	9
-赵二媳妇	Gzeu er Gxi Gfu	9
-赵二媳妇	zhao Ge Gxi Gfu	9
-赵二媳妇	zhao er Gxi Gfu	9
-赵二媳妇	zhao er xi fu	9
-赵二嫂	Gzeu Ge Gsau	7
-赵二嫂	Gzeu Ge sao	7
-赵二嫂	Gzeu er Gsau	7
-赵二嫂	Gzeu er sao	7
-赵二嫂	zhao Ge Gsau	7
-赵二嫂	zhao Ge sao	7
-赵二嫂	zhao er Gsau	7
-赵二嫂	zhao er sao	7
 赵云	Gzeu Gyun	236
 赵云	zhao Gyun	236
 赵云	zhao yun	236
@@ -592359,9 +589080,6 @@ use_preset_vocabulary: false
 赵云之	zhao Gyun Gzi	6
 赵云之	zhao Gyun zhi	6
 赵云之	zhao yun zhi	6
-赵云引	Gzeu Gyun Gyin	18
-赵云引	zhao Gyun Gyin	18
-赵云引	zhao yun yin	18
 赵五娘	Gzeu Gng Gniong	6
 赵五娘	Gzeu Gng niang	6
 赵五娘	Gzeu wu Gniong	6
@@ -592370,35 +589088,6 @@ use_preset_vocabulary: false
 赵五娘	zhao Gng niang	6
 赵五娘	zhao wu Gniong	6
 赵五娘	zhao wu niang	6
-赵人孩	Gzeu Gnin Ghai	12
-赵人孩	Gzeu ren Ghai	12
-赵人孩	zhao Gnin Ghai	12
-赵人孩	zhao ren Ghai	12
-赵人孩	zhao ren hai	12
-赵元任	Gzeu Gyon Glin	12
-赵元任	Gzeu Gyon ren	12
-赵元任	Gzeu yuan Glin	12
-赵元任	Gzeu yuan ren	12
-赵元任	zhao Gyon Glin	12
-赵元任	zhao Gyon ren	12
-赵元任	zhao yuan Glin	12
-赵元任	zhao yuan ren	12
-赵元奴	Gzeu Gyon Glu	21
-赵元奴	Gzeu Gyon nu	21
-赵元奴	Gzeu yuan Glu	21
-赵元奴	Gzeu yuan nu	21
-赵元奴	zhao Gyon Glu	21
-赵元奴	zhao Gyon nu	21
-赵元奴	zhao yuan Glu	21
-赵元奴	zhao yuan nu	21
-赵充国	Gzeu Gqiung Ggue	12
-赵充国	Gzeu Gqiung guo	12
-赵充国	Gzeu chong Ggue	12
-赵充国	Gzeu chong guo	12
-赵充国	zhao Gqiung Ggue	12
-赵充国	zhao Gqiung guo	12
-赵充国	zhao chong Ggue	12
-赵充国	zhao chong guo	12
 赵先生	Gzeu Gxien Gsang	39
 赵先生	Gzeu Gxien sheng	39
 赵先生	Gzeu xian Gsang	39
@@ -592423,46 +589112,11 @@ use_preset_vocabulary: false
 赵公明	zhao Ggung ming	6
 赵公明	zhao gong Gmiang	6
 赵公明	zhao gong ming	6
-赵兴林	Gzeu Gxin Glin	7
-赵兴林	Gzeu xing Glin	7
-赵兴林	zhao Gxin Glin	7
-赵兴林	zhao xing Glin	7
-赵兴林	zhao xing lin	7
-赵军	Gzeu Gjyun	50
-赵军	Gzeu jun	50
-赵军	zhao Gjyun	50
-赵军	zhao jun	50
-赵凤昌	Gzeu Gfeng Gqiong	112
-赵凤昌	Gzeu Gfeng chang	112
-赵凤昌	zhao Gfeng Gqiong	112
-赵凤昌	zhao Gfeng chang	112
-赵凤昌	zhao feng chang	112
-赵凯球	Gzeu Gkoi Gqiu	9
-赵凯球	Gzeu kai Gqiu	9
-赵凯球	zhao Gkoi Gqiu	9
-赵凯球	zhao kai Gqiu	9
-赵凯球	zhao kai qiu	9
-赵剑华	Gzeu Gjien Gfa	9
-赵剑华	Gzeu Gjien hua	9
-赵剑华	Gzeu jian Gfa	9
-赵剑华	Gzeu jian hua	9
-赵剑华	zhao Gjien Gfa	9
-赵剑华	zhao Gjien hua	9
-赵剑华	zhao jian Gfa	9
-赵剑华	zhao jian hua	9
 赵匡胤	Gzeu Gkuong Gyin	174
 赵匡胤	Gzeu kuang Gyin	174
 赵匡胤	zhao Gkuong Gyin	174
 赵匡胤	zhao kuang Gyin	174
 赵匡胤	zhao kuang yin	174
-赵半山	Gzeu Gbon Gsan	379
-赵半山	Gzeu Gbon shan	379
-赵半山	Gzeu ban Gsan	379
-赵半山	Gzeu ban shan	379
-赵半山	zhao Gbon Gsan	379
-赵半山	zhao Gbon shan	379
-赵半山	zhao ban Gsan	379
-赵半山	zhao ban shan	379
 赵南星	Gzeu Glang Gxin	63
 赵南星	Gzeu Glang xing	63
 赵南星	Gzeu nan Gxin	63
@@ -592471,107 +589125,11 @@ use_preset_vocabulary: false
 赵南星	zhao Glang xing	63
 赵南星	zhao nan Gxin	63
 赵南星	zhao nan xing	63
-赵南起	Gzeu Glang Gqi	9
-赵南起	Gzeu nan Gqi	9
-赵南起	zhao Glang Gqi	9
-赵南起	zhao nan Gqi	9
-赵南起	zhao nan qi	9
-赵博生	Gzeu Gbo Gsang	24
-赵博生	Gzeu Gbo sheng	24
-赵博生	zhao Gbo Gsang	24
-赵博生	zhao Gbo sheng	24
-赵博生	zhao bo sheng	24
-赵可铭	Gzeu Gkie Gmiang	257
-赵可铭	Gzeu Gkie ming	257
-赵可铭	Gzeu ke Gmiang	257
-赵可铭	Gzeu ke ming	257
-赵可铭	zhao Gkie Gmiang	257
-赵可铭	zhao Gkie ming	257
-赵可铭	zhao ke Gmiang	257
-赵可铭	zhao ke ming	257
-赵合德	Gzeu Gho Gde	26
-赵合德	Gzeu he Gde	26
-赵合德	zhao Gho Gde	26
-赵合德	zhao he Gde	26
-赵合德	zhao he de	26
-赵君卿	Gzeu Gjyun Gqin	8
-赵君卿	Gzeu Gjyun qing	8
-赵君卿	Gzeu jun Gqin	8
-赵君卿	Gzeu jun qing	8
-赵君卿	zhao Gjyun Gqin	8
-赵君卿	zhao Gjyun qing	8
-赵君卿	zhao jun Gqin	8
-赵君卿	zhao jun qing	8
-赵君徽	Gzeu Gjyun Gfi	8
-赵君徽	Gzeu Gjyun hui	8
-赵君徽	Gzeu jun Gfi	8
-赵君徽	Gzeu jun hui	8
-赵君徽	zhao Gjyun Gfi	8
-赵君徽	zhao Gjyun hui	8
-赵君徽	zhao jun Gfi	8
-赵君徽	zhao jun hui	8
 赵启昌	Gzeu Gqi Gqiong	6
 赵启昌	Gzeu Gqi chang	6
 赵启昌	zhao Gqi Gqiong	6
 赵启昌	zhao Gqi chang	6
 赵启昌	zhao qi chang	6
-赵启正	Gzeu Gqi Gjiang	20
-赵启正	Gzeu Gqi zheng	20
-赵启正	zhao Gqi Gjiang	20
-赵启正	zhao Gqi zheng	20
-赵启正	zhao qi zheng	20
-赵启霖	Gzeu Gqi Glin	12
-赵启霖	zhao Gqi Glin	12
-赵启霖	zhao qi lin	12
-赵员外	Gzeu Gyon Gngoi	39
-赵员外	Gzeu Gyon wai	39
-赵员外	Gzeu yuan Gngoi	39
-赵员外	Gzeu yuan wai	39
-赵员外	zhao Gyon Gngoi	39
-赵员外	zhao Gyon wai	39
-赵员外	zhao yuan Gngoi	39
-赵员外	zhao yuan wai	39
-赵四公子	Gzeu Gsu Ggung Gzu	8
-赵四公子	Gzeu Gsu Ggung zi	8
-赵四公子	Gzeu Gsu gong Gzu	8
-赵四公子	Gzeu Gsu gong zi	8
-赵四公子	Gzeu si Ggung Gzu	8
-赵四公子	Gzeu si Ggung zi	8
-赵四公子	Gzeu si gong Gzu	8
-赵四公子	Gzeu si gong zi	8
-赵四公子	zhao Gsu Ggung Gzu	8
-赵四公子	zhao Gsu Ggung zi	8
-赵四公子	zhao Gsu gong Gzu	8
-赵四公子	zhao Gsu gong zi	8
-赵四公子	zhao si Ggung Gzu	8
-赵四公子	zhao si Ggung zi	8
-赵四公子	zhao si gong Gzu	8
-赵四公子	zhao si gong zi	8
-赵国	Gzeu Ggue	73
-赵国	Gzeu guo	73
-赵国	zhao Ggue	73
-赵国	zhao guo	73
-赵国光	Gzeu Ggue Gguong	10
-赵国光	Gzeu Ggue guang	10
-赵国光	Gzeu guo Gguong	10
-赵国光	Gzeu guo guang	10
-赵国光	zhao Ggue Gguong	10
-赵国光	zhao Ggue guang	10
-赵国光	zhao guo Gguong	10
-赵国光	zhao guo guang	10
-赵国霖	Gzeu Ggue Glin	15
-赵国霖	Gzeu guo Glin	15
-赵国霖	zhao Ggue Glin	15
-赵国霖	zhao guo Glin	15
-赵国霖	zhao guo lin	15
-赵堂官	Gzeu Gtong Gguon	12
-赵堂官	Gzeu Gtong guan	12
-赵堂官	Gzeu tang Gguon	12
-赵堂官	Gzeu tang guan	12
-赵堂官	zhao Gtong Gguon	12
-赵堂官	zhao Gtong guan	12
-赵堂官	zhao tang Gguon	12
-赵堂官	zhao tang guan	12
 赵大人	Gzeu Gtai Gnin	24
 赵大人	Gzeu Gtai ren	24
 赵大人	Gzeu da Gnin	24
@@ -592580,27 +589138,11 @@ use_preset_vocabulary: false
 赵大人	zhao Gtai ren	24
 赵大人	zhao da Gnin	24
 赵大人	zhao da ren	24
-赵大哥	Gzeu Gtai Gko	44
-赵大哥	Gzeu Gtai ge	44
-赵大哥	Gzeu da Gko	44
-赵大哥	Gzeu da ge	44
-赵大哥	zhao Gtai Gko	44
-赵大哥	zhao Gtai ge	44
-赵大哥	zhao da Gko	44
-赵大哥	zhao da ge	44
 赵大夫	Gzeu Gtai Gfu	6
 赵大夫	Gzeu da Gfu	6
 赵大夫	zhao Gtai Gfu	6
 赵大夫	zhao da Gfu	6
 赵大夫	zhao da fu	6
-赵大姐	Gzeu Gtai Gjia	7
-赵大姐	Gzeu Gtai jie	7
-赵大姐	Gzeu da Gjia	7
-赵大姐	Gzeu da jie	7
-赵大姐	zhao Gtai Gjia	7
-赵大姐	zhao Gtai jie	7
-赵大姐	zhao da Gjia	7
-赵大姐	zhao da jie	7
 赵大娘	Gzeu Gtai Gniong	10
 赵大娘	Gzeu Gtai niang	10
 赵大娘	Gzeu da Gniong	10
@@ -592609,49 +589151,11 @@ use_preset_vocabulary: false
 赵大娘	zhao Gtai niang	10
 赵大娘	zhao da Gniong	10
 赵大娘	zhao da niang	10
-赵大明	Gzeu Gtai Gmiang	525
-赵大明	Gzeu Gtai ming	525
-赵大明	Gzeu da Gmiang	525
-赵大明	Gzeu da ming	525
-赵大明	zhao Gtai Gmiang	525
-赵大明	zhao Gtai ming	525
-赵大明	zhao da Gmiang	525
-赵大明	zhao da ming	525
-赵大锤	Gzeu Gtai Gqyu	90
-赵大锤	Gzeu Gtai chui	90
-赵大锤	Gzeu da Gqyu	90
-赵大锤	Gzeu da chui	90
-赵大锤	zhao Gtai Gqyu	90
-赵大锤	zhao Gtai chui	90
-赵大锤	zhao da Gqyu	90
-赵大锤	zhao da chui	90
-赵天衡	Gzeu Gtien Ghen	14
-赵天衡	Gzeu Gtien heng	14
-赵天衡	Gzeu tian Ghen	14
-赵天衡	Gzeu tian heng	14
-赵天衡	zhao Gtien Ghen	14
-赵天衡	zhao Gtien heng	14
-赵天衡	zhao tian Ghen	14
-赵天衡	zhao tian heng	14
 赵姑娘	Gzeu Ggu Gniong	26
 赵姑娘	Gzeu Ggu niang	26
 赵姑娘	zhao Ggu Gniong	26
 赵姑娘	zhao Ggu niang	26
 赵姑娘	zhao gu niang	26
-赵姨奶奶	Gzeu Gyi Glai Glai	9
-赵姨奶奶	Gzeu Gyi Glai nai	9
-赵姨奶奶	Gzeu Gyi nai Glai	9
-赵姨奶奶	Gzeu Gyi nai nai	9
-赵姨奶奶	zhao Gyi Glai Glai	9
-赵姨奶奶	zhao Gyi Glai nai	9
-赵姨奶奶	zhao Gyi nai Glai	9
-赵姨奶奶	zhao Gyi nai nai	9
-赵姨奶奶	zhao yi nai nai	9
-赵姨娘	Gzeu Gyi Gniong	127
-赵姨娘	Gzeu Gyi niang	127
-赵姨娘	zhao Gyi Gniong	127
-赵姨娘	zhao Gyi niang	127
-赵姨娘	zhao yi niang	127
 赵娘子	Gzeu Gniong Gzu	27
 赵娘子	Gzeu Gniong zi	27
 赵娘子	Gzeu niang Gzu	27
@@ -592668,19 +589172,6 @@ use_preset_vocabulary: false
 赵子龙	zhao Gzu long	52
 赵子龙	zhao zi Gliung	52
 赵子龙	zhao zi long	52
-赵安宗	Gzeu Gngon Gzeng	7
-赵安宗	Gzeu Gngon zong	7
-赵安宗	Gzeu an Gzeng	7
-赵安宗	Gzeu an zong	7
-赵安宗	zhao Gngon Gzeng	7
-赵安宗	zhao Gngon zong	7
-赵安宗	zhao an Gzeng	7
-赵安宗	zhao an zong	7
-赵宏博	Gzeu Gfeng Gbo	18
-赵宏博	Gzeu hong Gbo	18
-赵宏博	zhao Gfeng Gbo	18
-赵宏博	zhao hong Gbo	18
-赵宏博	zhao hong bo	18
 赵宏声	Gzeu Gfeng Gxiang	407
 赵宏声	Gzeu Gfeng sheng	407
 赵宏声	Gzeu hong Gxiang	407
@@ -592693,59 +589184,6 @@ use_preset_vocabulary: false
 赵家	Gzeu jia	454
 赵家	zhao Gga	454
 赵家	zhao jia	454
-赵家和	Gzeu Gga Gho	20
-赵家和	Gzeu Gga he	20
-赵家和	Gzeu jia Gho	20
-赵家和	Gzeu jia he	20
-赵家和	zhao Gga Gho	20
-赵家和	zhao Gga he	20
-赵家和	zhao jia Gho	20
-赵家和	zhao jia he	20
-赵家堡	Gzeu Gga Gbau	7
-赵家堡	Gzeu Gga bao	7
-赵家堡	Gzeu jia Gbau	7
-赵家堡	Gzeu jia bao	7
-赵家堡	zhao Gga Gbau	7
-赵家堡	zhao Gga bao	7
-赵家堡	zhao jia Gbau	7
-赵家堡	zhao jia bao	7
-赵家富	Gzeu Gga Gfu	16
-赵家富	Gzeu jia Gfu	16
-赵家富	zhao Gga Gfu	16
-赵家富	zhao jia Gfu	16
-赵家富	zhao jia fu	16
-赵家庄	Gzeu Gga Gzong	8
-赵家庄	Gzeu Gga zhuang	8
-赵家庄	Gzeu jia Gzong	8
-赵家庄	Gzeu jia zhuang	8
-赵家庄	zhao Gga Gzong	8
-赵家庄	zhao Gga zhuang	8
-赵家庄	zhao jia Gzong	8
-赵家庄	zhao jia zhuang	8
-赵家条	Gzeu Gga Gtieu	256
-赵家条	Gzeu Gga tiao	256
-赵家条	Gzeu jia Gtieu	256
-赵家条	Gzeu jia tiao	256
-赵家条	zhao Gga Gtieu	256
-赵家条	zhao Gga tiao	256
-赵家条	zhao jia Gtieu	256
-赵家条	zhao jia tiao	256
-赵家楼	Gzeu Gga Gleu	9
-赵家楼	Gzeu Gga lou	9
-赵家楼	Gzeu jia Gleu	9
-赵家楼	Gzeu jia lou	9
-赵家楼	zhao Gga Gleu	9
-赵家楼	zhao Gga lou	9
-赵家楼	zhao jia Gleu	9
-赵家楼	zhao jia lou	9
-赵家沟	Gzeu Gga Ggieu	7
-赵家沟	Gzeu Gga gou	7
-赵家沟	Gzeu jia Ggieu	7
-赵家沟	Gzeu jia gou	7
-赵家沟	zhao Gga Ggieu	7
-赵家沟	zhao Gga gou	7
-赵家沟	zhao jia Ggieu	7
-赵家沟	zhao jia gou	7
 赵家湾	Gzeu Gga Gwan	256
 赵家湾	Gzeu jia Gwan	256
 赵家湾	zhao Gga Gwan	256
@@ -592759,24 +589197,6 @@ use_preset_vocabulary: false
 赵家璧	zhao Gga bi	6
 赵家璧	zhao jia Gbia	6
 赵家璧	zhao jia bi	6
-赵寄客	Gzeu Gji Gka	592
-赵寄客	Gzeu Gji ke	592
-赵寄客	zhao Gji Gka	592
-赵寄客	zhao Gji ke	592
-赵寄客	zhao ji ke	592
-赵寄容	Gzeu Gji Gyung	8
-赵寄容	Gzeu Gji rong	8
-赵寄容	zhao Gji Gyung	8
-赵寄容	zhao Gji rong	8
-赵寄容	zhao ji rong	8
-赵小双	Gzeu Gxieu Gsong	114
-赵小双	Gzeu Gxieu shuang	114
-赵小双	Gzeu xiao Gsong	114
-赵小双	Gzeu xiao shuang	114
-赵小双	zhao Gxieu Gsong	114
-赵小双	zhao Gxieu shuang	114
-赵小双	zhao xiao Gsong	114
-赵小双	zhao xiao shuang	114
 赵小姐	Gzeu Gxieu Gjia	6
 赵小姐	Gzeu Gxieu jie	6
 赵小姐	Gzeu xiao Gjia	6
@@ -592785,14 +589205,6 @@ use_preset_vocabulary: false
 赵小姐	zhao Gxieu jie	6
 赵小姐	zhao xiao Gjia	6
 赵小姐	zhao xiao jie	6
-赵少昂	Gzeu Gseu Gngong	7
-赵少昂	Gzeu Gseu ang	7
-赵少昂	Gzeu shao Gngong	7
-赵少昂	Gzeu shao ang	7
-赵少昂	zhao Gseu Gngong	7
-赵少昂	zhao Gseu ang	7
-赵少昂	zhao shao Gngong	7
-赵少昂	zhao shao ang	7
 赵尔巽	Gzeu Ge Gxyun	11
 赵尔巽	Gzeu Ge xun	11
 赵尔巽	Gzeu er Gxyun	11
@@ -592817,76 +589229,11 @@ use_preset_vocabulary: false
 赵州桥	zhao Gzeu qiao	35
 赵州桥	zhao zhou Gqieu	35
 赵州桥	zhao zhou qiao	35
-赵师兄	Gzeu Gsi Gxiang	33
-赵师兄	Gzeu Gsi xiong	33
-赵师兄	Gzeu Gsu Gxiang	33
-赵师兄	Gzeu Gsu xiong	33
-赵师兄	Gzeu shi Gxiang	33
-赵师兄	Gzeu shi xiong	33
-赵师兄	zhao Gsi Gxiang	33
-赵师兄	zhao Gsi xiong	33
-赵师兄	zhao Gsu Gxiang	33
-赵师兄	zhao Gsu xiong	33
-赵师兄	zhao shi Gxiang	33
-赵师兄	zhao shi xiong	33
-赵庆华	Gzeu Gqin Gfa	43
-赵庆华	Gzeu Gqin hua	43
-赵庆华	Gzeu qing Gfa	43
-赵庆华	Gzeu qing hua	43
-赵庆华	zhao Gqin Gfa	43
-赵庆华	zhao Gqin hua	43
-赵庆华	zhao qing Gfa	43
-赵庆华	zhao qing hua	43
-赵应元	Gzeu Gyin Gyon	7
-赵应元	Gzeu Gyin yuan	7
-赵应元	Gzeu ying Gyon	7
-赵应元	Gzeu ying yuan	7
-赵应元	zhao Gyin Gyon	7
-赵应元	zhao Gyin yuan	7
-赵应元	zhao ying Gyon	7
-赵应元	zhao ying yuan	7
-赵延刚	Gzeu Gyen Ggong	12
-赵延刚	Gzeu Gyen gang	12
-赵延刚	Gzeu yan Ggong	12
-赵延刚	Gzeu yan gang	12
-赵延刚	zhao Gyen Ggong	12
-赵延刚	zhao Gyen gang	12
-赵延刚	zhao yan Ggong	12
-赵延刚	zhao yan gang	12
-赵开发	Gzeu Gkoi Gfai	10
-赵开发	Gzeu Gkoi fa	10
-赵开发	Gzeu kai Gfai	10
-赵开发	Gzeu kai fa	10
-赵开发	zhao Gkoi Gfai	10
-赵开发	zhao Gkoi fa	10
-赵开发	zhao kai Gfai	10
-赵开发	zhao kai fa	10
 赵开心	Gzeu Gkoi Gxin	6
 赵开心	Gzeu kai Gxin	6
 赵开心	zhao Gkoi Gxin	6
 赵开心	zhao kai Gxin	6
 赵开心	zhao kai xin	6
-赵志敬	Gzeu Gzi Gjin	977
-赵志敬	Gzeu Gzi jing	977
-赵志敬	Gzeu zhi Gjin	977
-赵志敬	Gzeu zhi jing	977
-赵志敬	zhao Gzi Gjin	977
-赵志敬	zhao Gzi jing	977
-赵志敬	zhao zhi Gjin	977
-赵志敬	zhao zhi jing	977
-赵志文	Gzeu Gzi Gwen	13
-赵志文	Gzeu zhi Gwen	13
-赵志文	zhao Gzi Gwen	13
-赵志文	zhao zhi Gwen	13
-赵志文	zhao zhi wen	13
-赵志皋	Gzeu Gzi Ggau	43
-赵志皋	Gzeu Gzi gao	43
-赵志皋	Gzeu zhi Ggau	43
-赵志皋	Gzeu zhi gao	43
-赵志皋	zhao Gzi Ggau	43
-赵志皋	zhao Gzi gao	43
-赵志皋	zhao zhi Ggau	43
-赵志皋	zhao zhi gao	43
 赵忠惠	Gzeu Gjiung Gfi	6
 赵忠惠	Gzeu Gjiung hui	6
 赵忠惠	Gzeu zhong Gfi	6
@@ -592895,14 +589242,6 @@ use_preset_vocabulary: false
 赵忠惠	zhao Gjiung hui	6
 赵忠惠	zhao zhong Gfi	6
 赵忠惠	zhao zhong hui	6
-赵忠祥	Gzeu Gjiung Gxiong	28
-赵忠祥	Gzeu Gjiung xiang	28
-赵忠祥	Gzeu zhong Gxiong	28
-赵忠祥	Gzeu zhong xiang	28
-赵忠祥	zhao Gjiung Gxiong	28
-赵忠祥	zhao Gjiung xiang	28
-赵忠祥	zhao zhong Gxiong	28
-赵忠祥	zhao zhong xiang	28
 赵总兵	Gzeu Gzeng Gbin	11
 赵总兵	Gzeu Gzeng bing	11
 赵总兵	Gzeu zong Gbin	11
@@ -592911,14 +589250,6 @@ use_preset_vocabulary: false
 赵总兵	zhao Gzeng bing	11
 赵总兵	zhao zong Gbin	11
 赵总兵	zhao zong bing	11
-赵恒惕	Gzeu Gheng Gti	15
-赵恒惕	zhao Gheng Gti	15
-赵恒惕	zhao heng ti	15
-赵惠文	Gzeu Gfi Gwen	12
-赵惠文	Gzeu hui Gwen	12
-赵惠文	zhao Gfi Gwen	12
-赵惠文	zhao hui Gwen	12
-赵惠文	zhao hui wen	12
 赵慧玲	Gzeu Gfi Glin	6
 赵慧玲	Gzeu Gfi ling	6
 赵慧玲	Gzeu hui Glin	6
@@ -592927,43 +589258,6 @@ use_preset_vocabulary: false
 赵慧玲	zhao Gfi ling	6
 赵慧玲	zhao hui Glin	6
 赵慧玲	zhao hui ling	6
-赵敏之	Gzeu Gmin Gzi	10
-赵敏之	Gzeu Gmin zhi	10
-赵敏之	zhao Gmin Gzi	10
-赵敏之	zhao Gmin zhi	10
-赵敏之	zhao min zhi	10
-赵敏叹	Gzeu Gmin Gtan	12
-赵敏叹	zhao Gmin Gtan	12
-赵敏叹	zhao min tan	12
-赵敏微微	Gzeu Gmin Gzang Gzang	11
-赵敏微微	Gzeu Gmin Gzang wei	11
-赵敏微微	Gzeu Gmin wei Gzang	11
-赵敏微微	Gzeu Gmin wei wei	11
-赵敏微微	zhao Gmin Gzang Gzang	11
-赵敏微微	zhao Gmin Gzang wei	11
-赵敏微微	zhao Gmin wei Gzang	11
-赵敏微微	zhao Gmin wei wei	11
-赵敏微微	zhao min wei wei	11
-赵敏笑	Gzeu Gmin Gxieu	56
-赵敏笑	Gzeu Gmin xiao	56
-赵敏笑	zhao Gmin Gxieu	56
-赵敏笑	zhao Gmin xiao	56
-赵敏笑	zhao min xiao	56
-赵敏身	Gzeu Gmin Gsen	8
-赵敏身	Gzeu Gmin shen	8
-赵敏身	zhao Gmin Gsen	8
-赵敏身	zhao Gmin shen	8
-赵敏身	zhao min shen	8
-赵文军	Gzeu Gwen Gjyun	7
-赵文军	Gzeu Gwen jun	7
-赵文军	zhao Gwen Gjyun	7
-赵文军	zhao Gwen jun	7
-赵文军	zhao wen jun	7
-赵文华	Gzeu Gwen Gfa	75
-赵文华	Gzeu Gwen hua	75
-赵文华	zhao Gwen Gfa	75
-赵文华	zhao Gwen hua	75
-赵文华	zhao wen hua	75
 赵旭日	Gzeu Gxyu Gni	16
 赵旭日	Gzeu Gxyu ri	16
 赵旭日	Gzeu xu Gni	16
@@ -592972,30 +589266,6 @@ use_preset_vocabulary: false
 赵旭日	zhao Gxyu ri	16
 赵旭日	zhao xu Gni	16
 赵旭日	zhao xu ri	16
-赵明恩	Gzeu Gmiang Gngien	8
-赵明恩	Gzeu Gmiang en	8
-赵明恩	Gzeu ming Gngien	8
-赵明恩	Gzeu ming en	8
-赵明恩	zhao Gmiang Gngien	8
-赵明恩	zhao Gmiang en	8
-赵明恩	zhao ming Gngien	8
-赵明恩	zhao ming en	8
-赵明诚	Gzeu Gmiang Gcen	13
-赵明诚	Gzeu Gmiang cheng	13
-赵明诚	Gzeu ming Gcen	13
-赵明诚	Gzeu ming cheng	13
-赵明诚	zhao Gmiang Gcen	13
-赵明诚	zhao Gmiang cheng	13
-赵明诚	zhao ming Gcen	13
-赵明诚	zhao ming cheng	13
-赵晓亮	Gzeu Gxieu Gliong	12
-赵晓亮	Gzeu Gxieu liang	12
-赵晓亮	Gzeu xiao Gliong	12
-赵晓亮	Gzeu xiao liang	12
-赵晓亮	zhao Gxieu Gliong	12
-赵晓亮	zhao Gxieu liang	12
-赵晓亮	zhao xiao Gliong	12
-赵晓亮	zhao xiao liang	12
 赵普胜	Gzeu Gpu Gsen	19
 赵普胜	Gzeu Gpu sheng	19
 赵普胜	zhao Gpu Gsen	19
@@ -593011,25 +589281,6 @@ use_preset_vocabulary: false
 赵本山	zhao Gben Gsan	80
 赵本山	zhao Gben shan	80
 赵本山	zhao ben shan	80
-赵本昌	Gzeu Gben Gqiong	10
-赵本昌	Gzeu Gben chang	10
-赵本昌	zhao Gben Gqiong	10
-赵本昌	zhao Gben chang	10
-赵本昌	zhao ben chang	10
-赵朴初	Gzeu Gpu Gqyu	14
-赵朴初	Gzeu Gpu chu	14
-赵朴初	zhao Gpu Gqyu	14
-赵朴初	zhao Gpu chu	14
-赵朴初	zhao pu chu	14
-赵杰娘子	Gzeu Gjie Gniong Gzu	22
-赵杰娘子	Gzeu Gjie Gniong zi	22
-赵杰娘子	Gzeu Gjie niang Gzu	22
-赵杰娘子	Gzeu Gjie niang zi	22
-赵杰娘子	zhao Gjie Gniong Gzu	22
-赵杰娘子	zhao Gjie Gniong zi	22
-赵杰娘子	zhao Gjie niang Gzu	22
-赵杰娘子	zhao Gjie niang zi	22
-赵杰娘子	zhao jie niang zi	22
 赵松寿	Gzeu Gseng Gseu	64
 赵松寿	Gzeu Gseng shou	64
 赵松寿	Gzeu song Gseu	64
@@ -593042,11 +589293,6 @@ use_preset_vocabulary: false
 赵构	Gzeu gou	30
 赵构	zhao Ggieu	30
 赵构	zhao gou	30
-赵树理	Gzeu Gxyu Gli	17
-赵树理	Gzeu shu Gli	17
-赵树理	zhao Gxyu Gli	17
-赵树理	zhao shu Gli	17
-赵树理	zhao shu li	17
 赵武灵	Gzeu Gwu Glin	42
 赵武灵	Gzeu Gwu ling	42
 赵武灵	zhao Gwu Glin	42
@@ -593057,19 +589303,6 @@ use_preset_vocabulary: false
 赵歧黄	zhao Gqi Gwong	24
 赵歧黄	zhao Gqi huang	24
 赵歧黄	zhao qi huang	24
-赵永东	Gzeu Gyung Gdeng	29
-赵永东	Gzeu Gyung dong	29
-赵永东	Gzeu yong Gdeng	29
-赵永东	Gzeu yong dong	29
-赵永东	zhao Gyung Gdeng	29
-赵永东	zhao Gyung dong	29
-赵永东	zhao yong Gdeng	29
-赵永东	zhao yong dong	29
-赵永复	Gzeu Gyung Gfu	7
-赵永复	Gzeu yong Gfu	7
-赵永复	zhao Gyung Gfu	7
-赵永复	zhao yong Gfu	7
-赵永复	zhao yong fu	7
 赵永生	Gzeu Gyung Gsang	6
 赵永生	Gzeu Gyung sheng	6
 赵永生	Gzeu yong Gsang	6
@@ -593078,53 +589311,11 @@ use_preset_vocabulary: false
 赵永生	zhao Gyung sheng	6
 赵永生	zhao yong Gsang	6
 赵永生	zhao yong sheng	6
-赵汝愚	Gzeu Gxyu Gyu	16
-赵汝愚	Gzeu ru Gyu	16
-赵汝愚	zhao Gxyu Gyu	16
-赵汝愚	zhao ru Gyu	16
-赵汝愚	zhao ru yu	16
-赵汝适	Gzeu Gxyu Gsi	7
-赵汝适	Gzeu Gxyu shi	7
-赵汝适	Gzeu ru Gsi	7
-赵汝适	Gzeu ru shi	7
-赵汝适	zhao Gxyu Gsi	7
-赵汝适	zhao Gxyu shi	7
-赵汝适	zhao ru Gsi	7
-赵汝适	zhao ru shi	7
-赵治勋	Gzeu Gzi Gxyun	7
-赵治勋	Gzeu Gzi xun	7
-赵治勋	Gzeu zhi Gxyun	7
-赵治勋	Gzeu zhi xun	7
-赵治勋	zhao Gzi Gxyun	7
-赵治勋	zhao Gzi xun	7
-赵治勋	zhao zhi Gxyun	7
-赵治勋	zhao zhi xun	7
-赵海涛	Gzeu Ghoi Gtau	14
-赵海涛	Gzeu Ghoi tao	14
-赵海涛	Gzeu hai Gtau	14
-赵海涛	Gzeu hai tao	14
-赵海涛	zhao Ghoi Gtau	14
-赵海涛	zhao Ghoi tao	14
-赵海涛	zhao hai Gtau	14
-赵海涛	zhao hai tao	14
 赵烈侯	Gzeu Glie Gheu	7
 赵烈侯	Gzeu Glie hou	7
 赵烈侯	zhao Glie Gheu	7
 赵烈侯	zhao Glie hou	7
 赵烈侯	zhao lie hou	7
-赵率教	Gzeu Gsoi Ggau	51
-赵率教	Gzeu Gsoi jiao	51
-赵率教	Gzeu lv Ggau	51
-赵率教	Gzeu lv jiao	51
-赵率教	zhao Gsoi Ggau	51
-赵率教	zhao Gsoi jiao	51
-赵率教	zhao lv Ggau	51
-赵率教	zhao lv jiao	51
-赵玉屏	Gzeu Gyu Gpin	37
-赵玉屏	Gzeu Gyu ping	37
-赵玉屏	zhao Gyu Gpin	37
-赵玉屏	zhao Gyu ping	37
-赵玉屏	zhao yu ping	37
 赵王伦	Gzeu Gwong Glen	20
 赵王伦	Gzeu Gwong lun	20
 赵王伦	Gzeu wang Glen	20
@@ -593149,25 +589340,6 @@ use_preset_vocabulary: false
 赵王迁	zhao Gwong qian	11
 赵王迁	zhao wang Gqien	11
 赵王迁	zhao wang qian	11
-赵王遂	Gzeu Gwong Gsei	14
-赵王遂	Gzeu Gwong sui	14
-赵王遂	Gzeu wang Gsei	14
-赵王遂	Gzeu wang sui	14
-赵王遂	zhao Gwong Gsei	14
-赵王遂	zhao Gwong sui	14
-赵王遂	zhao wang Gsei	14
-赵王遂	zhao wang sui	14
-赵用贤	Gzeu Gyung Gxien	118
-赵用贤	Gzeu Gyung xian	118
-赵用贤	Gzeu yong Gxien	118
-赵用贤	Gzeu yong xian	118
-赵用贤	zhao Gyung Gxien	118
-赵用贤	zhao Gyung xian	118
-赵用贤	zhao yong Gxien	118
-赵用贤	zhao yong xian	118
-赵登禹	Gzeu Gdeng Gyu	16
-赵登禹	zhao Gdeng Gyu	16
-赵登禹	zhao deng yu	16
 赵相如	Gzeu Gxiong Glu	7
 赵相如	Gzeu Gxiong ru	7
 赵相如	Gzeu xiang Glu	7
@@ -593184,42 +589356,6 @@ use_preset_vocabulary: false
 赵真人	zhao Gzen ren	10
 赵真人	zhao zhen Gnin	10
 赵真人	zhao zhen ren	10
-赵秀娟	Gzeu Gxiu Gye	7
-赵秀娟	Gzeu Gxiu juan	7
-赵秀娟	zhao Gxiu Gye	7
-赵秀娟	zhao Gxiu juan	7
-赵秀娟	zhao xiu juan	7
-赵秀娥	Gzeu Gxiu Gngo	20
-赵秀娥	Gzeu Gxiu e	20
-赵秀娥	zhao Gxiu Gngo	20
-赵秀娥	zhao Gxiu e	20
-赵秀娥	zhao xiu e	20
-赵秉文	Gzeu Gbin Gwen	12
-赵秉文	Gzeu bing Gwen	12
-赵秉文	zhao Gbin Gwen	12
-赵秉文	zhao bing Gwen	12
-赵秉文	zhao bing wen	12
-赵秉钧	Gzeu Gbin Gjyun	147
-赵秉钧	Gzeu Gbin jun	147
-赵秉钧	Gzeu bing Gjyun	147
-赵秉钧	Gzeu bing jun	147
-赵秉钧	zhao Gbin Gjyun	147
-赵秉钧	zhao Gbin jun	147
-赵秉钧	zhao bing Gjyun	147
-赵秉钧	zhao bing jun	147
-赵科林	Gzeu Gko Glin	7
-赵科林	Gzeu ke Glin	7
-赵科林	zhao Gko Glin	7
-赵科林	zhao ke Glin	7
-赵科林	zhao ke lin	7
-赵简子	Gzeu Ggan Gzu	7
-赵简子	Gzeu Ggan zi	7
-赵简子	Gzeu jian Gzu	7
-赵简子	Gzeu jian zi	7
-赵简子	zhao Ggan Gzu	7
-赵简子	zhao Ggan zi	7
-赵简子	zhao jian Gzu	7
-赵简子	zhao jian zi	7
 赵紫阳	Gzeu Gzu Gyong	158
 赵紫阳	Gzeu Gzu yang	158
 赵紫阳	Gzeu zi Gyong	158
@@ -593228,68 +589364,6 @@ use_preset_vocabulary: false
 赵紫阳	zhao Gzu yang	158
 赵紫阳	zhao zi Gyong	158
 赵紫阳	zhao zi yang	158
-赵红梅	Gzeu Gfeng Gmi	41
-赵红梅	Gzeu Gfeng mei	41
-赵红梅	Gzeu hong Gmi	41
-赵红梅	Gzeu hong mei	41
-赵红梅	zhao Gfeng Gmi	41
-赵红梅	zhao Gfeng mei	41
-赵红梅	zhao hong Gmi	41
-赵红梅	zhao hong mei	41
-赵美萍	Gzeu Gmi Gpin	8
-赵美萍	Gzeu Gmi ping	8
-赵美萍	Gzeu mei Gpin	8
-赵美萍	Gzeu mei ping	8
-赵美萍	zhao Gmi Gpin	8
-赵美萍	zhao Gmi ping	8
-赵美萍	zhao mei Gpin	8
-赵美萍	zhao mei ping	8
-赵老三	Gzeu Glau Gsan	8
-赵老三	Gzeu lao Gsan	8
-赵老三	zhao Glau Gsan	8
-赵老三	zhao lao Gsan	8
-赵老三	zhao lao san	8
-赵老爵	Gzeu Glau Gjyue	15
-赵老爵	Gzeu Glau jue	15
-赵老爵	Gzeu lao Gjyue	15
-赵老爵	Gzeu lao jue	15
-赵老爵	zhao Glau Gjyue	15
-赵老爵	zhao Glau jue	15
-赵老爵	zhao lao Gjyue	15
-赵老爵	zhao lao jue	15
-赵舒翘	Gzeu Gsu Gqieu	12
-赵舒翘	Gzeu Gsu qiao	12
-赵舒翘	Gzeu Gxyu Gqieu	12
-赵舒翘	Gzeu Gxyu qiao	12
-赵舒翘	Gzeu shu Gqieu	12
-赵舒翘	Gzeu shu qiao	12
-赵舒翘	zhao Gsu Gqieu	12
-赵舒翘	zhao Gsu qiao	12
-赵舒翘	zhao Gxyu Gqieu	12
-赵舒翘	zhao Gxyu qiao	12
-赵舒翘	zhao shu Gqieu	12
-赵舒翘	zhao shu qiao	12
-赵良嗣	Gzeu Gliong Gsi	134
-赵良嗣	Gzeu liang Gsi	134
-赵良嗣	zhao Gliong Gsi	134
-赵良嗣	zhao liang Gsi	134
-赵良嗣	zhao liang si	134
-赵良栋	Gzeu Gliong Gdeng	63
-赵良栋	Gzeu Gliong dong	63
-赵良栋	Gzeu liang Gdeng	63
-赵良栋	Gzeu liang dong	63
-赵良栋	zhao Gliong Gdeng	63
-赵良栋	zhao Gliong dong	63
-赵良栋	zhao liang Gdeng	63
-赵良栋	zhao liang dong	63
-赵萍萍	Gzeu Gpin Gpin	13
-赵萍萍	Gzeu Gpin ping	13
-赵萍萍	Gzeu ping Gpin	13
-赵萍萍	Gzeu ping ping	13
-赵萍萍	zhao Gpin Gpin	13
-赵萍萍	zhao Gpin ping	13
-赵萍萍	zhao ping Gpin	13
-赵萍萍	zhao ping ping	13
 赵襄子	Gzeu Gxiong Gzu	24
 赵襄子	Gzeu Gxiong zi	24
 赵襄子	Gzeu xiang Gzu	24
@@ -593315,16 +589389,6 @@ use_preset_vocabulary: false
 赵贤成	zhao xian Gcen	29
 赵贤成	zhao xian Gxiang	29
 赵贤成	zhao xian cheng	29
-赵败秦	Gzeu Gpai Gqin	7
-赵败秦	Gzeu bai Gqin	7
-赵败秦	zhao Gpai Gqin	7
-赵败秦	zhao bai Gqin	7
-赵败秦	zhao bai qin	7
-赵辛楣	Gzeu Gxin Gmi	82
-赵辛楣	Gzeu Gxin mei	82
-赵辛楣	zhao Gxin Gmi	82
-赵辛楣	zhao Gxin mei	82
-赵辛楣	zhao xin mei	82
 赵述岛	Gzeu Gxyu Gdau	6
 赵述岛	Gzeu Gxyu dao	6
 赵述岛	Gzeu shu Gdau	6
@@ -593333,33 +589397,6 @@ use_preset_vocabulary: false
 赵述岛	zhao Gxyu dao	6
 赵述岛	zhao shu Gdau	6
 赵述岛	zhao shu dao	6
-赵邦杰	Gzeu Gbong Gjie	29
-赵邦杰	Gzeu bang Gjie	29
-赵邦杰	zhao Gbong Gjie	29
-赵邦杰	zhao bang Gjie	29
-赵邦杰	zhao bang jie	29
-赵金凤	Gzeu Gjin Gfeng	25
-赵金凤	zhao Gjin Gfeng	25
-赵金凤	zhao jin feng	25
-赵金风	Gzeu Gjin Gfeng	8
-赵金风	zhao Gjin Gfeng	8
-赵金风	zhao jin feng	8
-赵钟泉	Gzeu Gjiung Gqon	256
-赵钟泉	Gzeu Gjiung quan	256
-赵钟泉	Gzeu zhong Gqon	256
-赵钟泉	Gzeu zhong quan	256
-赵钟泉	zhao Gjiung Gqon	256
-赵钟泉	zhao Gjiung quan	256
-赵钟泉	zhao zhong Gqon	256
-赵钟泉	zhao zhong quan	256
-赵钱孙	Gzeu Gqien Gsen	167
-赵钱孙	Gzeu Gqien sun	167
-赵钱孙	Gzeu qian Gsen	167
-赵钱孙	Gzeu qian sun	167
-赵钱孙	zhao Gqien Gsen	167
-赵钱孙	zhao Gqien sun	167
-赵钱孙	zhao qian Gsen	167
-赵钱孙	zhao qian sun	167
 赵长平	Gzeu Gqiong Gpiang	6
 赵长平	Gzeu Gqiong ping	6
 赵长平	Gzeu zhang Gpiang	6
@@ -593368,40 +589405,6 @@ use_preset_vocabulary: false
 赵长平	zhao Gqiong ping	6
 赵长平	zhao zhang Gpiang	6
 赵长平	zhao zhang ping	6
-赵长征	Gzeu Gqiong Gzen	41
-赵长征	Gzeu Gqiong zheng	41
-赵长征	Gzeu chang Gzen	41
-赵长征	Gzeu chang zheng	41
-赵长征	zhao Gqiong Gzen	41
-赵长征	zhao Gqiong zheng	41
-赵长征	zhao chang Gzen	41
-赵长征	zhao chang zheng	41
-赵飞燕	Gzeu Gfi Gyen	22
-赵飞燕	Gzeu Gfi yan	22
-赵飞燕	Gzeu fei Gyen	22
-赵飞燕	Gzeu fei yan	22
-赵飞燕	zhao Gfi Gyen	22
-赵飞燕	zhao Gfi yan	22
-赵飞燕	zhao fei Gyen	22
-赵飞燕	zhao fei yan	22
-赵鹤寿	Gzeu Gho Gseu	18
-赵鹤寿	Gzeu Gho shou	18
-赵鹤寿	Gzeu he Gseu	18
-赵鹤寿	Gzeu he shou	18
-赵鹤寿	zhao Gho Gseu	18
-赵鹤寿	zhao Gho shou	18
-赵鹤寿	zhao he Gseu	18
-赵鹤寿	zhao he shou	18
-赵齐贤	Gzeu Gqi Gxien	83
-赵齐贤	Gzeu Gqi xian	83
-赵齐贤	zhao Gqi Gxien	83
-赵齐贤	zhao Gqi xian	83
-赵齐贤	zhao qi xian	83
-赵龙图	Gzeu Gliung Gtu	15
-赵龙图	Gzeu long Gtu	15
-赵龙图	zhao Gliung Gtu	15
-赵龙图	zhao long Gtu	15
-赵龙图	zhao long tu	15
 赶	Ggon	30000
 赶	gan	30000
 赶上	Ggon Gsong	958
@@ -612706,11 +608709,6 @@ use_preset_vocabulary: false
 邓朴方	deng Gpu Gfong	11
 邓朴方	deng Gpu fang	11
 邓朴方	deng pu fang	11
-邓李宝	Gden Gli Gbau	13
-邓李宝	Gden Gli bao	13
-邓李宝	deng Gli Gbau	13
-邓李宝	deng Gli bao	13
-邓李宝	deng li bao	13
 邓永清	Gden Gyung Gqiang	6
 邓永清	Gden Gyung Gqin	6
 邓永清	Gden Gyung qing	6
@@ -614753,14 +610751,6 @@ use_preset_vocabulary: false
 郑君里	zheng Gjyun Gli	9
 郑君里	zheng jun Gli	9
 郑君里	zheng jun li	9
-郑周永	Gzen Gzeu Gyung	7
-郑周永	Gzen Gzeu yong	7
-郑周永	Gzen zhou Gyung	7
-郑周永	Gzen zhou yong	7
-郑周永	zheng Gzeu Gyung	7
-郑周永	zheng Gzeu yong	7
-郑周永	zheng zhou Gyung	7
-郑周永	zheng zhou yong	7
 郑和	Gzen Gho	479
 郑和	Gzen he	479
 郑和	zheng Gho	479
@@ -615051,11 +611041,6 @@ use_preset_vocabulary: false
 郑望之	zheng Gwong zhi	11
 郑望之	zheng wang Gzi	11
 郑望之	zheng wang zhi	11
-郑李辉	Gzen Gli Gfi	256
-郑李辉	Gzen Gli hui	256
-郑李辉	zheng Gli Gfi	256
-郑李辉	zheng Gli hui	256
-郑李辉	zheng li hui	256
 郑板桥	Gzen Gban Gqieu	34
 郑板桥	Gzen Gban qiao	34
 郑板桥	zheng Gban Gqieu	34
@@ -624299,9 +620284,6 @@ use_preset_vocabulary: false
 铁老大	Gtie lao Gtai	11
 铁老大	Gtie lao da	11
 铁老大	tie lao da	11
-铁胆周	Gtie Gdan Gzeu	7
-铁胆周	Gtie Gdan zhou	7
-铁胆周	tie dan zhou	7
 铁胆庄	Gtie Gdan Gzong	89
 铁胆庄	Gtie Gdan zhuang	89
 铁胆庄	tie dan zhuang	89
@@ -631474,11 +627456,6 @@ use_preset_vocabulary: false
 阎晓明	yan Gxieu ming	7
 阎晓明	yan xiao Gmiang	7
 阎晓明	yan xiao ming	7
-阎李寨	Gyen Gli Gzai	49
-阎李寨	Gyen Gli zhai	49
-阎李寨	yan Gli Gzai	49
-阎李寨	yan Gli zhai	49
-阎李寨	yan li zhai	49
 阎王	Gyen Gwong	219
 阎王	Gyen wang	219
 阎王	yan Gwong	219
@@ -650975,11 +646952,6 @@ use_preset_vocabulary: false
 韩语	Ghon yu	103
 韩语	han Gnyu	103
 韩语	han yu	103
-韩赞周	Ghon Gzan Gzeu	31
-韩赞周	Ghon Gzan zhou	31
-韩赞周	han Gzan Gzeu	31
-韩赞周	han Gzan zhou	31
-韩赞周	han zan zhou	31
 韩里奇	Ghon Gli Gqi	27
 韩里奇	han Gli Gqi	27
 韩里奇	han li qi	27
@@ -674393,11 +670365,6 @@ use_preset_vocabulary: false
 鼠年	Gxyu nian	10
 鼠年	shu Gnien	10
 鼠年	shu nian	10
-鼠李糖	Gxyu Gli Gtong	9
-鼠李糖	Gxyu Gli tang	9
-鼠李糖	shu Gli Gtong	9
-鼠李糖	shu Gli tang	9
-鼠李糖	shu li tang	9
 鼠标	Gxyu Gbieu	230
 鼠标	Gxyu biao	230
 鼠标	shu Gbieu	230
@@ -675565,11 +671532,6 @@ use_preset_vocabulary: false
 龙朔	Gliung shuo	9
 龙朔	long Gseu	9
 龙朔	long shuo	9
-龙李俊	Gliung Gli Gjyun	9
-龙李俊	Gliung Gli jun	9
-龙李俊	long Gli Gjyun	9
-龙李俊	long Gli jun	9
-龙李俊	long li jun	9
 龙树	Gliung Gxyu	31
 龙树	Gliung shu	31
 龙树	long Gxyu	31
