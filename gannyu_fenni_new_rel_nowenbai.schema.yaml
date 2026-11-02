@@ -1,7 +1,7 @@
 schema:
   schema_id: gannyu_fenni_new_rel_nowenbai
   name: fenni
-  version: "1.2.4"
+  version: "1.2.7"
 translator:
   dictionary: gannyu_fenni_new_rel
   prism: gannyu_fenni_new_rel_nowenbai
