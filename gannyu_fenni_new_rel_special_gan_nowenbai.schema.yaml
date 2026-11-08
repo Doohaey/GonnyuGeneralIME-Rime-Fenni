@@ -1,7 +1,7 @@
 schema:
   schema_id: gannyu_fenni_new_rel_special_gan_nowenbai
   name: fenni
-  version: "1.2.7"
+  version: "1.3.0"
 translator:
   dictionary: gannyu_fenni_new_rel
   prism: gannyu_fenni_new_rel_special_gan_nowenbai
@@ -15,113 +15,221 @@ speller:
   delimiter: " '"
   algebra:
     - erase/^W.*$/
+    - derive/^Gbe$/Fber/
     - derive/^Gbe$/Fbir/
+    - derive/^Gbei$/Fberi/
     - derive/^Gbei$/Fbiri/
+    - derive/^Gben$/Fbern/
     - derive/^Gben$/Fbirn/
+    - derive/^Gbeng$/Fberng/
     - derive/^Gbeng$/Fbirng/
+    - derive/^Gbie$/Fbier/
     - derive/^Gbie$/Fbiir/
+    - derive/^Gbien$/Fbiern/
     - derive/^Gbien$/Fbiirn/
+    - derive/^Gbieu$/Fbieru/
     - derive/^Gbieu$/Fbiiru/
+    - derive/^Gce$/Fcer/
     - derive/^Gce$/Fcir/
+    - derive/^Gcei$/Fceri/
     - derive/^Gcei$/Fciri/
+    - derive/^Gcen$/Fcern/
     - derive/^Gcen$/Fcirn/
+    - derive/^Gceng$/Fcerng/
     - derive/^Gceng$/Fcirng/
+    - derive/^Gceu$/Fceru/
     - derive/^Gceu$/Fciru/
+    - derive/^Gde$/Fder/
     - derive/^Gde$/Fdir/
+    - derive/^Gdei$/Fderi/
     - derive/^Gdei$/Fdiri/
+    - derive/^Gden$/Fdern/
     - derive/^Gden$/Fdirn/
+    - derive/^Gdeng$/Fderng/
     - derive/^Gdeng$/Fdirng/
+    - derive/^Gdeu$/Fderu/
     - derive/^Gdeu$/Fdiru/
+    - derive/^Gdie$/Fdier/
     - derive/^Gdie$/Fdiir/
+    - derive/^Gdien$/Fdiern/
     - derive/^Gdien$/Fdiirn/
+    - derive/^Gdieu$/Fdieru/
     - derive/^Gdieu$/Fdiiru/
+    - derive/^Ge$/Fer/
     - derive/^Ge$/Fir/
+    - derive/^Gfei$/Fferi/
     - derive/^Gfei$/Ffiri/
+    - derive/^Gfen$/Ffern/
     - derive/^Gfen$/Ffirn/
+    - derive/^Gfeng$/Fferng/
     - derive/^Gfeng$/Ffirng/
+    - derive/^Gfeu$/Fferu/
     - derive/^Gfeu$/Ffiru/
+    - derive/^Ggie$/Fgier/
     - derive/^Ggie$/Fgiir/
+    - derive/^Ggien$/Fgiern/
     - derive/^Ggien$/Fgiirn/
+    - derive/^Ggieu$/Fgieru/
     - derive/^Ggieu$/Fgiiru/
+    - derive/^Ggue$/Fguer/
     - derive/^Ggue$/Fguir/
+    - derive/^Ghe$/Fher/
     - derive/^Ghe$/Fhir/
+    - derive/^Ghei$/Fheri/
     - derive/^Ghei$/Fhiri/
+    - derive/^Ghen$/Fhern/
     - derive/^Ghen$/Fhirn/
+    - derive/^Gheng$/Fherng/
     - derive/^Gheng$/Fhirng/
+    - derive/^Gheu$/Fheru/
     - derive/^Gheu$/Fhiru/
+    - derive/^Gjie$/Fjier/
     - derive/^Gjie$/Fjiir/
+    - derive/^Gjien$/Fjiern/
     - derive/^Gjien$/Fjiirn/
+    - derive/^Gjieu$/Fjieru/
     - derive/^Gjieu$/Fjiiru/
+    - derive/^Gjyue$/Fjyuer/
     - derive/^Gjyue$/Fjyuir/
+    - derive/^Gjyuei$/Fjyueri/
     - derive/^Gjyuei$/Fjyuiri/
+    - derive/^Gkie$/Fkier/
     - derive/^Gkie$/Fkiir/
+    - derive/^Gkien$/Fkiern/
     - derive/^Gkien$/Fkiirn/
+    - derive/^Gkieu$/Fkieru/
     - derive/^Gkieu$/Fkiiru/
+    - derive/^Gkue$/Fkuer/
     - derive/^Gkue$/Fkuir/
+    - derive/^Gle$/Fler/
     - derive/^Gle$/Flir/
+    - derive/^Glei$/Fleri/
     - derive/^Glei$/Fliri/
+    - derive/^Glen$/Flern/
     - derive/^Glen$/Flirn/
+    - derive/^Gleng$/Flerng/
     - derive/^Gleng$/Flirng/
+    - derive/^Gleu$/Fleru/
     - derive/^Gleu$/Fliru/
+    - derive/^Glie$/Flier/
     - derive/^Glie$/Fliir/
+    - derive/^Glien$/Fliern/
     - derive/^Glien$/Fliirn/
+    - derive/^Glieu$/Flieru/
     - derive/^Glieu$/Fliiru/
+    - derive/^Glyue$/Flyuer/
     - derive/^Glyue$/Flyuir/
+    - derive/^Gme$/Fmer/
     - derive/^Gme$/Fmir/
+    - derive/^Gmen$/Fmern/
     - derive/^Gmen$/Fmirn/
+    - derive/^Gmeng$/Fmerng/
     - derive/^Gmeng$/Fmirng/
+    - derive/^Gmeu$/Fmeru/
     - derive/^Gmeu$/Fmiru/
+    - derive/^Gmie$/Fmier/
     - derive/^Gmie$/Fmiir/
+    - derive/^Gmien$/Fmiern/
     - derive/^Gmien$/Fmiirn/
+    - derive/^Gmieu$/Fmieru/
     - derive/^Gmieu$/Fmiiru/
+    - derive/^Gngeu$/Fngeru/
     - derive/^Gngeu$/Fngiru/
+    - derive/^Gngien$/Fngiern/
     - derive/^Gngien$/Fngiirn/
+    - derive/^Gngieu$/Fngieru/
     - derive/^Gngieu$/Fngiiru/
+    - derive/^Gnie$/Fnier/
     - derive/^Gnie$/Fniir/
+    - derive/^Gnien$/Fniern/
     - derive/^Gnien$/Fniirn/
+    - derive/^Gnieu$/Fnieru/
     - derive/^Gnieu$/Fniiru/
+    - derive/^Gnyue$/Fnyuer/
     - derive/^Gnyue$/Fnyuir/
+    - derive/^Gpei$/Fperi/
     - derive/^Gpei$/Fpiri/
+    - derive/^Gpen$/Fpern/
     - derive/^Gpen$/Fpirn/
+    - derive/^Gpeng$/Fperng/
     - derive/^Gpeng$/Fpirng/
+    - derive/^Gpeu$/Fperu/
     - derive/^Gpeu$/Fpiru/
+    - derive/^Gpie$/Fpier/
     - derive/^Gpie$/Fpiir/
+    - derive/^Gpien$/Fpiern/
     - derive/^Gpien$/Fpiirn/
+    - derive/^Gpieu$/Fpieru/
     - derive/^Gpieu$/Fpiiru/
+    - derive/^Gqie$/Fqier/
     - derive/^Gqie$/Fqiir/
+    - derive/^Gqien$/Fqiern/
     - derive/^Gqien$/Fqiirn/
+    - derive/^Gqieu$/Fqieru/
     - derive/^Gqieu$/Fqiiru/
+    - derive/^Gqyue$/Fqyuer/
     - derive/^Gqyue$/Fqyuir/
+    - derive/^Gse$/Fser/
     - derive/^Gse$/Fsir/
+    - derive/^Gsei$/Fseri/
     - derive/^Gsei$/Fsiri/
+    - derive/^Gsen$/Fsern/
     - derive/^Gsen$/Fsirn/
+    - derive/^Gseng$/Fserng/
     - derive/^Gseng$/Fsirng/
+    - derive/^Gset$/Fsert/
     - derive/^Gset$/Fsirt/
+    - derive/^Gseu$/Fseru/
     - derive/^Gseu$/Fsiru/
+    - derive/^Gsie$/Fsier/
     - derive/^Gsie$/Fsiir/
+    - derive/^Gte$/Fter/
     - derive/^Gte$/Ftir/
+    - derive/^Gtei$/Fteri/
     - derive/^Gtei$/Ftiri/
+    - derive/^Gten$/Ftern/
     - derive/^Gten$/Ftirn/
+    - derive/^Gteng$/Fterng/
     - derive/^Gteng$/Ftirng/
+    - derive/^Gteu$/Fteru/
     - derive/^Gteu$/Ftiru/
+    - derive/^Gtie$/Ftier/
     - derive/^Gtie$/Ftiir/
+    - derive/^Gtien$/Ftiern/
     - derive/^Gtien$/Ftiirn/
+    - derive/^Gtieu$/Ftieru/
     - derive/^Gtieu$/Ftiiru/
+    - derive/^Gwei$/Fweri/
     - derive/^Gwei$/Fwiri/
+    - derive/^Gwen$/Fwern/
     - derive/^Gwen$/Fwirn/
+    - derive/^Gweng$/Fwerng/
     - derive/^Gweng$/Fwirng/
+    - derive/^Gxie$/Fxier/
     - derive/^Gxie$/Fxiir/
+    - derive/^Gxien$/Fxiern/
     - derive/^Gxien$/Fxiirn/
+    - derive/^Gxieu$/Fxieru/
     - derive/^Gxieu$/Fxiiru/
+    - derive/^Gxyue$/Fxyuer/
     - derive/^Gxyue$/Fxyuir/
+    - derive/^Gye$/Fyer/
     - derive/^Gye$/Fyir/
+    - derive/^Gyen$/Fyern/
     - derive/^Gyen$/Fyirn/
+    - derive/^Gyeu$/Fyeru/
     - derive/^Gyeu$/Fyiru/
+    - derive/^Gyue$/Fyuer/
     - derive/^Gyue$/Fyuir/
+    - derive/^Gze$/Fzer/
     - derive/^Gze$/Fzir/
+    - derive/^Gzei$/Fzeri/
     - derive/^Gzei$/Fziri/
+    - derive/^Gzen$/Fzern/
     - derive/^Gzen$/Fzirn/
+    - derive/^Gzeng$/Fzerng/
     - derive/^Gzeng$/Fzirng/
+    - derive/^Gzeu$/Fzeru/
     - derive/^Gzeu$/Fziru/
     - erase/^[^GF].*$/
     - xform/^G//

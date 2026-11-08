@@ -12,278 +12,263 @@
     },
     {
       "path": "gannyu_fenni.dict.yaml",
-      "sha256": "36b28f61d0c3de1ed0cdedc69e060981e5f290be0ba118e5a99dde8b3d4b41c9",
+      "sha256": "dd9dc002aacba436cbad1333c6bbd6c7c8ed664c7c6ba5cab6f3c1218687d15c",
       "size": 18954366
     },
     {
       "path": "gannyu_fenni.schema.yaml",
-      "sha256": "06a38606603d5a78bbb128c498aef50731947ef36597b33176329c86e4224a1b",
-      "size": 15429
-    },
-    {
-      "path": "gannyu_fenni_both_norel.dict.yaml",
-      "sha256": "b54e1629c7cb59d6e49624f4764cb8ab44fd8f0cd6e9963f4810f1865ffac36a",
-      "size": 18954377
+      "sha256": "ac5ed3498ca5884d336427ee2241501c7b7ca91a1457358bba8ff28e508232eb",
+      "size": 16565
     },
     {
       "path": "gannyu_fenni_both_norel.schema.yaml",
-      "sha256": "64693e8e205967251ee37d3ad1070e580d4cb3cc6c78122be461c9865c0e0502",
-      "size": 12035
+      "sha256": "bc137742d556974942723957c481e658a5d42651a8280619cea541b9799d50aa",
+      "size": 13126
     },
     {
       "path": "gannyu_fenni_both_norel_full_gan.schema.yaml",
-      "sha256": "759a4ca86b00f96b2f7138835a1be0d221a84edcf85877c98bc15cae1eec599c",
-      "size": 12076
+      "sha256": "dce49ea8f814f343aa145d056f7b5f58fa61feeaa8b1b1a4e6278310e8c20031",
+      "size": 13167
     },
     {
       "path": "gannyu_fenni_both_norel_full_gan_nowenbai.schema.yaml",
-      "sha256": "d4d1b16cf4099623d53d87268d85faec5d0e2d9b9c0f53e8004752d1b185de45",
-      "size": 12095
+      "sha256": "af39b6d35cacd1f6cc2d870d6b2101008bcea6e3ffe1a3309d436bdbfa30be2b",
+      "size": 13186
     },
     {
       "path": "gannyu_fenni_both_norel_nowenbai.schema.yaml",
-      "sha256": "c61a3d2881bf1126577293a556880ff0015d615d862008b48f6ec9bdfac0b317",
-      "size": 12054
+      "sha256": "669daf86f13aba03da270767b52a1aaa5741b43231bac2411cc2f05859a7678b",
+      "size": 13145
     },
     {
       "path": "gannyu_fenni_both_norel_special_gan.schema.yaml",
-      "sha256": "c98fd97956203ddc927f6da8592829ddcc47c51b8fa7202186d2a81dfd1711e7",
-      "size": 3486
+      "sha256": "7c3b0c0b88f6174365ce9a99cc9b3b4e1fe7a8bb9b25782cb1d6b16cb7558357",
+      "size": 6452
     },
     {
       "path": "gannyu_fenni_both_norel_special_gan_nowenbai.schema.yaml",
-      "sha256": "f533674350832898f18e3a056ad649ecabf49babcf2b1fdd61efc1aeca8f6c07",
-      "size": 3505
+      "sha256": "2a42616abd708e9e85ac4b9e15d7f3e1eb39521354a45845c918b962cb93b7e2",
+      "size": 6471
     },
     {
       "path": "gannyu_fenni_both_norel_special_mix.schema.yaml",
-      "sha256": "6eb5f9dc3820d969a8dc72a609bde4682ba4d19927d0f157297a09920786ca7c",
-      "size": 3463
+      "sha256": "0c740ffe1aad77a7c071c5480b8102369d3691ff84df8b3b6d35398ddc8639b2",
+      "size": 6429
     },
     {
       "path": "gannyu_fenni_both_norel_special_mix_nowenbai.schema.yaml",
-      "sha256": "4b848afc492aa80cfa9d07fb5fd017c2eedb9225c21b95a32e241ed46071ac3d",
-      "size": 3482
+      "sha256": "e63566c3135340a5b29d96d0ccaf8cd9cd2fb7e92931ec11c936252c147e425e",
+      "size": 6448
     },
     {
       "path": "gannyu_fenni_full_gan.schema.yaml",
-      "sha256": "ea42cd2ddbfd12928ac06fcb0474d2df22c542802ddddf6478dc39f1034455ff",
-      "size": 12032
+      "sha256": "ccb9ac44e329fdf76c192c03dec8069fcd8f96c0e53d0ab76670f4b1eef3c748",
+      "size": 13145
     },
     {
       "path": "gannyu_fenni_full_gan_nowenbai.schema.yaml",
-      "sha256": "26e724043955ac461e36efdd3ff6589c417230771cec07f6020f5809f8abed4f",
-      "size": 12051
-    },
-    {
-      "path": "gannyu_fenni_new_norel.dict.yaml",
-      "sha256": "1be095e0e8778880753ff1b8859d675e7f45b158ce3dab1fa57aa5fbfa2004bc",
-      "size": 18954376
+      "sha256": "21bded0b2caee4271189da65ae06debfb4da009e4625e816a7cad9ec80573ec2",
+      "size": 13164
     },
     {
       "path": "gannyu_fenni_new_norel.schema.yaml",
-      "sha256": "69dc01369ad14f9846e5cb29d9dce292fa360c8b4304d1e52237eaabb397edce",
-      "size": 12031
+      "sha256": "6ee8771049ff22b00b582c04a1f71941513a81af032231f7eb0c4e5e4c1379b7",
+      "size": 13140
     },
     {
       "path": "gannyu_fenni_new_norel_full_gan.schema.yaml",
-      "sha256": "7bea0640a2ea303a6753cec70e9ecc7c9c2139c6f1ea7ed947f669a8a9cf7688",
-      "size": 12072
+      "sha256": "6d5b7d12c6ebeace2964005f2601505f93ed21e0b82863255e46e1bc944faa5b",
+      "size": 13181
     },
     {
       "path": "gannyu_fenni_new_norel_full_gan_nowenbai.schema.yaml",
-      "sha256": "7507cce7244c31bca115654947ccf11fa373d5aa9910714d1dca46baa92f6f6a",
-      "size": 12091
+      "sha256": "e767289276cf79deb3a26a5d6ff5c31535890f188d4541078df1c8033647b83a",
+      "size": 13200
     },
     {
       "path": "gannyu_fenni_new_norel_nowenbai.schema.yaml",
-      "sha256": "1d7cf7d314ad1a7db4f52cdff281d6ec5b9afa245646dbee448572bd44f51397",
-      "size": 12050
+      "sha256": "374cde537dab9dd5d272fcc0c8944226f0735c5b1c9981be1ede69b64eecc258",
+      "size": 13159
     },
     {
       "path": "gannyu_fenni_new_norel_special_gan.schema.yaml",
-      "sha256": "69c439831fd884d60bedbfbff806212b7d4c14a7fa17dad240e14e4ba56d686b",
-      "size": 3482
+      "sha256": "34bc9c2bd7fcfcd39b77c423888556c1486adf49cf8de7281e9c46b7d1bab049",
+      "size": 6466
     },
     {
       "path": "gannyu_fenni_new_norel_special_gan_nowenbai.schema.yaml",
-      "sha256": "15efda37dae28298d047853a6295354cee817d29bc3fde5fd43f6c254f337510",
-      "size": 3501
+      "sha256": "09fe11b9b4301783c5984b82e6a4cadaa0d76db684dbf4b8c053865e782b228f",
+      "size": 6485
     },
     {
       "path": "gannyu_fenni_new_norel_special_mix.schema.yaml",
-      "sha256": "9eca3273025e58be3462c0e76adb062f73ac5fcb1b96306466e371013de8133a",
-      "size": 3459
+      "sha256": "6a1922ea10d5e148528681df0af6a92e5357248e5eab3ee4780b6481732a3bf3",
+      "size": 6443
     },
     {
       "path": "gannyu_fenni_new_norel_special_mix_nowenbai.schema.yaml",
-      "sha256": "705f8a2933e0a0f6100f382f796913603e012e2a460f635593d046f14b87b602",
-      "size": 3478
+      "sha256": "85d842ab8537b8603ee33d00e21e386e8ae33ca4e83f95cc91dc85f421eb1f84",
+      "size": 6462
     },
     {
       "path": "gannyu_fenni_new_rel.dict.yaml",
-      "sha256": "2da159364976fc7a472331afc502a13e600879350671e947398a3af8cd26536e",
+      "sha256": "f1175a4ad4e058a7c79f831bd7873ee02f1bf09ff916aa0c09547590687f41e0",
       "size": 18954374
     },
     {
       "path": "gannyu_fenni_new_rel.schema.yaml",
-      "sha256": "6e75e63e077741eb45e28c90a26e514d16966fc7907d2299967757283a47a791",
-      "size": 12023
+      "sha256": "850e5284477deefe9f2146002cdd29b336f4150ce40bb82f774fc2ab6f3d3093",
+      "size": 13136
     },
     {
       "path": "gannyu_fenni_new_rel_full_gan.schema.yaml",
-      "sha256": "ae6a4f3fc4fcd4483aa77e93787e6afe9781ed428e2b168778df8f0dc8a2de41",
-      "size": 12064
+      "sha256": "83451db8bd4b442fbe785160e6ed77471b117fb0d210e9c6bca47030424778c3",
+      "size": 13177
     },
     {
       "path": "gannyu_fenni_new_rel_full_gan_nowenbai.schema.yaml",
-      "sha256": "3e4b6d1443235dc9972bb3dd8c5daf5380d2b7dacb2e2057278e07c3e7d066de",
-      "size": 12083
+      "sha256": "1d4339854b4c25dcb1ff4631fa90eb6a1a88c2ded47283446f539462238cd1b7",
+      "size": 13196
     },
     {
       "path": "gannyu_fenni_new_rel_nowenbai.schema.yaml",
-      "sha256": "421ded17cb172ce3b0c207815a8549b54a5c819d953a5d33dc8f9c0a49a3f02e",
-      "size": 12042
+      "sha256": "5b91b5fca9bee42edc868bea29500ccb2e6de5591614ee10e03d929b61926862",
+      "size": 13155
     },
     {
       "path": "gannyu_fenni_new_rel_special_gan.schema.yaml",
-      "sha256": "533b3fc732fc5f1a88e73b053b4067a7047a16f901477bea25b67d52e2e5e6d0",
-      "size": 3474
+      "sha256": "6d42aa2132ef1b83c0ee1edfa14322ec6438d6c2f3adbcc45343c5c994aad6db",
+      "size": 6462
     },
     {
       "path": "gannyu_fenni_new_rel_special_gan_nowenbai.schema.yaml",
-      "sha256": "b19d3d16d2cb62f667a36a1387df9fe342f62a247604347d607f900399205c6c",
-      "size": 3493
+      "sha256": "027ae25c86f065d6402fdf7cf7c5a67d334c07369c61d96132537bc3b7f5258c",
+      "size": 6481
     },
     {
       "path": "gannyu_fenni_new_rel_special_mix.schema.yaml",
-      "sha256": "c4434ec734795cc2d1763dda00481f633b65b1230bfd926df1a56a9af141ccd5",
-      "size": 3451
+      "sha256": "8c3f8ee89b607e2f2e5cb105edfcf8a124a117a3d8dc1efc154f8efe890471f8",
+      "size": 6439
     },
     {
       "path": "gannyu_fenni_new_rel_special_mix_nowenbai.schema.yaml",
-      "sha256": "d5bfff32c001b47c84dfe0972f5f752aacf3e05e2072b7ee4f293b5fddc21717",
-      "size": 3470
+      "sha256": "7d8c438b28aa17e5d731e3b431cdab58a0cf30368bc671aff698d04c26a23191",
+      "size": 6458
     },
     {
       "path": "gannyu_fenni_nowenbai.schema.yaml",
-      "sha256": "bccb834af71e97eb07c57f9e3b3af3f780a4c6808305a7d8b6f8f296e875b87b",
-      "size": 12010
-    },
-    {
-      "path": "gannyu_fenni_old_norel.dict.yaml",
-      "sha256": "c2dc10c521aa6de7a98e08e94bdca77fee4c7b04e071461c705e8e3388436653",
-      "size": 18954376
+      "sha256": "00802eec134ef1e20c7a82742a0218073d6fe017e0bf65feb3a58577d7c28411",
+      "size": 13123
     },
     {
       "path": "gannyu_fenni_old_norel.schema.yaml",
-      "sha256": "15545805a839230b574d98426ea2daa68a306cac0fc589c060a9c409b094d1aa",
-      "size": 12031
+      "sha256": "c331bf9c0b21cb43b6fa97b8ca44d2f86a582a5cf1d7e7b8760893666d2761f0",
+      "size": 13140
     },
     {
       "path": "gannyu_fenni_old_norel_full_gan.schema.yaml",
-      "sha256": "5550614057e584a4ad970bf7e5533873418c8192ab1b41d839310850306e6b4e",
-      "size": 12072
+      "sha256": "416f708b22bafec3f5cc4d219b893a80813a63e321f69e8b68e580bb8cb7942a",
+      "size": 13181
     },
     {
       "path": "gannyu_fenni_old_norel_full_gan_nowenbai.schema.yaml",
-      "sha256": "3346df65ea41efa37b2007b1078fa8c9899dd2507acb51fd833bf462b69fab10",
-      "size": 12091
+      "sha256": "c455a0e59c69d43f116b0970b2de3b6368037e2df369d7b95a8b1507bd5a32f0",
+      "size": 13200
     },
     {
       "path": "gannyu_fenni_old_norel_nowenbai.schema.yaml",
-      "sha256": "2c1f54c17845f92550f2fb3a4b5225d99f2ee0101c5964c0986d2a0a9a92a9f3",
-      "size": 12050
+      "sha256": "5695220decdc15b3e257a79f77b1702822401556de525d5dc17f8ba89e127c38",
+      "size": 13159
     },
     {
       "path": "gannyu_fenni_old_norel_special_gan.schema.yaml",
-      "sha256": "59390c3ef3dd313ad015ed2643f05d03b5f21f1d8bcca120c412cf7a4f62acb3",
-      "size": 3482
+      "sha256": "bc56f049e701b8912d067342f3cf3c2d09d3315daf2bed1cae79cb5e338c0d76",
+      "size": 6466
     },
     {
       "path": "gannyu_fenni_old_norel_special_gan_nowenbai.schema.yaml",
-      "sha256": "c4c4ab4a86a9ac1719cd8cc9db60ca76e450da650a0c19d705c3ddb491461e24",
-      "size": 3501
+      "sha256": "d855290c10d67bc32d38723472fbdcc77c99469ca13b017807f740cc966a2c69",
+      "size": 6485
     },
     {
       "path": "gannyu_fenni_old_norel_special_mix.schema.yaml",
-      "sha256": "67da3b3c71e40a509c53d5f37ecf62d4747827f8b78dad430dd39ebce8962d79",
-      "size": 3459
+      "sha256": "a00b093a5b0709b91456657ee2cae5c94e3681216a246a382851c14cd17a093b",
+      "size": 6443
     },
     {
       "path": "gannyu_fenni_old_norel_special_mix_nowenbai.schema.yaml",
-      "sha256": "880c999b0caba3fc97141a8b7eadfa2dd910ec0439a526f734f705955763a2ab",
-      "size": 3478
+      "sha256": "8c37cb8e147e47e2bb79592d9010579443be15fbd052ab19edf8de350ec9cfdd",
+      "size": 6462
     },
     {
       "path": "gannyu_fenni_old_rel.dict.yaml",
-      "sha256": "3970ce500f19cc99933e81547d0b02d4265af682a167928a4dc26d01743893f3",
+      "sha256": "954f0d4b28fb356efe5f4b4575d078c5355b246a351d6ab6195ab480407e5d65",
       "size": 18954374
     },
     {
       "path": "gannyu_fenni_old_rel.schema.yaml",
-      "sha256": "50db219194140719b306e2fb992cd12111948b2e55fbd966a4ef2cbe7ae88f09",
-      "size": 12023
+      "sha256": "08c4be1049493b8fcbdbec6eba5333ccee7b959d28e0c984cfed7beca266d175",
+      "size": 13136
     },
     {
       "path": "gannyu_fenni_old_rel_full_gan.schema.yaml",
-      "sha256": "4092831f4f95211f2e286a26c9e763080cae80047afcd2871948c8ba7054ffa1",
-      "size": 12064
+      "sha256": "8fda2d8ef28057786dac42dcd675abe73d00015e42972909114659bcf7c46b26",
+      "size": 13177
     },
     {
       "path": "gannyu_fenni_old_rel_full_gan_nowenbai.schema.yaml",
-      "sha256": "5785628c6400a0df5ab8a3336c79b7770dd8a97ba98c7e4e9f4dca6527ae0508",
-      "size": 12083
+      "sha256": "2aee7b1c134b94a1099e812937b5adaca26c2d9321bedd10f5f3ea366509640b",
+      "size": 13196
     },
     {
       "path": "gannyu_fenni_old_rel_nowenbai.schema.yaml",
-      "sha256": "f5c8fc1e2937a1291d313b3cdcc0d7efe66e8b516075b6cc2cf5a1e69174c5bc",
-      "size": 12042
+      "sha256": "d2afde3d3c350cf9ce2d4a3df0fc6641d9b70315fd5adbab0dd68f28332bf798",
+      "size": 13155
     },
     {
       "path": "gannyu_fenni_old_rel_special_gan.schema.yaml",
-      "sha256": "27e23d560d7a2b67d2c225d41fd9f9e1158562bb1e235e41cca90b1a828c8fec",
-      "size": 3474
+      "sha256": "35f0f27940f5c1bd42f70c8039e1f5c75614422c60bd3907d4e6014fc3173b71",
+      "size": 6462
     },
     {
       "path": "gannyu_fenni_old_rel_special_gan_nowenbai.schema.yaml",
-      "sha256": "8ed5e40f259e3a75ce649bbf7011649bd6313bd7a36a7ca0b3908f41c46c65d5",
-      "size": 3493
+      "sha256": "a0c9828cc3e9d471e99235fcaaeb81fa6c709f808db3b498013174f0baf8c99a",
+      "size": 6481
     },
     {
       "path": "gannyu_fenni_old_rel_special_mix.schema.yaml",
-      "sha256": "311d31b9e193c3a8afd08b32af788ea2c4b9c16f566c6ae869ea8c73ea24a15d",
-      "size": 3451
+      "sha256": "bea877aee26f710555ee62aab59136a55546f3d56de8aababc617f32c88e583e",
+      "size": 6439
     },
     {
       "path": "gannyu_fenni_old_rel_special_mix_nowenbai.schema.yaml",
-      "sha256": "0fcf62650743f3f4da406f261a447022aabd3ba930c496343052be37faff28b0",
-      "size": 3470
+      "sha256": "6b3771f0e84980af2b308dd42392aec33aa3e946a52555848a55dc948ab6b484",
+      "size": 6458
     },
     {
       "path": "gannyu_fenni_special_gan.schema.yaml",
-      "sha256": "6522a9e9f9ae37bbeef41bc54e1a3fd2f1eb5a2f04a7318aa9eb2a5078aef16f",
-      "size": 3442
+      "sha256": "46d9bc565b8f34188c2edaf45c207ad8b0411f38493afdd8cb154d74f57724a2",
+      "size": 6430
     },
     {
       "path": "gannyu_fenni_special_gan_nowenbai.schema.yaml",
-      "sha256": "9683a1e561dc467706fb46913d19c5c5a0d1316ae7574177445d6d152efab176",
-      "size": 3461
+      "sha256": "26d4b608e89b96dc831b97dba1e65f71ff7f0e9623eb294e5f6d508cf2436a11",
+      "size": 6449
     },
     {
       "path": "gannyu_fenni_special_mix.schema.yaml",
-      "sha256": "df0895c3423f6e844554f9abee4bd146ec7ef9df78631f88a126eda8b6c0f419",
-      "size": 3419
+      "sha256": "2704621aeb99bea4a7391560d2c21d1b81e1be30e1ba400f83ade5938c5fd3b7",
+      "size": 6407
     },
     {
       "path": "gannyu_fenni_special_mix_nowenbai.schema.yaml",
-      "sha256": "7032fe6769035f093d5533e4ff459f4c9f5e8117e2c99c1b5d28e107a1fda3c2",
-      "size": 3438
+      "sha256": "31286de98b1e3274602c057c8ec1f255cd2c04414a2f7c14b16e4eb06c71583c",
+      "size": 6426
     },
     {
       "path": "lua/gannyu_annotation_filter.lua",
-      "sha256": "3ee4dad02b1ef320a6583bf814316c9640881395606d41954b1dae421e6086b5",
-      "size": 1299
+      "sha256": "7ba31dc81afd555178813466c3623d5cd9c524023c8caeb6a23c6b53c311955d",
+      "size": 3840
     },
     {
       "path": "lua/gannyu_annotation_store.lua",
@@ -292,8 +277,8 @@
     },
     {
       "path": "lua/gannyu_data_lifecycle.lua",
-      "sha256": "401b0f4a96eb9fa53c577d73da8f3648976155c02136650769e393e88f0cc2a6",
-      "size": 925
+      "sha256": "931aa3acddb26ea289ab72d20c36b45d75169c593c31e898c9e35d4c09d7501b",
+      "size": 1109
     },
     {
       "path": "lua/gannyu_fenni_annotations.bin",
@@ -357,8 +342,8 @@
     },
     {
       "path": "lua/gannyu_input_options.lua",
-      "sha256": "45fb9d65c0a24e74a101a2f46a67495b7dd0b2b7cb3861a9bed424cf04c00732",
-      "size": 1504
+      "sha256": "1f7fc6dcae7bf9886c37933a6263fdf36d04f10bcb95b775d069a542d8c2d0b4",
+      "size": 2061
     },
     {
       "path": "lua/gannyu_options_translator.lua",
@@ -376,7 +361,7 @@
       "size": 1616
     }
   ],
-  "product_version": "1.2.7",
+  "product_version": "1.3.0",
   "regions": [
     {
       "id": "fenni",
@@ -384,5 +369,5 @@
       "schema_id": "gannyu_fenni"
     }
   ],
-  "schema_version": "1.2.7"
+  "schema_version": "1.3.0"
 }
