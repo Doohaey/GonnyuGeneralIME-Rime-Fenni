@@ -1,10 +1,16 @@
 schema:
   schema_id: gannyu_fenni_both_norel_nowenbai
   name: fenni
-  version: "1.3.0"
+  version: "1.3.1"
 translator:
   dictionary: gannyu_fenni
   prism: gannyu_fenni_nowenbai
+  dictionary_exclude:
+    - "天亮"
+    - "太阳"
+    - "时候"
+    - "星星"
+    - "月亮"
   user_dict: gannyu_fenni_both_norel
   enable_user_dict: true
   enable_sentence: true

@@ -1,7 +1,7 @@
 schema:
   schema_id: gannyu_fenni_full_gan
   name: fenni
-  version: "1.3.0"
+  version: "1.3.1"
 translator:
   dictionary: gannyu_fenni
   prism: gannyu_fenni_full_gan

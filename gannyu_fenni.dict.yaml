@@ -3,7 +3,7 @@
 
 ---
 name: gannyu_fenni
-version: "1.3.0"
+version: "1.3.1"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -220506,10 +220506,10 @@ use_preset_vocabulary: false
 天井	Gtien jing	236
 天井	tian Gjiang	236
 天井	tian jing	236
-天亮	Gtien Gliong	630
-天亮	Gtien liang	630
-天亮	tian Gliong	630
-天亮	tian liang	630
+天亮	Gtien Gliong	119718
+天亮	Gtien liang	119718
+天亮	tian Gliong	119718
+天亮	tian liang	119718
 天人	Gtien Gnin	168
 天人	Gtien ren	168
 天人	tian Gnin	168
@@ -224139,10 +224139,12 @@ use_preset_vocabulary: false
 太钢	Gtoi gang	20
 太钢	tai Ggong	20
 太钢	tai gang	20
+太阳	Gte Gyong	112405
+太阳	Gte yang	112405
 太阳	Gtoi Gyong	5044
 太阳	Gtoi yang	5044
-太阳	tai Gyong	5044
-太阳	tai yang	5044
+太阳	tai Gyong	112405
+太阳	tai yang	112405
 太阳光	Gtoi Gyong Gguong	153
 太阳光	Gtoi Gyong guang	153
 太阳光	Gtoi yang Gguong	153
@@ -349423,10 +349425,10 @@ use_preset_vocabulary: false
 时侯	Gsi hou	10
 时侯	shi Gheu	10
 时侯	shi hou	10
-时候	Gsi Gheu	31521
-时候	Gsi hou	31521
-时候	shi Gheu	31521
-时候	shi hou	31521
+时候	Gsi Gheu	115543
+时候	Gsi hou	115543
+时候	shi Gheu	115543
+时候	shi hou	115543
 时值	Gsi Gzi	130
 时值	Gsi zhi	130
 时值	shi Gzi	130
@@ -352310,8 +352312,9 @@ use_preset_vocabulary: false
 昝	Ghon	12000
 昝	Gkan	3000
 昝	zan	12000
+星	Gxiang	127967
 星	Gxin	30000
-星	xing	30000
+星	xing	127967
 星云	Gxin Gyun	583
 星云	xing Gyun	583
 星云	xing yun	583
@@ -352346,10 +352349,12 @@ use_preset_vocabulary: false
 星夜	Gxin ye	297
 星夜	xing Gya	297
 星夜	xing ye	297
+星子	Gxiang Gzi	122823
 星子	Gxin Gzu	109
 星子	Gxin zi	109
+星子	xing Gzi	122823
 星子	xing Gzu	109
-星子	xing zi	109
+星子	xing zi	122823
 星宿	Gxin Gsu	551
 星宿	Gxin xiu	551
 星宿	xing Gsu	551
@@ -352385,10 +352390,10 @@ use_preset_vocabulary: false
 星族	Gxin Gzu	57
 星族	xing Gzu	57
 星族	xing zu	57
-星星	Gxin Gxin	398
-星星	Gxin xing	398
-星星	xing Gxin	398
-星星	xing xing	398
+星星	Gxin Gxin	111969
+星星	Gxin xing	111969
+星星	xing Gxin	111969
+星星	xing xing	111969
 星星之火	Gxin Gxin Gzi Gfo	41
 星星之火	Gxin Gxin Gzi huo	41
 星星之火	Gxin Gxin zhi Gfo	41
@@ -358172,10 +358177,10 @@ use_preset_vocabulary: false
 月下老人	yue xia Glau ren	9
 月下老人	yue xia lao Gnin	9
 月下老人	yue xia lao ren	9
-月亮	Gnyue Gliong	1037
-月亮	Gnyue liang	1037
-月亮	yue Gliong	1037
-月亮	yue liang	1037
+月亮	Gnyue Gliong	113321
+月亮	Gnyue liang	113321
+月亮	yue Gliong	113321
+月亮	yue liang	113321
 月亮泡	Gnyue Gliong Gpau	6
 月亮泡	Gnyue Gliong pao	6
 月亮泡	Gnyue liang Gpau	6
