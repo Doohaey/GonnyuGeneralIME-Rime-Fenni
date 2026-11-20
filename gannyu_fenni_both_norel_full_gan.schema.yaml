@@ -231,6 +231,9 @@ speller:
     - derive/^Gmien$/Fmiirn/
     - derive/^Gmieu$/Fmieru/
     - derive/^Gmieu$/Fmiiru/
+    - derive/^Gng$/Fen/
+    - derive/^Gng$/Fern/
+    - derive/^Gng$/Firn/
     - derive/^Gngau$/Fngao/
     - derive/^Gngeu$/Fngeru/
     - derive/^Gngeu$/Fngiru/
